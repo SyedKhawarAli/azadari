@@ -153,28 +153,45 @@ function EventSurface({
 
       <ol className="space-y-2.5 sm:space-y-3">
         {items.map((item, index) => {
+          const rtlTitle = isRtlText(item.title);
+          const rtlNote = isRtlText(item.note);
           const row = (
             <>
               <span className="w-5 shrink-0 text-xs tabular-nums text-muted-foreground sm:w-6 sm:text-sm">
                 {index + 1}.
               </span>
               <div className="min-w-0 flex-1">
-                <div className="flex flex-wrap items-center gap-1.5 sm:gap-2">
+                <div className="flex items-start gap-1.5 sm:gap-2">
                   <p
                     className={cn(
-                      isRtlText(item.title)
+                      "min-w-0 flex-1",
+                      rtlTitle
                         ? "urdu-title text-base sm:text-lg"
                         : "text-sm font-medium sm:text-base",
                     )}
+                    dir={rtlTitle ? "rtl" : undefined}
+                    lang={rtlTitle ? "ur" : undefined}
                   >
                     {item.title}
                   </p>
-                  <Badge variant="outline" className="h-5 px-1.5 text-[0.65rem] font-normal">
+                  <Badge
+                    variant="outline"
+                    className="h-5 shrink-0 px-1.5 text-[0.65rem] font-normal"
+                  >
                     {item.kind}
                   </Badge>
                 </div>
                 {item.note && (
-                  <p className="mt-1 text-xs text-muted-foreground sm:text-sm">{item.note}</p>
+                  <p
+                    className={cn(
+                      "mt-1 text-xs text-muted-foreground sm:text-sm",
+                      rtlNote && "urdu-title",
+                    )}
+                    dir={rtlNote ? "rtl" : undefined}
+                    lang={rtlNote ? "ur" : undefined}
+                  >
+                    {item.note}
+                  </p>
                 )}
               </div>
             </>

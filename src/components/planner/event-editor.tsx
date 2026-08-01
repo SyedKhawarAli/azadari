@@ -342,6 +342,7 @@ function SortableItem({
   const { attributes, listeners, setNodeRef, transform, transition, isDragging } = useSortable({
     id: item.id,
   });
+  const rtlTitle = isRtlText(item.title);
 
   return (
     <li
@@ -366,16 +367,27 @@ function SortableItem({
           <GripVertical className="size-4" />
         </button>
         <div className="min-w-0 flex-1 space-y-2">
-          <div className="flex flex-wrap items-center gap-2">
-            <span className="text-xs tabular-nums text-muted-foreground">{index + 1}.</span>
-            <p className={cn(isRtlText(item.title) ? "urdu-title text-base" : "text-sm font-medium")}>
+          <div className="flex items-start gap-2">
+            <span className="shrink-0 text-xs tabular-nums text-muted-foreground">
+              {index + 1}.
+            </span>
+            <p
+              className={cn(
+                "min-w-0 flex-1",
+                rtlTitle ? "urdu-title text-base" : "text-sm font-medium",
+              )}
+              dir={rtlTitle ? "rtl" : undefined}
+              lang={rtlTitle ? "ur" : undefined}
+            >
               {item.title}
             </p>
-            <Badge variant="outline">{item.lyricId ? "Lyric" : "Segment"}</Badge>
+            <Badge variant="outline" className="shrink-0">
+              {item.lyricId ? "Lyric" : "Segment"}
+            </Badge>
             {item.lyricId && (
               <Link
                 href={`/lyrics/${item.lyricId}?from=planner&eid=${encodeURIComponent(eventId)}`}
-                className="text-xs text-muted-foreground underline"
+                className="shrink-0 text-xs text-muted-foreground underline"
               >
                 Open
               </Link>
