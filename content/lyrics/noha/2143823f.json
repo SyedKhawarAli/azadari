@@ -1,0 +1,174 @@
+{
+  "id": "2143823f-56ab-54ca-8703-6fa5b5facde8",
+  "title": "اس نے دریا سے پکارا ہے مجھے",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=Mnig-LiaBeA&list=RDMnig-LiaBeA&start_radio=1",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=Mnig-LiaBeA&list=RDMnig-LiaBeA&start_radio=1"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اس نے دریا سے پکارا ہے مجھے , اس کی آواز نے مارا ہے مجھے",
+          "roman": "Iss ne dria se pkara hai mujhe, iss ki aaoaz ne mara hai mujhe"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "چلو اکبر میرے ہمراہ چلو, ملتی اب مجھ کو نہیں راہ چلو",
+          "roman": "Chlo Akbar mere hmrah chlo, mlti ab mujh ko nahi rah chlo"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یہ بڑے غم کا اشارہ ہے مجھے, اس کی آواز نے مارا ہے مجھے",
+          "roman": "Yeh bre ghm ka asharh hai mujhe, iss ki aaoaz ne mara hai mujhe"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اور ثانیے حیدر کرار ہے وہ , میرے لشکر کا علمدار ہے وہ",
+          "roman": "Aur sanie hidr krar hai woh, mere lshkr ka almdar hai woh"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "وہ دل و جان سے پیارا ہے مجھے , اس کی آواز میں مارا ہے مجھے",
+          "roman": "Woh dil o jaan se piara hai mujhe, iss ki aaoaz mein mara hai mujhe"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میرا ناصر میرے لشکر کی کمر , میرا بھائ بنی ہاشم کا قمر",
+          "roman": "Mera nasr mere lshkr ki kmr, mera bhay bni hashm ka qmr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اس کے بازو کا سہارا ہے مجھے , اس کی آواز نے مارا ہے مجھے",
+          "roman": "Iss ke bazo ka shara hai mujhe, iss ki aaoaz ne mara hai mujhe"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ارے کیوں نظر آتا نہیں مجھ کو علم , مر گیا کیا میرا سقاۓ حرم",
+          "roman": "Are kyun nzr aata nahi mujh ko alm, mr gaya kya mera sqa hrm"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اب کہاں جینا گوارا ہے مجھے , اس کی آواز نے مارا ہے مجھے",
+          "roman": "Ab kahan jina goara hai mujhe, iss ki aaoaz ne mara hai mujhe"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے ظلم بے خوف کرے گا لشکر , اور زینب کی چھنےگی چادر",
+          "roman": "Haye zlm be khof kre ga lshkr, aur Zainab ki chhnegi chadar"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اسی احساس نے مارا ہے مجھے , اس کی آواز میں مارا ہے مجھے",
+          "roman": "Asi ahsas ne mara hai mujhe, iss ki aaoaz mein mara hai mujhe"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ارے دل سے جینے کی لگن چھوٹ گئی , اس کے مرنے سے کمر ٹوٹ گئی",
+          "roman": "Are dil se jeene ki lgn chhot gayi, iss ke marne se kmr tot gayi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ایسا غم دے کے سدھارا ہے مجھے , اس کی آواز نے مارا ہے مجھے",
+          "roman": "Aisa ghm de ke sdhara hai mujhe, iss ki aaoaz ne mara hai mujhe"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "گر پڑے کہ کے حسین ابن علی , تیرے مرنے نےمیرے شیر جری",
+          "roman": "Gr pre keh ke Hussain AS abn Ali, tere marne nemire shir jri"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "موت سے پہلے ہی مارا ہے مجھے , اس کی آواز نے مارا ہے مجھے",
+          "roman": "Mot se phle hi mara hai mujhe, iss ki aaoaz ne mara hai mujhe"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہیں کہاں مجھ میں نسیم علم و ادب , ہے کرم شادماں عباس کا سب",
+          "roman": "Hain kahan mujh mein nsim alm o adb, hai krm shadman Abbas ka sab"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ان کی چاہت نے ابھارا ہے مجھے , ان کی چاہت نے ابھارا ہے مجھے",
+          "roman": "Un ki chaht ne abhara hai mujhe, un ki chaht ne abhara hai mujhe"
+        }
+      ]
+    },
+    {
+      "band_number": 10,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اس نے دریا سے پکارا ہے مجھے",
+          "roman": "Iss ne dria se pkara hai mujhe"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اس کی آواز میں مارا ہے مجھے",
+          "roman": "Iss ki aaoaz mein mara hai mujhe"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Iss ne dria se pkara hai mujhe"
+}

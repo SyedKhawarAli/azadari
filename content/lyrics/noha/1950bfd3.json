@@ -1,0 +1,206 @@
+{
+  "id": "1950bfd3-4791-523e-b719-9b861e263721",
+  "title": "ہائے ہائے قاسم",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=ji6ZvxcEINc",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=ji6ZvxcEINc"
+  ],
+  "personalities": [
+    "Hazrat Qasim (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "قیدی بن کر پابندِ رسن، لاشوں سے جو گزرے اہلِ حرم",
+          "roman": "Qidi bn kr pabnd-e rsn, lashon se jo gzre Ahl-e hrm"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہر بی بی اپنے پیاروں سے، ہوتی تھی وداع کر کے ماتم",
+          "roman": "Hr bi bi apne piaron se, hoti thi widaa kr ke matm"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ایک بی بی بنتِ فاطمہ، بنتِ حسن پامال بدن، قاسم کی بہن",
+          "roman": "Aik bi bi bnt-e fatmh, bnt-e Hasan pamal bdn, Qasim ki bhn"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کسی ایک جاں سے رخصت نہ ہوئی",
+          "roman": "Ksi aik jan se rkhst na hoyi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ٹکڑوں میں جو تھا بھائی کا بدن",
+          "roman": "Tkron mein jo tha bhayi ka bdn"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "کبھی اس ٹکڑے پر ہے قاسم، کبھی اس ٹکڑے پر ہائے قاسم",
+          "roman": "Kbhi iss tkre par hai qasm, kbhi iss tkre par haye Qasim"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "تیری بہن غریب نونہیں بھولنا",
+          "roman": "Teri bhn ghrib nonhin bholna"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "تیرے قتل کا منظر ہے قاسم",
+          "roman": "Tere qtl ka mnzr hai Qasim"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "ہائے ہائے قاسم",
+          "roman": "Haye haye Qasim"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کبھی سہرا دیکھ کے روتی تھی، کبھی غش کھا کے گرجاتی تھی",
+          "roman": "Kbhi shra dikh ke roti thi, kbhi ghsh kha ke grjati thi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "پامال ہوا تھا بھائی جہاں",
+          "roman": "Pamal hoa tha bhayi jhan"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اس خون پر گرکر ہے قاسم",
+          "roman": "Iss khon par grkr hai Qasim"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ہائے ہائے قاسم",
+          "roman": "Haye haye Qasim"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وچ رسیوں دے پابند ہوئی، نہ بہن غریب دا وس کوئی",
+          "roman": "Och rsion de pabnd hoyi, na bhn ghrib da os koyi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہوندے ہاتھ آزاد تے مرجاندی",
+          "roman": "Honde hath aazad te mrjandi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تیرا ماتم کر کر ہائے قاسم",
+          "roman": "Tera matm kr kr haye Qasim"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ہائے ہائے قاسم",
+          "roman": "Haye haye Qasim"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "فروا نے کہا بیٹا قاسم، کہہ دینا دادی زہرا سے",
+          "roman": "Froa ne kha bita qasm, khh dina dadi Zahra se"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "غربت کی کمائی ٹکڑوں میں",
+          "roman": "Ghurbat ki kmayi tkron mein"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "دیتی ہے سجاکر ہائے قاسم",
+          "roman": "Diti hai sjakr haye Qasim"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ہائے ہائے قاسم",
+          "roman": "Haye haye Qasim"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سانوں راس نہ آئی کربوبلا، تُو باج کفن میں باج ردأ",
+          "roman": "Sanon ras na aayi krbobla, to baj kfn mein baj rda"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تیرے قتل دے بعد لائینا نے",
+          "roman": "Tere qtl de bad layina ne"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میری لُٹ لئی چادر ہے قاسم",
+          "roman": "Meri lt lyi chadar hai Qasim"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ہائے ہائے قاسم",
+          "roman": "Haye haye Qasim"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہر سات محرم کو مہدی، تیری یاد میں قاسم اٹھتی ہے",
+          "roman": "Hr sat mhrm ko mhdi, teri iad mein Qasim athti hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دلہا دلہا قاسم دلہا",
+          "roman": "Dlha dlha Qasim dlha"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہوتا ہے لبوں پر ہائے قاسم",
+          "roman": "Hota hai labon par haye Qasim"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ہائے قاسم",
+          "roman": "Haye Qasim"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Haye haye Qasim"
+}

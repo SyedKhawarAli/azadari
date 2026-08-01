@@ -1,0 +1,115 @@
+{
+  "id": "9276b844-2c24-5479-a6c1-f987692c08fb",
+  "title": "ہم موت پے ہوں یا موت ہم پر",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": "Raza Abbas Shah",
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=EJMTwyxa_q0",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=EJMTwyxa_q0"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہم موت پے ہوں یا موت ہم پر",
+          "roman": "Hum mot pe hoon Ya mot hum par"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اس بات سے بابا ڈرنا کیا،ہمین یاد ہے فرما اکبر کا",
+          "roman": "Iss bat se baba drna kia,hmin iad hai frma Akbar ka"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہم پیروکار حسین کے ہیں، آ موت زرا ہم سے ٹکرا",
+          "roman": "Hum pirokar Hussain AS ke hin, a mot zra hum se tkra"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہمین یاد ہے فرماں اکبر کا",
+          "roman": "Hmin iad hai frman Akbar ka"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جب حق پر ہیں تو غم کیس، یہ جان تو آنی جانی ہے",
+          "roman": "Jab hq par hain to ghm kis, yeh jaan to aani jani hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اس موت کا لطف بتاؤں کیا، شیریں ہے شہد سے بھی زیادہ",
+          "roman": "Iss mot ka ltf btaon kia, shirin hai shhd se bhi ziadh"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "گر بَیعت شب کی بات آئے، ڈٹ جاؤ سامنے باطل کے",
+          "roman": "Gr biat shb ki bat aaye, dt jao samne batl ke"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "حق بات کہو سولی پر بھی، حق کی خاطر دو گھر لٹوا",
+          "roman": "Hq bat kho soli par bhi, hq ki khatr do ghr ltoa"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مت ڈال خلل اِس ماتم میں، جب ہم نے رونا چوڑ دیا",
+          "roman": "Mt dal khll iss-e matm min, jab hum ne rona chor dia"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ناممکن ہے پھر دنیا میں، مل جائے تم کو امن کی جا",
+          "roman": "Nammkn hai phir dnia min, ml jaye tum ko amn ki ja"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جب حق پر مرنا جانتے ہیں، باطل کو کچل بھی سکتے ہیں",
+          "roman": "Jab hq par mrna jante hin, batl ko kchl bhi skte hain"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہم حیدری اور حسینی ہیں ، اور ہم تو ہیں سب حِزبُ اُللّٰہ",
+          "roman": "Hum hidri aur hsini hain, aur hum to hain sab hzb-e Allah"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Hum mot pe hoon Ya mot hum par"
+}

@@ -1,0 +1,182 @@
+{
+  "id": "c613c68e-ea1e-5b07-a07f-d15463c4cde5",
+  "title": "الاماں الاماں",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=dsr3Hluv2qo&list=RDdsr3Hluv2qo&start_radio=1",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=dsr3Hluv2qo&list=RDdsr3Hluv2qo&start_radio=1"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بنتِ زہرہ بے رِدا ہے،الاماں ہے الاماں",
+          "roman": "Bnt-e zhrh be rida-e he,alaman hai alaman"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "شام میں محشر بپا ہے، الاماں ہے الاماں",
+          "roman": "Sham mein mhshr bpa he, alaman hai alaman"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بھیڑ ہے نامحرموں کی اور بے چادر سفر",
+          "roman": "Bhir hai namhrmon ki aur be chadar sfr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کند خنجر سے نہیں کم شام والوں کی نظر",
+          "roman": "Knd khnjr se nahi km sham oalon ki nzr"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "قتل زینب ہو رہا ہے   الاماں ہے الاماں",
+          "roman": "Qtl Zainab ho raha hai alaman hai alaman"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تعزیانے اور پتھر ہیں برستے گام گام",
+          "roman": "Taziane aur pthr hain brste gam gam"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "لا کے انگارے چھتوں سے پھنکتے ہیں اہلِ شام",
+          "roman": "La ke angare chhton se phnkte hain Ahl-e sham"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہر قدم پر کربلا ہے  الاماں ہے الاماں",
+          "roman": "Hr qdm par Karbala hai alaman hai alaman"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ایاتِ تطہیر ہے نوحہ کناں بازار میں",
+          "roman": "Aiat-e tthir hai nohh knan bazar mein"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "الحفیظ والامان سیدانیاں بازار میں",
+          "roman": "Alhfiz oalaman sidanian bazar mein"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "نگے سر آلِ عبا ہے   الاماں ہے الاماں",
+          "roman": "Nge sar Aal-e aba hai alaman hai alaman"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تیرا ضربیں دیکھنے سے بھی زیادہ ہے محال",
+          "roman": "Tera zrbin dikhne se bhi ziadh hai mhal"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "شاہ نے نوک سنا سے دیکھ کر زینب کا حال",
+          "roman": "Shah ne nok sna se dikh kr Zainab ka hal"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "بند آنکھوں کو کیا ہے  الاماں ہے الاماں",
+          "roman": "Bnd aankhon ko kya hai alaman hai alaman"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "خاک پر گر جاتا ہے عباس کا سر بار بار",
+          "roman": "Khak par gr jata hai Abbas ka sar bar bar"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کیوں شرابی کی زبانِ بے حیاء پر بار بار",
+          "roman": "Kyun shrabi ki zban-e be hia par bar bar"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "نامِ زینب آ رہا ہے  الاماں ہے الاماں",
+          "roman": "Nam-e Zainab a raha hai alaman hai alaman"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کیسے زندہ رہ سکے گی ظلم کے طوفان میں",
+          "roman": "Kise zndh rh ske gi zlm ke tofan mein"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مر ہی جائے گی سکینہ شام کے زندان میں",
+          "roman": "Mr hi jaye gi Sakina sham ke zndan mein"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "روشنی ہے نہ ہوا ہے  الاماں ہے الاماں",
+          "roman": "Roshni hai na hoa hai alaman hai alaman"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اے حسن فرشِ عزا پر یہ بھی ہے اجرِ عظیم",
+          "roman": "Aye Hasan frsh-e aza par yeh bhi hai ajr-e azim"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سن کےیہ نوحہ کریم کربلا کا اے کریم",
+          "roman": "Sn keih nohh krim Karbala ka Aye krim"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "محوِ ماتم سیدہ ہے  الاماں ہے الاماں",
+          "roman": "Mho-e matm sidh hai alaman hai alaman"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Alaman alaman"
+}

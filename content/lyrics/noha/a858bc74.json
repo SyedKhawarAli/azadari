@@ -1,0 +1,119 @@
+{
+  "id": "a858bc74-5331-5dbc-adfa-a8ac29779580",
+  "title": "اے اہل مودت اہل عزا، کردار حسینی یاد رہے",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=MqSA08kkckc&list=RDMqSA08kkckc&start_radio=1",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=MqSA08kkckc&list=RDMqSA08kkckc&start_radio=1"
+  ],
+  "personalities": [
+    "Imam Hussain (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اے اہل مودت اہل عزا، کردار حسینی یاد رہے",
+          "roman": "Aye Ahl mawaddat Ahl aza, krdar hsini iad rahe"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کہتی ہے ہمیں یہ کرب و بلا کردار حسینی یاد رہے",
+          "roman": "Khti hai hmin yeh krb o bla krdar hsini iad rahe"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "باطل کے خواب کو سرور نے، تعبیر کبھی بننے نہ دیا",
+          "roman": "Batl ke khoab ko sarwar ne, tabir kbhi bnne na dia"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سر دے کے بچایا دین نبی، اسلام کا سر جھکنے نہ دیا",
+          "roman": "Sar de ke bchaia din nbi, aslam ka sar jhkne na dia"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہو تم سے سوال جو بیعت کا، کردار حسینی یاد رہے",
+          "roman": "Ho tum se soal jo biat ka, krdar hsini iad rahe"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "حلیے سے نہہں بننا مومن، کردار بھی کچھ کرنا ہو گا",
+          "roman": "Hlie se nhhn bnna momn, krdar bhi kchh krna ho ga"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جینا ہے علی کے رستے پر، شبیر پے ہی مرنا ہو گا",
+          "roman": "Jina hai Ali ke rste pr, shbir pe hi mrna ho ga"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کرنا ہے جو شعیت کا دعویٰ، کردار حسینی یاد رہے",
+          "roman": "Krna hai jo shait ka daoi, krdar hsini iad rahe"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اس دور کے ظالم کے آگے، اس دور کے آمر کے آگے",
+          "roman": "Iss dor ke zalim ke aage, iss dor ke aamr ke aage"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سر تیرا نہ جھکنے پاے کبھی اس دور کے  فاجر کے آگے",
+          "roman": "Sar tera na jhkne pae kbhi iss dor ke fajr ke aage"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کہتا ہے مصلےٰ عابد کا،  کردار حسینی یاد رہے",
+          "roman": "Khta hai msle aabd ka, krdar hsini iad rahe"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نو لاکھ فسادی آےَ تھے جب شاہ شہیداں کے آگےَ",
+          "roman": "No lakh fsadi aae the jab shah shhidan ke aage"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "شبیر نے اُن کو پچّھاڑ دیاجو آے تھے یزداں کے آگے",
+          "roman": "Shbir ne un ko pchhar diajo aae the izdan ke aage"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جس دور میں بھی اُٹھے فتنا،کردار حسینی یاد رہے",
+          "roman": "Js dor mein bhi athe ftna,krdar hsini iad rahe"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Aye Ahl mawaddat Ahl aza, krdar hsini iad rahe"
+}

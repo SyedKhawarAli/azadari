@@ -1,0 +1,93 @@
+{
+  "id": "f1078995-d084-5cc1-90e1-0dad75870f56",
+  "title": "صدا شبیر کی آئی، نہیں ذلت گوارا ہے",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://youtu.be/4fnCpJ-wv-g?is=VY57T9vLJtSfLbvh",
+  "media_urls": [
+    "https://youtu.be/4fnCpJ-wv-g?is=VY57T9vLJtSfLbvh"
+  ],
+  "personalities": [
+    "Imam Hussain (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "صدا شبیر کی آئی، نہیں ذلت گوارا ہے",
+      "یہی نعرہ ہے رہبر کا، یہی نعرہ ہمارا ہے"
+    ],
+    "roman": [
+      "Sda shbir ki aayi, nahi zlt goara hai",
+      "Yehi narh hai rhbr ka, yehi narh hmara hai"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لبوں پہ نامِ سروَر ہے، سروں پہ سایۂ باطل",
+          "roman": "Labon ph nam-e sarwar he, sron ph sai batl"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جدا باطل سے ہو جاؤ، یہ مہدی کا اشارہ ہے",
+          "roman": "Jda batl se ho jao, yeh mhdi ka asharh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نہ ہم دولت پہ بکتے ہیں، نہ ہم شہرت پہ جھکتے ہیں",
+          "roman": "Na hum dolt ph bkte hin, na hum shhrt ph jhkte hain"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نمر میراث ہے اپنی، شمر ورثہ تمہارا ہے",
+          "roman": "Nmr miras hai apni, shmr orsh tmhara hai"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ولایت جسم و جاں میں ہے، یہی فرمانِ قرآن میں ہے",
+          "roman": "Wilayat jism o jan mein he, yehi frman-e qraan mein hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دفاع اِس کا کریں گے ہم، نہ بن اس کے گزارا ہے",
+          "roman": "Dfa iss-e ka krin ge hm, na bn iss ke gzara hai"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کوئی غاصب نہ بچ پائے، کوئی ناصب نہ چھپ جائے",
+          "roman": "Koyi ghasb na bch paye, koyi nasb na chhp jaye"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مٹائیں گے انہیں مل کے ، ہمیں حق نے اُبھارا ہے",
+          "roman": "Mtayin ge anhin ml ke, hmin hq ne abhara hai"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Sda shbir ki aayi, nahi zlt goara hai"
+}

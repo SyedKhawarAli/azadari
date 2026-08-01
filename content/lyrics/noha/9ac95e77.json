@@ -1,0 +1,172 @@
+{
+  "id": "9ac95e77-b32a-5ade-93ed-e4bafe313fe8",
+  "title": "امت نے فاطمہؑ کو کیوں غم دیا حسنؑ کا",
+  "type": "Noha",
+  "poet_name": "صفدر",
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Imam Hasan (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "امت نے فاطمہؑ کو کیوں غم دیا حسنؑ کا",
+          "roman": "Amt ne Fatima AS ko kyun ghm dia Hasan AS ka"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "پہلو میں مصطفٰیؐ کے حق نہ دیا دفن کا",
+          "roman": "Phlo mein mstfi ke hq na dia dfn ka"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نکلا ہے جب جنازہ سبطِ نبیؐ کا گھر سے",
+          "roman": "Nkla hai jab jnazh sbt-e nbi ka ghr se"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "لوگو نہ حال پوچھو کیا ہو گیا کفن کا",
+          "roman": "Logo na hal pochho kya ho gaya kfn ka"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ٹکڑے جگر کے اُگلے ایسا زہر پلایا",
+          "roman": "Tkre jgr ke agle aisa zhr plaia"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "امت نے مار ڈالا ہے شہنشاہِ امن کا",
+          "roman": "Amt ne mar dala hai shhnshah-e amn ka"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "زہراؑ کے گھر میں اُس دم کہرام مچ گیا تھا",
+          "roman": "Zahra AS ke ghr mein iss dm khram mch gaya tha"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "واپس جنازہ آیا جب خون میں تر حسنؑ کا",
+          "roman": "Oaps jnazh aaya jab khon mein tr Hasan AS ka"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "احمدؐ کا مرتضیٰؑ کا حسنینؑ و فاطمہؑ کا",
+          "roman": "Ahmad ka mrtzi AS ka hsnin AS o Fatima AS ka"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "غم ہی دیا اجر میں زینبؑ کو پنجتنؑ کا",
+          "roman": "Ghm hi dia ajr mein Zainab AS ko Panjatan AS ka"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جعدہ نے ظلم ڈھایا زہرِ دغا پلایا",
+          "roman": "Jadh ne zlm dhaia zhr-e dgha plaia"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کٹ کٹ کے ہائے آیا خون میں جگر حسنؑ کا",
+          "roman": "Kt kt ke haye aaya khon mein jgr Hasan AS ka"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "قاسمؑ کی لاش رن سے جب خیمہ گاہ میں آئی",
+          "roman": "Qasim AS ki lash rn se jab khimh gah mein aayi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مادر نے کیا ماتم شبرؑ کے گلبدن کا",
+          "roman": "Madr ne kya matm shbr AS ke glbdn ka"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "پامال رن میں دیکھی شہؑ نے جو لاشِ قاسمؑ",
+          "roman": "Pamal rn mein dikhi shh AS ne jo lash-e Qasim AS"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "رہ رہ کے خون اُگلنا یاد آگیا حسنؑ کا",
+          "roman": "Rh rh ke khon aglna iad aagia Hasan AS ka"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شبیرؑ نے اُٹھایا شبرؑ کا خود جنازہ",
+          "roman": "Shbir AS ne athaia shbr AS ka khod jnazh"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "لاشہ پڑا ہے رن میں شبیرؑ بے کفن کا",
+          "roman": "Lashh pra hai rn mein shbir AS be kfn ka"
+        }
+      ]
+    },
+    {
+      "band_number": 10,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "صفدر کریں وہ آساں سب مومنوں کی مشکل",
+          "roman": "Sfdr krin woh aasan sab momnon ki mshkl"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Amt ne Fatima AS ko kyun ghm dia Hasan AS ka"
+}

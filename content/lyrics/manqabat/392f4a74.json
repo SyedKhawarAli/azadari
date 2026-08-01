@@ -1,0 +1,69 @@
+{
+  "id": "392f4a74-1033-5a3c-9589-10079d7da4b8",
+  "title": "یا ربّا بس اہیو ہے دعا",
+  "type": "Manqabat",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اے چن تارے آسمان زمین ہر  جا تے تیرا جلوہ ہے",
+          "roman": "Aye chn tare aasman zmin hr ja te tera jloh hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہر شئے وچ توں ہی ظاہر ہن دس کیوں میرے توں پردہ ہے",
+          "roman": "Hr shye och ton hi zahr hn ds kyun mere ton prdh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جے آ جاویں توں سامنے تے تیرا کعبے تخت سجاوان گا",
+          "roman": "Je a jaoin ton samne te tera Kaabe tkht sjaoan ga"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اِک جھلک دکھا دے جے مینوں میں شوق دے وچ مر  جاواں گا",
+          "roman": "Ak-e jhlk dkha de je minon mein shoq de och mr jaoan ga"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جے رخ توں پردہ ہٹا دیویں تیرا نور  دارین تے چا جاوے",
+          "roman": "Je rkh ton prdh hta dioin tera noor darin te cha jaoe"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "تینوں ویکھن ڑ  لیئی آسمانان  تو عیسیٰ وی زمین تے آ  جاوے",
+          "roman": "Tinon oikhn r liyi aasmanan to aisi oi zmin te a jaoe"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "اے  سورج شرما  جاوے ، چن زہرہ دا آ جاوے",
+          "roman": "Aye sorj shrma jaoe, chn zhrh da a jaoe"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "یا ربّا بس اہیو  ہے دعا",
+          "roman": "Ya Rabba bs ahio hai dua"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Ya Rabba bs ahio hai dua"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "673dfe00-4b93-5c39-b2ca-8f03897dd577",
+  "title": "اب بھی آتی ہیں سکینہؑ کی صدائیں",
+  "type": "Noha",
+  "poet_name": "اختر حسین اختر",
+  "reciter_name": "راوی روڈ، لاہور پارٹی",
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Bibi Sakina (SA)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "اب بھی آتی ہیں سکینہؑ کی صدائیں لوگو ہائے زندانوں سے",
+      "میرے باباؑ کو ملا دو میں دعائیں دوں گی سسکیاں لے کے جو کہتی تھی مسلمانوں سے"
+    ],
+    "roman": [
+      "Ab bhi aati hain Sakina AS ki sdayin logo haye zndanon se",
+      "Mere baba AS ko mla do mein daayin don gi sskian le ke jo khti thi mslmanon se"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بولے سجادؑ سکینہؑ یہ مقدر تیرا",
+          "roman": "Bole sjad AS Sakina AS yeh mqdr tera"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بے کفن تجھ کو لئے پھرتا ہوں بازاروں میں اور لہو آج بھی جاری ہے تیرے کانوں سے",
+          "roman": "Be kfn tjh ko lye phrta hoon bazaron mein aur lho aaj bhi jari hai tere kanon se"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جا کے مقتل میں پکاری یہ سکینہؑ رو کر",
+          "roman": "Ja ke mqtl mein pkari yeh Sakina AS ro kr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بھیا قاسمؑ میرے اکبرؑ تم کہاں ہو سارے میرے باباؑ کو بچا لو آ کے شیطانوں سے",
+          "roman": "Bhia Qasim AS mere Akbar AS tum kahan ho sare mere baba AS ko bcha lo a ke shitanon se"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جب چلی گھر سے تیرے ساتھ سبھی تھے زینبؑ",
+          "roman": "Jab chli ghr se tere sath sbhi the Zainab AS"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "عونؑ و محمدؑ و اکبرؑ یاد آتے ہوں گے لوٹ کے آئی جو ہو گی تو بندی خانوں سے",
+          "roman": "Aon AS o Muhammad AS o Akbar AS iad aate hoon ge lot ke aayi jo ho gi to bndi khanon se"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لبِ دریا سے علمدارؑ کی آئی یہ صدا",
+          "roman": "Lb-e dria se almdar AS ki aayi yeh sda"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اے سکینہؑ تجھ سے شرمندہ ہے چاچا تیرا پانی پہنچا نہ سکا ہائے کٹے شانوں سے",
+          "roman": "Aye Sakina AS tjh se shrmndh hai chacha tera pani phncha na ska haye kte shanon se"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "آٹھ اذانیں بیک وقت فضا میں گونجیں",
+          "roman": "Aath azanin bik waqt fza mein gonjin"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ثانیِ زہراؑ کے خطبوں کو دبانے کے لیے شور برپا کیا دربار میں اذانوں سے",
+          "roman": "Sani-e Zahra AS ke khtbon ko dbane ke lie shor brpa kya drbar mein azanon se"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بولی معصومہؑ پھوپھی ریت ہے یہ شامیوں کی",
+          "roman": "Boli masomh AS phophi rit hai yeh shamion ki"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کر کے پابندِ رسن اور گرا کے پتھر اس طرح کوئی تو ملتا نہیں مہمانوں سے",
+          "roman": "Kr ke pabnd-e rsn aur gra ke pthr iss trh koyi to mlta nahi mhmanon se"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ساتھ گھوڑوں کے معصوموں کو دوڑایا جائے",
+          "roman": "Sath ghoron ke masomon ko doraia jaye"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کسی قانون یا مذہب میں کبھی ایسا سلوک کوئی انسان تو کرتا نہیں انسانوں سے",
+          "roman": "Ksi qanon Ya mzhb mein kbhi aisa slok koyi ansan to krta nahi ansanon se"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "قائم آلِ محمدؐ یہ ہے اختر کی دعا",
+          "roman": "Qaym Aal-e Muhammad yeh hai akhtr ki dua"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "صدقہ حسنینؑ کا اے مولاؑ صدائے ماتم اس طرح حشر تلک گونجے عزاخانوں سے",
+          "roman": "Sdqh hsnin AS ka Aye mola AS sdaye matm iss trh hshr tlk gonje azakhanon se"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Ab bhi aati hain Sakina AS ki sdayin"
+}

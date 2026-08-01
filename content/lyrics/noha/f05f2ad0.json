@@ -1,0 +1,215 @@
+{
+  "id": "f05f2ad0-9a94-5bb1-8aa4-7fe62c9b5300",
+  "title": "عباسؑ کہاں ہو بھائی",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=lSOn5Wid0qk&list=RDlSOn5Wid0qk&start_radio=1",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=lSOn5Wid0qk&list=RDlSOn5Wid0qk&start_radio=1"
+  ],
+  "personalities": [
+    "Hazrat Abbas (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "عباسؑ کہاں ہو بھائی",
+      "ہر بی بیؑ ہے گھبرائی",
+      "ہے فوجِ ہے لُوٹنے آئی",
+      "عباسؑ کہاں ہو بھائی"
+    ],
+    "roman": [
+      "Abbas AS kahan ho bhayi",
+      "Hr bi bi AS hai ghbrayi",
+      "Hai foj-e hai lotne aayi",
+      "Abbas AS kahan ho bhayi"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "عباسؑ میرے بھائی، یہ دیکھ میری تنہائی",
+          "roman": "Abbas AS mere bhayi, yeh dikh meri tnhayi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہائے عباسؑ",
+          "roman": "Haye Abbas AS"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہائے شامِ غریباں آئی",
+          "roman": "Haye sham-e ghriban aayi"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "پہرے پہ زہراؑ جائی",
+          "roman": "Phre ph Zahra AS jayi"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اٹھارہ برادر ہوں جس کے، چھن جائے اُسی بی بیؑ کی ردا",
+          "roman": "Atharh bradr hoon js ke, chhn jaye asi bi bi AS ki rida"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مارا ہے غریبوں کو پیاسا، لاشوں پہ ہمیں رونے نہ دیا",
+          "roman": "Mara hai ghribon ko piasa, lashon ph hmin rone na dia"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہائے لے گئی چادر ظالم",
+          "roman": "Haye le gayi chadar zalim"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "یہ کیسی قیامت آئی",
+          "roman": "Yeh kisi qayamat aayi"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بچی نے طمانچے کھائے ہیں، یہ ظلم ہوا ہم پر بھائی",
+          "roman": "Bchi ne tmanche khaye hin, yeh zlm hoa hum par bhayi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "چادر بھی چھینی، مسند بھی جلی، خیموں میں آگ لگی بھائی",
+          "roman": "Chadar bhi chhini, msnd bhi jli, khimon mein aag lgi bhayi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جلتے ہوئے خیموں سے میں",
+          "roman": "Jlte hoye khimon se mein"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "عابدؑ کو بچا لے آئی",
+          "roman": "Aabd AS ko bcha le aayi"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یہ گرم زمیں، سہمے بچے، میں کیسے انہیں سمجھاؤں",
+          "roman": "Yeh grm zmin, shme bche, mein kise anhin smjhaon"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "روتے ہیں تڑپتے ہیں پیاسے، میں پانی کہاں سے لاؤں",
+          "roman": "Rote hain trpte hain piase, mein pani kahan se laon"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کوئی بھی نہیں ہے باقی",
+          "roman": "Koyi bhi nahi hai baqi"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "اب کون کرے سقا ئی؟",
+          "roman": "Ab kon kre sqa yi?"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "غیرت کے خدا تجھ کو ہے خبر، جانا ہے ابھی بازاروں میں",
+          "roman": "Ghirt ke Khuda tjh ko hai khbr, jana hai abhi bazaron mein"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "پابندِ رسن اور بے چادر، جانا ہے ابھی بازاروں میں",
+          "roman": "Pabnd-e rsn aur be chadr, jana hai abhi bazaron mein"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہر گام کروں گی نوحہ",
+          "roman": "Hr gam kron gi nohh"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "جب شام کی بستی آئی",
+          "roman": "Jab sham ki bsti aayi"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اک ایسا ستم ہو گا غازیؑ، تُو جھیل نہیں پائے گا",
+          "roman": "Ak aisa stm ho ga ghazi, AS to jhil nahi paye ga"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سر تیرا نوکِ نیزہ سے، اے شیرِ جری گر جائے گا",
+          "roman": "Sar tera nok-e nizh se, Aye shir-e jri gr jaye ga"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جس وقت کہے گی زینبؑ",
+          "roman": "Js waqt khe gi Zainab AS"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "باغی کی بہن کہلائ",
+          "roman": "Baghi ki bhn khlay"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "فرحان اور مظہر یہ منظر، کاغذ پہ نہیں لا سکتے",
+          "roman": "Frhan aur mzhr yeh mnzr, kaghz ph nahi la skte"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جب آئے سواری حیدرؑ کی، زینبؑ نے کہا تھا روتے ہوئے",
+          "roman": "Jab aaye soari hidr AS ki, Zainab AS ne kha tha rote hoye"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "پھٹتا ہے کلیجہ غم سے",
+          "roman": "Phtta hai klijh ghm se"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "باباؑ کی سواری آئی",
+          "roman": "Baba AS ki soari aayi"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Abbas AS kahan ho bhayi"
+}

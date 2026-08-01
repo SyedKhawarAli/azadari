@@ -1,0 +1,113 @@
+{
+  "id": "5af31bce-2d14-5e32-9bb6-f02e7225f2af",
+  "title": "جہان روضہِ پاکِ خیرالوری ہے",
+  "type": "Manqabat",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Prophet Muhammad (SAWW)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جہان روضہِ پاکِ خیرالوری ہے،  وُہ جنت نہیں ہے تو پھر اور کیا ہے",
+          "roman": "Jahan rauza-e paak-e khiralori he, woh jnt nahi hai to phir aur kya hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کہاں میں کہاں یہ مدینہ کی گلیاں، یہ قسمت نہیں ہے تو پھر اور کیا ہے",
+          "roman": "Kahan mein kahan yeh Madina ki glian, yeh qsmt nahi hai to phir aur kya hai"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "محمد کی عظمت کو کیا پوچھتے ہو، کے وہ صاحبِ کعبہ قَوسیں ٹھہرے",
+          "roman": "Muhammad ki azmt ko kya pochhte ho, ke woh sahb-e Kaaba qosin thhre"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بشر کی سر عرش مہماں نوازی ، یہ عظمت نہیں ہے تو پھر اور کیا ہے",
+          "roman": "Bshr ki sar arsh mhman noazi, yeh azmt nahi hai to phir aur kya hai"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جو عاصی کو کملی میں اپنی چھپالے، جو دشمن کو بھی زخم کھا کر دعا دے",
+          "roman": "Jo aasi ko kmli mein apni chhpale, jo dshmn ko bhi zkhm kha kr dua de"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اسے اور کیا نام دے گا زمانہ وہ رحمت نہیں ہے تو پھر اور کیا ہے",
+          "roman": "Ase aur kya nam de ga zmanh woh rhmt nahi hai to phir aur kya hai"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شفاعت قیامت کی تابع نہیں ہے ، یہ چشمہ تو روز ازل سے ہے جاری",
+          "roman": "Shfaat qayamat ki taba nahi hai, yeh chshmh to roz azl se hai jari"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "خطا کار بندوں پر لطف مسلسل شفاعت نہیں ہے تو پھر اور کیا ہے",
+          "roman": "Khta kar bndon par ltf mslsl shfaat nahi hai to phir aur kya hai"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "قیامت کا اک دن معین ہے لیکن، ہمارے لیے ہر نفس ہے قیامت",
+          "roman": "Qayamat ka ak din main hai likn, hamare lie hr nfs hai qayamat"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مدینے سے ہم جاں نثاروں کی دوری ،قیامت نہیں ہے، تو پھر اور کیا ہے",
+          "roman": "Madine se hum jan nsaron ki dori,qiamt nahi he, to phir aur kya hai"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تم اقبال یہ نعت کہہ تو رہے ہو، مگر یہ بھی سوچا کہ کیا کر رہے ہو",
+          "roman": "Tum aqbal yeh nat khh to rahe ho, magar yeh bhi socha keh kya kr rahe ho"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کہاں تم کہاں مدح ممدوح یزداں، یہ جرات نہیں ہے تو پھر اور کیا ہے",
+          "roman": "Kahan tum kahan mdh mmdoh izdan, yeh jrat nahi hai to phir aur kya hai"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Jahan rauza-e paak-e khiralori hai"
+}

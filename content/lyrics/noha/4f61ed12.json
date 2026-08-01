@@ -1,0 +1,141 @@
+{
+  "id": "4f61ed12-b5bd-52e1-a639-0252c5a10412",
+  "title": "جہاں میں قید ہوں بابا بڑا اندھیرا ہے",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=TQTdXcDPxFQ&t=1443s",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=TQTdXcDPxFQ&t=1443s"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)",
+    "Bibi Sakina (SA)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جہاں میں قید ہوں بابا بڑا اندھیرا ہے",
+          "roman": "Jhan mein qid hoon baba bra andhira hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تیری سکینہ کو تاریکیوں نے گھیرا ہے",
+          "roman": "Teri Sakina ko tarikion ne ghira hai"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بس ایک بار جو آ کر ملو تو سو جاؤں",
+          "roman": "Bs aik bar jo a kr mlo to so jaon"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میں اپنے بابا کے سر پر نثار ہو جاؤں",
+          "roman": "Mein apne baba ke sar par nsar ho jaon"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اُکھڑتی سانسوں کو اب انتظار تیرا ہے",
+          "roman": "Akhrti sanson ko ab antzar tera hai"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لگیں تماچے تو بے ہوش غم سے ہو جاؤں",
+          "roman": "Lgin tmache to be hosh ghm se ho jaon"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بڑھے تماچوں کی شدت تو ہوش میں آؤں",
+          "roman": "Brhe tmachon ki shdt to hosh mein aaon"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "یہی ہے رات میری اور یہی سویرا ہے",
+          "roman": "Yehi hai raat meri aur yehi soira hai"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تمنا دل سے رہائی کی مٹ گئی بابا",
+          "roman": "Tmna dil se rhayi ki mt gayi baba"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مدینے جانے کی حسرت نہیں رہی بابا",
+          "roman": "Madine jane ki hsrt nahi rahi baba"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "مجھے یہ لگتا ہے اب قید میں بسیرا ہے",
+          "roman": "Mujhe yeh lgta hai ab qid mein bsira hai"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لعین نے ماری تھی بابا تیرے لبوں پہ چھڑی",
+          "roman": "Lain ne mari thi baba tere labon ph chhri"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تو چلتے ناقے سے میں منہ کے بل زمیں پہ گری",
+          "roman": "To chlte naqe se mein mnh ke bl zmin ph gri"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جو حال تیرا ہوا تھا وہ حال میرا ہے",
+          "roman": "Jo hal tera hoa tha woh hal mera hai"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تڑپ کے کہتی تھی اکبر یہ لاڈلی شہ کی",
+          "roman": "Trp ke khti thi Akbar yeh ladli shh ki"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میں کیا بتاؤں مجھے پوچھتے ہیں یہ شامی",
+          "roman": "Mein kya btaon mujhe pochhte hain yeh shami"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اسیر ساتھ تیرے کون کون تیرا ہے",
+          "roman": "Asir sath tere kon kon tera hai"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Jhan mein qid hoon baba bra andhira hai"
+}

@@ -1,0 +1,126 @@
+{
+  "id": "357ae582-36d4-5f7c-a848-272f9c0bd0cc",
+  "title": "مجھے بارھویں لال ولایت کا",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://youtu.be/Yzm3-h0PexE",
+  "media_urls": [
+    "https://youtu.be/Yzm3-h0PexE"
+  ],
+  "personalities": [
+    "Prophet Muhammad (SAWW)",
+    "Imam Mahdi (AJ)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "مجھے بارھویں لال ولایت کا، فرمان سنانا لازم ہے",
+      "کربل کے ماننے والوں پر، باطل کا مٹانا لازم"
+    ],
+    "roman": [
+      "Mujhe barhoin laal wilayat ka, frman snana lazm hai",
+      "Krbl ke manne oalon pr, batl ka mtana lazm"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "العجل تو یاد رکھا تم نے، لیکن جوفرض تھا بھول گئے",
+          "roman": "Alajl to iad rkha tum ne, lekin jofrz tha bhol gaye"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میرے آنے سے پہلے تم پہ، یہ قوم جگانہ لازم ہے",
+          "roman": "Mere aane se phle tum ph, yeh qom jganh lazm hai"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جن کا تُم ماتم  کرتے ہو، اُن کی نظریں تُم سب پر ہیں",
+          "roman": "Jin ka tum matm krte ho, un ki nzrin tum sab par hain"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اس پاک عبادت میں اُن کا، کردار نبھانہ لازم ہے",
+          "roman": "Iss paak ibadat mein un ka, krdar nbhanh lazm hai"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میری قوم کے یہ کمسِن بچے، شجر کربل کی ُُکوپنلیں ہیں",
+          "roman": "Meri qom ke yeh kmsn-e bche, shjr krbl ki kopnlin hain"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ان کو اصغر کے جزبے کا، مِعیار بنانا لازم ہے",
+          "roman": "Un ko Asghar ke jzbe ka, maiar-e bnana lazm hai"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "راہ شبیر میں یاد رکھو، گَھر بار لُٹانا پڑتے ہیں",
+          "roman": "Rah shbir mein iad rkho, ghr bar ltana prte hain"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جانیں بھی گوانی پڑتی ہیں، چادر بھی لُٹانا لازم ہے",
+          "roman": "Janin bhi goani prti hin, chadar bhi ltana lazm hai"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یہ کس نے کہا جب ظلم  بَڑھے، تو صبر یا تَقیہ کر لینا",
+          "roman": "Yeh ks ne kha jab zlm brhe, to sbr Ya tqih kr lina"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میرے مولا تو فرماتے ہیں، ہَتھیار اُٹھانا لازم ہے",
+          "roman": "Mere mola to frmate hin, hthiar athana lazm hai"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اے قوم گواہ رَہنا تم تک، میں نے   پیغام  پُہنچایا ہے",
+          "roman": "Aye qom goah rhna tum tk, mein ne pigham phnchaia hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ارشاد  یہ مجھ پر واجب تَھا، وَاجب کا نبھانہ لازم ہے",
+          "roman": "Arshad yeh mujh par oajb tha, oajb ka nbhanh lazm hai"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Mujhe barhoin laal wilayat ka"
+}

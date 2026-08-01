@@ -1,0 +1,142 @@
+{
+  "id": "d6749ed0-6e42-5e3a-b627-70a1c856e37c",
+  "title": "تیرا چہلُم بھائی منانے,کربلا پھر آئی ہے زینب",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=VscTKgsmtnQ",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=VscTKgsmtnQ"
+  ],
+  "personalities": [
+    "Syeda Zainab (SA)"
+  ],
+  "events": [
+    "Chehlum / Arbaeen"
+  ],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تیرا چہلُم بھائی منانے     کربلا پھر آئی ہے زینب",
+          "roman": "Tera chhlm bhayi mnane Karbala phir aayi hai Zainab"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کربلا کی بستی بسانے       کربلا پھر آئی ہے زینب",
+          "roman": "Karbala ki bsti bsane Karbala phir aayi hai Zainab"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کِس قدر تھی مجبور زینب, کربلا سے جِس دَم چلی تھی",
+          "roman": "Ks-e qdr thi mjbor Zainab, Karbala se js-e dm chli thi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بے رِدا تھی قیدی تھی بھیا, ورنہ کفن بھی میں تُجھ کو دیتی",
+          "roman": "Be rida-e thi qidi thi bhia, ornh kfn bhi mein tjh ko diti"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "دیکھو وعدہ اپنا نبھانے    , کربلا پھر آئی ہے زینب",
+          "roman": "Dikho oadh apna nbhane, Karbala phir aayi hai Zainab"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بھائی تیرے سُوکھے گلے پر, چل رہا تھا جب کُند خنجر",
+          "roman": "Bhayi tere sokhe gle par, chl raha tha jab knd khnjr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میرے پلکوں پہ میرے آنسو, کرتے تھے رُک رُک کر بین تُجھ پر",
+          "roman": "Mere plkon ph mere aanso, krte the rk rk kr bin tjh par"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "پیاس بھائی تیری بجھانے , کربلا پھر آئی ہے زینب",
+          "roman": "Pias bhayi teri bjhane, Karbala phir aayi hai Zainab"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یہ سکینہ کہتی تھی مُجھ سے, جو بھی گزری مُجھ پر مُصیبت",
+          "roman": "Yeh Sakina khti thi mujh se, jo bhi gzri mujh par musibat"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میرے بابا سے جاکے کہنا, اماں یہی ہے میری وصیت",
+          "roman": "Mere baba se jake khna, aman yehi hai meri osit"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہر مصائب اُس کا سُنانے    , کربلا پھر آئی ہے زینب",
+          "roman": "Hr msayb iss ka snane, Karbala phir aayi hai Zainab"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تُجھ کو جِی بھر کے رو نہ پائی, رہ گئی تھی دِل میں یہ حسرت",
+          "roman": "Tjh ko ji-e bhr ke ro na payi, rh gayi thi dil-e mein yeh hsrt"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میرے بھائی اَشکوں سے اپنے, کرنے میں آئی ہوں تیری خِدمت",
+          "roman": "Mere bhayi ashkon se apne, krne mein aayi hoon teri khdmt-e"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "آنسوں کی چادر بچھانے   , کربلا پھر آئی ہے زینب",
+          "roman": "Aanson ki chadar bchhane, Karbala phir aayi hai Zainab"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اے مظفر درویش اُس دَم, بِیبیوں میں برپا تھا محشر",
+          "roman": "Aye mzfr droish iss dm, bibion-e mein brpa tha mhshr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "روکے زینب جب یہ پُکاری, اے میرے بھائی تیری لحد پر",
+          "roman": "Roke Zainab jab yeh pkari, Aye mere bhayi teri lhd par"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "باوفا کا پرچم لگانے,کربلا پھر آئی ہے زینب",
+          "roman": "Baofa ka prchm lgane,Karbala phir aayi hai Zainab"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Tera chhlm bhayi mnane,Karbala phir aayi hai Zainab"
+}

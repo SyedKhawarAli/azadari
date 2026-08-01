@@ -1,0 +1,424 @@
+{
+  "id": "f1c90037-f014-529c-a232-19e3381c9601",
+  "title": "عشقم امام حسین",
+  "type": "Noha",
+  "poet_name": "یاسر عباس شاہ، سیدہ نقوی",
+  "reciter_name": "احمد رضا ناصری",
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=ArmYXnGCsVI",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=ArmYXnGCsVI"
+  ],
+  "personalities": [
+    "Imam Hussain (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "عشقم امام حسینؑ",
+      "جانم امام حسینؑ",
+      "تیرے عاشق آدم، نوح و خاتم، امام حسینؑ"
+    ],
+    "roman": [
+      "Ashqm amam Hussain AS AS",
+      "Janm amam Hussain AS AS",
+      "Tere aashq aadm, noh o khatm, amam Hussain AS AS"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تو وقارِ شاہِ بندگی",
+          "roman": "To oqar-e shah-e bndgi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تو قرارِ روحِ زندگی",
+          "roman": "To qrar-e rooh-e zndgi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تو عصائے جانِ بیکسی",
+          "roman": "To asaye jaan-e biksi"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "تیرے بس میں سب کی بیبسی",
+          "roman": "Tere bs mein sab ki bibsi"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "وہ صدا ہَل مِن ہے تیری",
+          "roman": "Woh sda hl mn-e hai teri"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "جو پکارتی ہے آج بھی",
+          "roman": "Jo pkarti hai aaj bhi"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "دور غموں کو کر دیتا ہے تیرا غم امام حسینؑ",
+          "roman": "Dor ghmon ko kr dita hai tera ghm amam Hussain AS AS"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہے انبیا کا خیال تو",
+          "roman": "Hai anbia ka khial to"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہے وارثِ بے مثال تو",
+          "roman": "Hai oars-e be msal to"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "بَلَغَ الْعُلٰی بِکَمَالِہٖ تو",
+          "roman": "Blgh alali bkmalh-e to"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "کَشَفَ الدُّجٰی بِجَمَالِہٖ تو",
+          "roman": "Kshf aldji bjmalh-e to"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "حَسُنَتْ جَمِیعُ خِصَالِہٖ تو",
+          "roman": "Hsnt jmia-e khsalh-e to"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "صَلُّوا عَلَیْہِ وَ آلِہٖ تو",
+          "roman": "Sloa alih-e o aalh-e to"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "جانِ درودِ پیغمبر ہے تیرا دم امام حسینؑ",
+          "roman": "Jaan-e darood-e Payghambar hai tera dm amam Hussain AS AS"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اے وجودِ شاہِ کربلا",
+          "roman": "Aye ojod-e shah-e Karbala"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اے دلیلِ نورِ کبریا",
+          "roman": "Aye dlil-e noor-e kbria"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "وہ کریم تو ہے باخدا",
+          "roman": "Woh krim to hai bakhda"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "جو اگر بجھا دے اک دیا",
+          "roman": "Jo agar bjha de ak dia"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "کئی سورجوں کا قافلہ",
+          "roman": "Kyi sorjon ka qaflh"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "یہ پکارتا ہے ہم فدا",
+          "roman": "Yeh pkarta hai hum fda"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "نور سے تیرے روشن ہے کل عالم امام حسینؑ",
+          "roman": "Noor se tere roshan hai kl aalam amam Hussain AS AS"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تجھے کیا مٹائے کوئی شر",
+          "roman": "Tjhe kya mtaye koyi shr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تو یزیدیوں کے دل میں ڈر",
+          "roman": "To izidion ke dil mein dr"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اے امامِ جن و البشر",
+          "roman": "Aye amam-e jin o albshr"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "تیرا رعب رعبِ ذوالاثر",
+          "roman": "Tera rab rab-e zoalasr"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "جو زبر ہے ابھی بھی زیر پر",
+          "roman": "Jo zbr hai abhi bhi zir par"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "جو جلالِ حق ہے معتبر",
+          "roman": "Jo jlal-e hq hai matbr"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "شیرِ خدا کا شیر ہے تیرا ضیغم امام حسینؑ",
+          "roman": "Shir-e Khuda ka shir hai tera zighm amam Hussain AS AS"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اے بہارِ جانِ عاشقاں",
+          "roman": "Aye bhar-e jaan-e aashqan"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اے سکونِ قلبِ مہرباں",
+          "roman": "Aye skon-e qlb-e mhrban"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تو شہیدِ عشقِ جاوداں",
+          "roman": "To shhid-e ashq-e jaodan"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "تیرا درد بحرِ بیکراں",
+          "roman": "Tera drd bhr-e bikran"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "تیری غربتوں کی داستان",
+          "roman": "Teri ghrbton ki dastan"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "لکھے خون رنگ آسماں",
+          "roman": "Lkhe khon rng aasman"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "تیرا گھر ہے میری چشمِ پرنم امام حسینؑ",
+          "roman": "Tera ghr hai meri chshm-e prnm amam Hussain AS AS"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دل کی ہے آج آرزو",
+          "roman": "Dil ki hai aaj aarzo"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مولا ہوں تیرے روبرو",
+          "roman": "Mola hoon tere robro"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اشکوں سے آنکھیں باوضو",
+          "roman": "Ashkon se aankhein baozo"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "کرتا ہوں قلب گفتگو",
+          "roman": "Krta hoon qlb gftgo"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "تیرے لہو کا رنگ و بو",
+          "roman": "Tere lho ka rng o bo"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "پھیلا ہو نور چار سو",
+          "roman": "Phila ho noor char so"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "کاش ہو کرب و بلا کی گلیاں",
+          "roman": "Kash ho krb o bla ki glian"
+        },
+        {
+          "misra_number": 8,
+          "urdu": "اور ہم امام حسینؑ",
+          "roman": "Aur hum amam Hussain AS AS"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اے غریبِ دشتِ نینوا",
+          "roman": "Aye ghrib-e dasht-e ninoa"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اے شہیدِ ارضِ کربلا",
+          "roman": "Aye shhid-e arz-e Karbala"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تیرے قرب نہرِ علقمہ",
+          "roman": "Tere qrb nhr-e alqmh"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "تیری پیاس پر ہے غمزدہ",
+          "roman": "Teri pias par hai ghmzdh"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "تہِ تیغ ابنِ سیدہ",
+          "roman": "Th-e tigh abn-e sidh"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "تجھے رو رہی ہے خود قضا",
+          "roman": "Tjhe ro rahi hai khod qaza"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "زینب یہ کہہ کر کرتی ہے ماتم امام حسینؑ",
+          "roman": "Zainab yeh khh kr krti hai matm amam Hussain AS AS"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یا حسینؑ یا حسینؑ",
+          "roman": "Ya Hussain AS AS Ya Hussain AS AS"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یا حسینؑ یا حسینؑ",
+          "roman": "Ya Hussain AS AS Ya Hussain AS AS"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "زیرِ ستم تیرا ہے سر",
+          "roman": "Zir-e stm tera hai sar"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ہاتھ ہے شل خم ہے کمر",
+          "roman": "Hath hai shl khm hai kmr"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "خستۂ دل، جان و جگر",
+          "roman": "Khst dl, jaan o jgr"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "ریش تیری خون میں تر",
+          "roman": "Rish teri khon mein tr"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "فکرِ ردا کا ہے اثر",
+          "roman": "Fkr-e rida ka hai asr"
+        },
+        {
+          "misra_number": 8,
+          "urdu": "تجھ پہ قیامت کا گزر",
+          "roman": "Tjh ph qayamat ka gzr"
+        },
+        {
+          "misra_number": 9,
+          "urdu": "اب تیرے یاور نہ رہے یا حسینؑ",
+          "roman": "Ab tere iaor na rahe Ya Hussain AS AS"
+        },
+        {
+          "misra_number": 10,
+          "urdu": "قاسم و اکبر نہ رہے یا حسینؑ",
+          "roman": "Qasim o Akbar na rahe Ya Hussain AS AS"
+        },
+        {
+          "misra_number": 11,
+          "urdu": "غازی دلاور نہ رہے یا حسینؑ",
+          "roman": "Ghazi dlaor na rahe Ya Hussain AS AS"
+        },
+        {
+          "misra_number": 12,
+          "urdu": "حد ہے یہ اصغر نہ رہے یا حسینؑ",
+          "roman": "Hd hai yeh Asghar na rahe Ya Hussain AS AS"
+        },
+        {
+          "misra_number": 13,
+          "urdu": "رب کی قسم حسینؑ حسینؑ",
+          "roman": "Rabb ki qsm Hussain AS AS Hussain AS AS"
+        },
+        {
+          "misra_number": 14,
+          "urdu": "شاہِ امم حسینؑ حسینؑ",
+          "roman": "Shah-e amm Hussain AS AS Hussain AS AS"
+        },
+        {
+          "misra_number": 15,
+          "urdu": "رب کا بھرم حسینؑ حسینؑ",
+          "roman": "Rabb ka bhrm Hussain AS AS Hussain AS AS"
+        },
+        {
+          "misra_number": 16,
+          "urdu": "خونِ رقم حسینؑ حسینؑ",
+          "roman": "Khon-e rqm Hussain AS AS Hussain AS AS"
+        },
+        {
+          "misra_number": 17,
+          "urdu": "دینِ دلم",
+          "roman": "Din-e dlm"
+        },
+        {
+          "misra_number": 18,
+          "urdu": "جانِ منم",
+          "roman": "Jaan-e mnm"
+        },
+        {
+          "misra_number": 19,
+          "urdu": "یاسر اور احمد کا دینِ محکم امام حسینؑ",
+          "roman": "Iasr aur Ahmad ka din-e mhkm amam Hussain AS AS"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Ashqm amam Hussain AS"
+}

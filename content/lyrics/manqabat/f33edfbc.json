@@ -1,0 +1,96 @@
+{
+  "id": "f33edfbc-1ed8-5322-a1f1-cd76e127e0ba",
+  "title": "ہمسر علی ولی کا ہو، بندے کی کیا مجال ہے",
+  "type": "Manqabat",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Imam Ali (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہمسر علی ولی کا ہو، بندے کی کیا مجال ہے",
+          "roman": "Hmsr Ali oli ka ho, bnde ki kya mjal hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جس کو خدا نے چن لیا، کیسا وہ با کمال ہے",
+          "roman": "Js ko Khuda ne chn lia, kisa woh ba kmal hai"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بے خوف رات کو علی بستر نبی پہ سو گیا",
+          "roman": "Be khof raat ko Ali bstr nbi ph so gaya"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بدلی ادا سے کروٹیں، خالق نے دہکھ کر کہا",
+          "roman": "Bdli ada se krotin, khalq ne dhkh kr kha"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تیری قسم ہے یا علی سونا یہ باکمال ہے",
+          "roman": "Teri qsm hai Ya Ali sona yeh bakmal hai"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دے لو اذان حاسدو، آتی نہی شرم تمہیں",
+          "roman": "De lo azan hasdo, aati nhi shrm tumhein"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "لقنت جو ہے زبان کی یہی پسند ہے مجھے",
+          "roman": "Lqnt jo hai zban ki yehi psnd hai mujhe"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کیوں ہو صبح کی روشنی، ناراض جو بلال ہے",
+          "roman": "Kyun ho sbh ki roshni, naraz jo blal hai"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سجدہ تویل ہو تو ہو، سر نہ مگر اٹھایو",
+          "roman": "Sjdh toil ho to ho, sar na magar athaio"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اترے تو اپنے آپ ہی، تم نہ اسے اٹھایو",
+          "roman": "Atre to apne aap hi, tum na ase athaio"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میرا حسین خوش رہے، بس یہ تیری نماز ہے",
+          "roman": "Mera Hussain AS khosh rhe, bs yeh teri namaz hai"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Hmsr Ali oli ka ho, bnde ki kya mjal hai"
+}

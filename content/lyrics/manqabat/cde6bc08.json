@@ -1,0 +1,239 @@
+{
+  "id": "cde6bc08-716d-539a-bb3b-f599a4017549",
+  "title": "کربلا جانے کا ارمان ہے مولا",
+  "type": "Manqabat",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://youtu.be/-BpCGAxcsIM",
+  "media_urls": [
+    "https://youtu.be/-BpCGAxcsIM"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "کربلا جانے کا ارمان ہے مولا",
+      "آپ کا بندہ پریشان ہے مولا"
+    ],
+    "roman": [
+      "Karbala jane ka arman hai mola",
+      "Aap ka bndh prishan hai mola"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میرے اَحباب سبھی کربولا ہو آئے",
+          "roman": "Mere ahbab sbhi krbola ho aaye"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میں ہی رہ جاتا ہوں ہر سال وطن میں ہائے",
+          "roman": "Mein hi rh jata hoon hr sal otn mein haye"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کیا میرے جانے کا امکان ہے مولا",
+          "roman": "Kya mere jane ka amkan hai mola"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ایک حالت ہے عجب آپ کے دیوانے کی",
+          "roman": "Aik halt hai ajb aap ke dioane ki"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "حیثیت میری نہیں کربولا جانے کی",
+          "roman": "Hisit meri nahi krbola jane ki"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "آپ بلوا لین تو اِحسان ہے مولا",
+          "roman": "Aap bloa lin to ahsan-e hai mola"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جب تلک سانس چلے گئ میں یہی دوں گا سدا",
+          "roman": "Jab tlk sans chle gy mein yehi don ga sda"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کربلا کربولا کربولا کربولا",
+          "roman": "Karbala krbola krbola krbola"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اِسی جملے میں میری جان ہے مولا",
+          "roman": "Asi-e jmle mein meri jaan hai mola"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میں نے مانا بے عمل اور گناہ گار ہوں میں",
+          "roman": "Mein ne mana be aml aur gnah gar hoon mein"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہاں مگر آپ کے بچوں کا عزادار ہوں میں",
+          "roman": "Han magar aap ke bchon ka azadar hoon mein"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "آپ سے مجھ کو بڑا مان ہے مولا",
+          "roman": "Aap se mujh ko bra man hai mola"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مال آتا ہے کبھی بِیچ میں دُنیا داری",
+          "roman": "Mal aata hai kbhi bich-e mein dnia dari"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "گیر لیتا ہے کبھی قرض کبھی بیماری",
+          "roman": "Gir lita hai kbhi qrz kbhi bimari"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "آپ تک آنا کب آسان ہے مولا",
+          "roman": "Aap tak aana kb aasan hai mola"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مال و زر لے لے میرا نام و نشاں بھی لے لے",
+          "roman": "Mal o zr le le mera nam o nshan bhi le le"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اپنا در بخش دے چاہے میری جاں بھی لے لے",
+          "roman": "Apna dr bkhsh de chahe meri jan bhi le le"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "سب اِس ارمان پہ قربان ہے مولا",
+          "roman": "Sab iss-e arman ph qrban hai mola"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مولا گزری ہے میری عمر عزاداری میں",
+          "roman": "Mola gzri hai meri amr azadari mein"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جو بچی ہے وہ کٹے آپ کی زواری میں",
+          "roman": "Jo bchi hai woh kte aap ki zoari mein"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "زندگی کا یہی عنوان ہے مولا",
+          "roman": "Zndgi ka yehi anoan hai mola"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دھڑکنیں ایسے روکیں دل نہ کبھی گھبرائے",
+          "roman": "Dhrknin aise rokin dil na kbhi ghbraye"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دیکھ کر آپ کا مقتل مجھے موت آ جاے",
+          "roman": "Dikh kr aap ka mqtl mujhe mot a jae"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "زندہ رہنے میں تو نقصان ہے مولا",
+          "roman": "Zndh rhne mein to nqsan hai mola"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میرا ایمان ہے مجھے آپ سے ملوا دے گا",
+          "roman": "Mera aiman hai mujhe aap se mloa de ga"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ساحلِ کربوبالا پر مُجھے پہنچا دے گا",
+          "roman": "Sahl-e krbobala par mujhe phncha de ga"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میرے اشکوں کا جو طوفان ہے مولا",
+          "roman": "Mere ashkon ka jo tofan hai mola"
+        }
+      ]
+    },
+    {
+      "band_number": 10,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "چند نوحے ہیں میرے پاس تو کچھ آنسوں ہیں",
+          "roman": "Chnd nohe hain mere pas to kchh aanson hain"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دل میں غم کے کئی دریا ہیں جوبے قابو ہیں",
+          "roman": "Dil mein ghm ke kyi dria hain jobe qabo hain"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "بس حسن کا یہی سامان ہے مولا",
+          "roman": "Bs Hasan ka yehi saman hai mola"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Karbala jane ka arman hai mola"
+}

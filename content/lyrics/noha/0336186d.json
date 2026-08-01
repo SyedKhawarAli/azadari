@@ -1,0 +1,54 @@
+{
+  "id": "0336186d-5c0c-5d69-ae11-e369a24aab52",
+  "title": "زندہ کربلا اور کربلا والے رہیں گے",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "زندہ کربلا اور کربلا والے رہیں گے",
+          "roman": "Zndh Karbala aur Karbala oale rhin ge"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "قائم یہ عزا اور عزا خانے رہیں گے",
+          "roman": "Qaym yeh aza aur aza khane rhin ge"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کربلا کا درس ہے حق کی راہ کا راستہ",
+          "roman": "Karbala ka drs hai hq ki rah ka rasth"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دینِ اسلام ہے شاہ دین کا راستہ",
+          "roman": "Din-e aslam hai shah din ka rasth"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جب تک ظلم رہے گا یہ عزا خانے رہیں گے",
+          "roman": "Jab tak zlm rahe ga yeh aza khane rhin ge"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Zndh Karbala aur Karbala oale rhin ge"
+}

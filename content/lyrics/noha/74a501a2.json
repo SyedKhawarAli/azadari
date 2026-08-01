@@ -1,0 +1,187 @@
+{
+  "id": "74a501a2-9ef0-56bf-95b3-fc1cee96dc18",
+  "title": "شبیر کو سجدے میں زبح کس نے کیا ہے",
+  "type": "Noha",
+  "poet_name": "اختر",
+  "reciter_name": "Lahore Party",
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=dLxvMQGfmtk",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=dLxvMQGfmtk"
+  ],
+  "personalities": [
+    "Imam Hussain (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "شبیر کو سجدے میں زبح کس نے کیا ہے",
+      "مظلوم کے ماتم سے ہمیں روکنے والوں",
+      "گھر فاطمہ زہرا کا تباہ کس نے کیا ہے"
+    ],
+    "roman": [
+      "Shbir ko sjde mein zbh ks ne kya hai",
+      "Mzlom ke matm se hmin rokne oalon",
+      "Ghr Fatima Zahra ka tbah ks ne kya hai"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "خیمے بھی جلائے تو ردائیں بھی اتاری",
+          "roman": "Khime bhi jlaye to rdayin bhi atari"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سیدانیاں سر ننگے کھڑی روتی تھی ساری",
+          "roman": "Sidanian sar nnge khri roti thi sari"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہندو تھے یہودی تھے عیسائی یا کوئی اور",
+          "roman": "Hndo the ihodi the aisayi Ya koyi aur"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "اتنا تو بتا دو یہ گناہ کس نے کیا ہے",
+          "roman": "Atna to bta do yeh gnah ks ne kya hai"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بشیر کے لختِ جگر پہ جب تیر لگا تھا",
+          "roman": "Bshir ke lkht-e jgr ph jab tir lga tha"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اور پیاس سے معصوم کا ہائے خشک گلا تھا",
+          "roman": "Aur pias se masom ka haye khshk gla tha"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اصغر نے زبان ہونٹوں پہ جب پھیری تھی لوگوں",
+          "roman": "Asghar ne zban honton ph jab phiri thi logon"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "تب خون سے تر خشک گلا کس نے کیا ہے",
+          "roman": "Tb khon se tr khshk gla ks ne kya hai"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "زنجیروں میں جکڑا ہوا سجاد مہاری",
+          "roman": "Znjiron mein jkra hoa sjad mhari"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اور شمر کے ظلموں سے ڈری بیبیاں ساری",
+          "roman": "Aur shmr ke zlmon se dri bibian sari"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جس بی بی کا سورج بھی حیا کرتا تھا چپ کر",
+          "roman": "Js bi bi ka sorj bhi hia krta tha chp kr"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "اس بی بی کے سر کو بے ردا کس نے کیا ہے",
+          "roman": "Iss bi bi ke sar ko be rida ks ne kya hai"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "برچھی نے جو چیرا علی اکبر کے جگر کو",
+          "roman": "Brchhi ne jo chira Ali Akbar ke jgr ko"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہائے کیسے اٹھایا میرے مولا نے پسر کو",
+          "roman": "Haye kise athaia mere mola ne psr ko"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "لیلیٰ کا پسر لگتا تھا تصویر نبی کی",
+          "roman": "Lili ka psr lgta tha tsoir nbi ki"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "سرکارِ رسالت کا حیا کس نے کیا ہے",
+          "roman": "Srkar-e rsalt ka hia ks ne kya hai"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "عباس وفادار کے پرچم کی نشانی",
+          "roman": "Abbas ofadar ke prchm ki nshani"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یاد آئے اسے دیکھ کے کربل کی کہانی",
+          "roman": "Iad aaye ase dikh ke krbl ki khani"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جو ہاتھ تھے زہرا کی دعاؤں کا نتیجہ",
+          "roman": "Jo hath the Zahra ki daaon ka ntijh"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ان ہاتھوں کو شانوں سے جدا کس نے کیا ہے",
+          "roman": "Un hathon ko shanon se jda ks ne kya hai"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اختر کو یہ اک مسئلہ سبھی ملاں بتائیں",
+          "roman": "Akhtr ko yeh ak masla sbhi mullan btayin"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کس جرم میں لوٹی گئی کربل میں ردائیں",
+          "roman": "Ks jrm mein loti gayi krbl mein rdayin"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "دربار میں خطبہ جو پڑھا بنتِ علی نے",
+          "roman": "Drbar mein khtbh jo prha bnt-e Ali ne"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "اذانوں سے پھر شور بپا کس نے کیا ہے",
+          "roman": "Azanon se phir shor bpa ks ne kya hai"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Shbir ko sjde mein zbh ks ne kya hai"
+}

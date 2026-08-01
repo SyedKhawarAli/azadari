@@ -1,0 +1,236 @@
+{
+  "id": "6e7fa7bf-8b56-55e0-ac3f-020df099c02c",
+  "title": "مولا حق امام یا حسن یا حسین",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Imam Hasan (AS)",
+    "Imam Hussain (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "مولا حق امام یا حسن یا حسین",
+      "یا حسین یا حسین"
+    ],
+    "roman": [
+      "Mola hq amam Ya Hasan Ya Hussain AS",
+      "Ya Hussain AS Ya Hussain AS"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وہ عابدِ بیمار تھا",
+          "roman": "Woh aabd-e bimar tha"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "چلنے سے جو لاچار تھا",
+          "roman": "Chlne se jo lachar tha"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اور شام کا بازار تھا",
+          "roman": "Aur sham ka bazar tha"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "اور مصطفیٰ کی بیٹیاں",
+          "roman": "Aur mstfi ki bitian"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شبیر کی وہ لاڈلی",
+          "roman": "Shbir ki woh ladli"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سینے پہ جو شاہ کے پلی",
+          "roman": "Seene ph jo shah ke pli"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جس کی عبا بن میں جلی",
+          "roman": "Js ki aba bn mein jli"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "منہ پہ تماچوں کے نشاں",
+          "roman": "Mnh ph tmachon ke nshan"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "پیاسے گلے خنجر چلے",
+          "roman": "Piase gle khnjr chle"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "چادر چھنی خیمے جلے",
+          "roman": "Chadar chhni khime jle"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "عباس کے پرچم تلے",
+          "roman": "Abbas ke prchm tle"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "رو کر کہیں یہ بیبیاں",
+          "roman": "Ro kr khin yeh bibian"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "رو کر کہے قاسم کی ماں",
+          "roman": "Ro kr khe Qasim ki man"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مارا گیا قاسم جواں",
+          "roman": "Mara gaya Qasim joan"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اے لال میں ڈھونڈوں کہاں",
+          "roman": "Aye laal mein dhondon kahan"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "مہندی تیری سہرا تیرا",
+          "roman": "Mhndi teri shra tera"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وہ اصغرِ بشیر تھا",
+          "roman": "Woh Asghar-e bshir tha"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اور حرملہ کا تیر تھا",
+          "roman": "Aur hrmlh ka tir tha"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "پیاسا گلا کیونکر کٹا",
+          "roman": "Piasa gla kionkr kta"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "لرزی زمیں اور آسماں",
+          "roman": "Lrzi zmin aur aasman"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شامِ غریباں چھا گئی",
+          "roman": "Sham-e ghriban chha gayi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "عابد کو غیرت آ گئی",
+          "roman": "Aabd ko ghirt a gayi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "پہرے پہ زینب آ گئی",
+          "roman": "Phre ph Zainab a gayi"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "عباس اور اکبر کہاں",
+          "roman": "Abbas aur Akbar kahan"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وہ زینبؑ و کلثومؑ تھیں",
+          "roman": "Woh Zainab AS o klsom AS thin"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "چادر سے جو محروم تھیں",
+          "roman": "Chadar se jo mhrom thin"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "نا محرموں کے درمیاں",
+          "roman": "Na mhrmon ke drmian"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "اور مرتضیٰ کی بیٹیاں",
+          "roman": "Aur mrtzi ki bitian"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وہ باوفا عباسؑ تھا",
+          "roman": "Woh baofa Abbas AS tha"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دکھیوں کی جو ایک آس تھا",
+          "roman": "Dkhion ki jo aik aas tha"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "پانی ملا پر نہ پیا",
+          "roman": "Pani mla par na pia"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "پیاسی رہیں شہزادیاں",
+          "roman": "Piasi rhin shhzadian"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Mola hq amam Ya Hasan Ya Hussain AS"
+}

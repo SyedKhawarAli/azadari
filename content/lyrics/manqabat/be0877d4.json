@@ -1,0 +1,222 @@
+{
+  "id": "be0877d4-99d1-5735-8b69-3b17732ba973",
+  "title": "زمانے میں بس خامنہ ای تمہی ہو",
+  "type": "Manqabat",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "زمانے میں بس خامنہ ای تمہی ہو"
+    ],
+    "roman": [
+      "Zmane mein bs khamnh ai tmhi ho"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "گزرتی صدی کی کمائی تمہی ہو",
+          "roman": "Gzrti sdi ki kmayi tmhi ho"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جو قلبِ علیؑ میں رہا زندگی بھر",
+          "roman": "Jo qlb-e Ali AS mein raha zndgi bhr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "وہ تھا درد کیسا یہ سمجھا ہے تم نے",
+          "roman": "Woh tha drd kisa yeh smjha hai tum ne"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جو قصرِ یزیدی کو لرزا رہا ہے",
+          "roman": "Jo qsr-e izidi ko lrza raha hai"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "وہ عابدؑ کے لہجے سے سیکھا ہے تم نے",
+          "roman": "Woh aabd AS ke lhje se sikha hai tum ne"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "ولایت کی جانب رسائی تمہی ہو",
+          "roman": "Wilayat ki janb rsayi tmhi ho"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "فقیرانہ صحبت، امیرانہ فطرت",
+          "roman": "Fqiranh shbt, amiranh ftrt"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "غلامانِ حیدرؑ میں بوذر ہو جیسے",
+          "roman": "Ghlaman-e hidr AS mein bozr ho jise"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "زمانہ دہلتا ہے ابرو کے خم سے",
+          "roman": "Zmanh dhlta hai abro ke khm se"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "کھڑا قلبِ لشکر میں اشتر ہو جیسے",
+          "roman": "Khra qlb-e lshkr mein ashtr ho jise"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "ہاں مختار جیسے فدائی تمہی ہو",
+          "roman": "Han mkhtar jise fdayi tmhi ho"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "خمینی کے دل کا نصابِ محبت",
+          "roman": "Khmini ke dil ka nsab-e mhbt"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مکمل تمہارے قلم نے کیا ہے",
+          "roman": "Mkml tmhare qlm ne kya hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "وفادار ہاتھوں سے جامِ اطاعت",
+          "roman": "Ofadar hathon se jam-e ataat"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "مودت کے پیالے میں تم نے پیا ہے",
+          "roman": "Mawaddat ke piale mein tum ne pia hai"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "خطِ عشق سے آشنائی تمہی ہو",
+          "roman": "Kht-e ashq se aashnayi tmhi ho"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وہ سید رئیسی یا ہوں حاج قاسم",
+          "roman": "Woh sid ryisi Ya hoon haj Qasim"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "شہیدوں کے ہمراہ پرواز تیری",
+          "roman": "Shhidon ke hmrah proaz teri"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اٹھی قدس کی سرزمیں کے لیے جو",
+          "roman": "Athi qds ki srzmin ke lie jo"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ہے امت کی وحدت وہ آواز تیری",
+          "roman": "Hai amt ki ohdt woh aaoaz teri"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "فرج کے لیے رہنمائی تمہی ہو",
+          "roman": "Frj ke lie rhnmayi tmhi ho"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جھکا سر تمھارا فقط ایک در پے",
+          "roman": "Jhka sar tmhara fqt aik dr pe"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "فقیر دیار اِمام رضا تم",
+          "roman": "Fqir diar amam-e raza tum"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "خرد آگہی فیض کی زرق روٹی",
+          "roman": "Khrd aaghi fiz ki zrq roti"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "محبت سے دیتی ہے معصومہ قم",
+          "roman": "Mhbt se diti hai masomh qm"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "پے عِلم فخرے گدائی تُمھی ہو",
+          "roman": "Pe alm-e fkhre gdayi tmhi ho"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بچاڑتے ہوئے ساتھیوں کے کفن میں",
+          "roman": "Bcharte hoye sathion ke kfn mein"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سموتی ہیں  آنسوں جو آنکھیں تمھاری",
+          "roman": "Smoti hain aanson jo aankhein tmhari"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "دبی سسکیوں میں بہا قطرہ قطرہ",
+          "roman": "Dbi sskion mein bha qtrh qtrh"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "تو  لفظوں سے خون اے شہیداں ہے جاری",
+          "roman": "To lfzon se khon Aye shhidan hai jari"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "قلم کی میرے روشنائی تُمھی ہو",
+          "roman": "Qlm ki mere roshnayi tmhi ho"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Zmane mein bs khamnh ai tmhi ho"
+}

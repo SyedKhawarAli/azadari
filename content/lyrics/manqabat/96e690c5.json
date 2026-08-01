@@ -1,0 +1,305 @@
+{
+  "id": "96e690c5-b2f5-5d6a-9a10-55dbf5e5e9c2",
+  "title": "شبیر یہ سب دُنیا تیرے نام سے زندہ ہے",
+  "type": "Manqabat",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Imam Hussain (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شبیر یہ سب دُنیا تیرے نام سے زندہ ہے، یہ دین محمد کا تیرے نام سے زندہ ہے",
+          "roman": "Shbir yeh sab dnia tere nam se zndh he, yeh din Muhammad ka tere nam se zndh hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اللہ کا بھی کلمہ تیرے نام سے زندہ ہے",
+          "roman": "Allah ka bhi klmh tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "پھیلی ہیں زمانے میں توحید کی تنویریں، گونجی ہیں تیرے دم سے کونین میں تکبیریں",
+          "roman": "Phili hain zmane mein tohid ki tnoirin, gonji hain tere dm se konin mein tkbirin"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "حق اس سے ہے پائندہ تیرے نام سے زندہ ہے",
+          "roman": "Hq iss se hai payndh tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تعبیر خلیل ہے تو اور فخر مسیح کا، تو وارثِ آدم ہے موسی کا تو کہنا کیا",
+          "roman": "Tabir khlil hai to aur fkhr msih ka, to oars-e Adam hai mosi ka to khna kya"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جب نامِ شاہِ بطحاء تیرے نام سے زندہ ہے",
+          "roman": "Jab nam-e shah-e btha tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "منی کی سند بخشی تجھے سرورِ عالم نے، پھر یہ بھی کہا میں ہوں شبیر تیرے دم سے",
+          "roman": "Mni ki snd bkhshi tjhe sarwar-e aalam ne, phir yeh bhi kha mein hoon shbir tere dm se"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "شبیر تیرا نانا تیرے نام سے زندہ ہے",
+          "roman": "Shbir tera nana tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "فطرُس تو فرشتہ تھا حُر کو بھی اماں دی ہے، جاں ابنِ مظاہر کو اور دین کو بخشی ہے",
+          "roman": "Ftrs to frshth tha hr ko bhi aman di he, jan abn-e mzahr ko aur din ko bkhshi hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یہ دینِ نبی حق کا تیرے نام سے زندہ ہے",
+          "roman": "Yeh din-e nbi hq ka tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "والفجر میں تُو شامل تطہیر میں تُو شامل، کوثر کی مودت کی تفسیر میں تُو شامل",
+          "roman": "Oalfjr mein to shaml tthir mein to shaml, kosr ki mawaddat ki tfsir mein to shaml"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "والعصر کا بھی سورئہ تیرے نام سے زندہ ہے",
+          "roman": "Oalasr ka bhi soryh tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "عہدِ نبوی علوی دورِ حسنی کے بعد، اسلام تنِ بے جاں اکسٹھ ہجری کے بعد",
+          "roman": "Ahd-e nboi aloi dor-e hsni ke bad, aslam tn-e be jan aksth hjri ke bad"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تیرے نام سے زندہ تھا تیرے نام سے زندہ ہے",
+          "roman": "Tere nam se zndh tha tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بیعت بھی نہ لے پایا سر بھی نہ جھُکا پایا، ظالم کو کیا رُسوا سرور نے سرِ نیزہ",
+          "roman": "Biat bhi na le paia sar bhi na jhka paia, zalim ko kya rsoa sarwar ne sar-e nizh"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "قرآن بھی اے آقا تیرے نام سے زندہ ہے",
+          "roman": "Qraan bhi Aye aaqa tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ویسے تو شہادت ہے میراث تیرے گھر کی، یاں اصغر و اکبر کی تفریق نہیں پھر بھی",
+          "roman": "Oise to shhadt hai miras tere ghr ki, ian Asghar o Akbar ki tfriq nahi phir bhi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مفہوم شہادت کا تیرے نام سے زندہ ہے",
+          "roman": "Mfhom shhadt ka tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 10,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اُمت پہ محمد کیہوا شیطانوں کا راج، مکہ بھی مدینہ بھی تیرے بعد ہوا تاراج",
+          "roman": "Amt ph Muhammad kihoa shitanon ka raj, Makkah bhi Madina bhi tere bad hoa taraj"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یہ تو لاجِ کعبہ تیرے نام سے زندہ ہے",
+          "roman": "Yeh to laj-e Kaaba tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 11,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یہ جو علم کا چرچہ ہے شبیر کا صدقہ ہے، احسان تیرا حق پر یہ ثانیئے زہرا ہے",
+          "roman": "Yeh jo alm ka chrchh hai shbir ka sdqh he, ahsan tera hq par yeh saniye Zahra hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اے شبیر کا سجدہ تیرے نام سے زندہ ہے",
+          "roman": "Aye shbir ka sjdh tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 12,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سرور کی نشانی اب کوئی بھی نہیں باقی، اک چھوڑ دی جنگل میں اک شام میں دفنا دی",
+          "roman": "Sarwar ki nshani ab koyi bhi nahi baqi, ak chhor di jngl mein ak sham mein dfna di"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دُکھ بانوئے مضطر کا تیرے نام سے زندہ ہے",
+          "roman": "Dkh banoye mztr ka tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 13,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سائے کی ضرورت ہے نہ ہی ٹھنڈے پانی کی، ماں کہتی تھی اصغر کی بُلوا لو مجھے والی",
+          "roman": "Saye ki zrort hai na hi thnde pani ki, man khti thi Asghar ki bloa lo mujhe oali"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یہ کنیز شاہِ والا تیرے نام سے زندہ ہے",
+          "roman": "Yeh kniz shah-e oala tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 14,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ماں کا بھی نہ رکھا مان نہ ہی پالنے والی کا، دن رات وظیفہ اور نوحہ تھا یہ لیلیٰ کا",
+          "roman": "Man ka bhi na rkha man na hi palne oali ka, din raat ozifh aur nohh tha yeh lili ka"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اکبر یہ تیری آیت تیرے نام سے زندہ ہے",
+          "roman": "Akbar yeh teri aait tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 15,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "آئیں گے مجھے لینے اک روز میرے بھّیا، پھر بیاہ رچائوں گی میں شوق سے بھّیا کا",
+          "roman": "Aayin ge mujhe line ak roz mere bhia, phir biah rchayon gi mein shoq se bhia ka"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اکبر وہ تیری صغریٰ تیرے نام سے زندہ ہے",
+          "roman": "Akbar woh teri sghri tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 16,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شبیر کی لختِ جگر اک رات کی وہ بیاہی، رُخصت بھی نہ ہو پائی اور بیوہ کہلائی",
+          "roman": "Shbir ki lkht-e jgr ak raat ki woh biahi, rkhst bhi na ho payi aur bioh khlayi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "قاسم وہ تیری بیوہ تیرے نام سے زندہ ہے",
+          "roman": "Qasim woh teri bioh tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 17,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "عاشور سے زنداں تک رُوداد مظالم کی، تُو نے ہی سُنائی ہے شبیر کی شہزادی",
+          "roman": "Aashor se zndan tak rodad mzalm ki, to ne hi snayi hai shbir ki shhzadi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یہ ماتم یہ نوحہ تیرے نام سے زندہ ہے",
+          "roman": "Yeh matm yeh nohh tere nam se zndh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 18,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شبیر کا مرثیہ خواں شبیر کا شاعر بھی، پہچان یہی ہے اب تیرے سبطِ جعفر کی",
+          "roman": "Shbir ka mrsih khoan shbir ka shaar bhi, phchan yehi hai ab tere sbt-e jafr ki"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "صد شُکر تیرا بندہ تیرے نام سے زندہ ہے",
+          "roman": "Sd shkr tera bndh tere nam se zndh hai"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Shbir yeh sab dnia tere nam se zndh hai"
+}

@@ -1,0 +1,284 @@
+{
+  "id": "a9a4ae4c-fff1-55d2-bd22-aa355bb09511",
+  "title": "علی علی جانم",
+  "type": "Manqabat",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://youtu.be/lnBxPsle5m4",
+  "media_urls": [
+    "https://youtu.be/lnBxPsle5m4"
+  ],
+  "personalities": [
+    "Imam Ali (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "علی علی علی ،علی علی علی ، علی علی جانم",
+      "علی علی علی ، علی علی علی ، علی علی جانم"
+    ],
+    "roman": [
+      "Ali Ali Ali,ali Ali Ali, Ali Ali janm",
+      "Ali Ali Ali, Ali Ali Ali, Ali Ali janm"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ستیزہ ہار گیا ہے شرارِ ابولهبئ",
+          "roman": "Stizh har gaya hai shrar-e abolby"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جہاں میں آج بھی روشن ہے نورِ بامِ علی",
+          "roman": "Jhan mein aaj bhi roshan hai noor-e bam-e Ali"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہماری پیاس کی شدت کا اختتام ہوا",
+          "roman": "Hamari pias ki shdt ka akhttam hoa"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "پلایا دستِ خمینی نے ایک جامِ علی",
+          "roman": "Plaia dst-e khmini ne aik jam-e Ali"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وہ عاشقوں کو سبق عاشقی کا دیتا ہے",
+          "roman": "Woh aashqon ko sbq aashqi ka dita hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "خُدا کے ذکر میں گزرے ہیں صبح شام علی",
+          "roman": "Khuda ke zkr mein gzre hain sbh sham Ali"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہمارا رہبر   و یاور ، زعیم بیت اللہ",
+          "roman": "Hmara rhbr o iaor, zaim Bait Allah"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ہماری جانیں فدا ہوں برائے نامِ علی",
+          "roman": "Hamari janin fda hoon braye nam-e Ali"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہمارا کام ہے فکر و نظر کی بیداری",
+          "roman": "Hmara kam hai fkr o nzr ki bidari"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سنا رہے  ہیں زمانے کو ہم پیامِ علی",
+          "roman": "Sna rahe hain zmane ko hum piam-e Ali"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "نگاہ  ہماری سرِ راہ  ٹِک نہیں سکتی",
+          "roman": "Ngah hamari sar-e rah tk-e nahi skti"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "کے اِس نگاہ پہ ڈالا گیا ہے دامِ علی",
+          "roman": "Ke iss-e ngah ph dala gaya hai dam-e Ali"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اَشْهَدُ اَنَّ عَلِیًّا وَلِیُّ اللّٰه",
+          "roman": "Ashd un alia-e oli-e all"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اَشْهَدُ اَنَّ عَلِیًّا حُجَّتُ اللّٰه",
+          "roman": "Ashd un alia-e hjt all"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "حیدر حیدر  حیدر حیدر",
+          "roman": "Hidr hidr hidr hidr"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اے ملتِ بیدار کے بیدار جوانو",
+          "roman": "Aye mlt-e bidar ke bidar joano"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اس دور میں سوئی ہوئی اقوام جگا دو",
+          "roman": "Iss dor mein soyi hoyi aqoam jga do"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہر شہر کی مسند پہ ابو جہل کھڑا ہے",
+          "roman": "Hr shhr ki msnd ph abo jhl khra hai"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "عمار سے جیدار  کی گفتار سنا دو",
+          "roman": "Amar se jidar ki gftar sna do"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "پھر زور کلیمی کی ضرورت ہے جہاں میں",
+          "roman": "Phir zor klimi ki zrort hai jhan mein"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "طاغوت کے ہر شہر میں ایوان ہلا دو",
+          "roman": "Taghot ke hr shhr mein aioan hla do"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "تحریکِ امامت کا سبق نسلِ نوی کو",
+          "roman": "Thrik-e amamt ka sbq nsl-e noi ko"
+        },
+        {
+          "misra_number": 8,
+          "urdu": "لوگوں نے پڑھایا ہی نہیں تم ہی بتا دو",
+          "roman": "Logon ne prhaia hi nahi tum hi bta do"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وہ راز جسے آج تلک سب نے چھپایا",
+          "roman": "Woh raz jse aaj tlk sab ne chhpaia"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سر دار پہ چڑھ جائے مگر پھر بھی بتا دو",
+          "roman": "Sar dar ph chrh jaye magar phir bhi bta do"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "بلبل کے چمن میں نہ ہو غیروں کی ترانے",
+          "roman": "Blbl ke chmn mein na ho ghiron ki trane"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "اِس صحن ِ چمن میں بڑا ہنگام مچا دو",
+          "roman": "Iss-e shn -e chmn mein bra hngam mcha do"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "اللہ کی زمین ہے تو ولایت ہو فقیہ کی",
+          "roman": "Allah ki zmin hai to wilayat ho fqih ki"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "حاکم نہ بناؤ کسی دوجے کو ، بتا دو",
+          "roman": "Hakm na bnao ksi doje ko, bta do"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "وہ جام خمینی نے جو ایران کو پلایا",
+          "roman": "Woh jam khmini ne jo airan ko plaia"
+        },
+        {
+          "misra_number": 8,
+          "urdu": "اس پاک وطن کو بھی وہی جام پلا دو",
+          "roman": "Iss paak otn ko bhi ohi jam pla do"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میرا زمان دگر گوں ، میرا مکان فنا",
+          "roman": "Mera zman dgr gon, mera mkan fna"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میرے زماں و مکاں کی طلب نظامِ علی",
+          "roman": "Mere zman o mkan ki tlb nzam-e Ali"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میں سولی چڑھ کر بھی، اسفر پکارتا رہوں گا",
+          "roman": "Mein soli chrh kr bhi, asfr pkarta rahoon ga"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "علی امامِ من است و منم غلامِ علی",
+          "roman": "Ali amam-e mn ast o mnm ghlam-e Ali"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "منم غلامِ علی",
+          "roman": "Mnm ghlam-e Ali"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اہلً وَ سہلاً یَا حَیدر یا حیدر",
+          "roman": "Ahl o shla Ya hidr Ya hidr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اہلً وَ سہلاً یَا حَیدر یا حیدر",
+          "roman": "Ahl o shla Ya hidr Ya hidr"
+        }
+      ]
+    },
+    {
+      "band_number": 10,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "صلوٰۃ",
+          "roman": "Slo"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Ali Ali janm"
+}

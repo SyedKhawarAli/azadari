@@ -1,0 +1,148 @@
+{
+  "id": "6d539bbd-2fbf-5e2f-a604-68bf72fdb5b7",
+  "title": "سلامِ آخر",
+  "type": "Marsiya",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سلام اُن پہ جنہیں شرم کھائے جاتی ہے",
+          "roman": "Salaam un ph jnhin shrm khaye jati hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کھلے سروں پہ اسیری کی خاک آتی ہے",
+          "roman": "Khle sron ph asiri ki khak aati hai"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سلام بھیجتے ہیں اپنی شہزادیؑ پر",
+          "roman": "Salaam bhijte hain apni shhzadi AS par"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کہ جس کو سونپ گئے مرتے وقت گھر سرورؑ",
+          "roman": "Keh js ko sonp gaye mrte waqt ghr sarwar AS"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اسیر ہو کے جسے شامیوں کے نرغے میں",
+          "roman": "Asir ho ke jse shamion ke nrghe mein"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "حسینیتؑ ہے سکھانا علیؑ کے لہجے میں",
+          "roman": "Hsinit AS hai skhana Ali AS ke lhje mein"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یہ سِن، یہ حشر، یہ صدمے نئے نئے بی بیؑ",
+          "roman": "Yeh sn,-e yeh hshr, yeh sdme nye nye bi bi AS"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کہاں پہ بیٹھی ہو خیمے تو جل گئے بی بیؑ",
+          "roman": "Kahan ph bithi ho khime to jl gaye bi bi AS"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "زمین گرم، یتیمی کی سختیاں بی بیؑ",
+          "roman": "Zmin grm, itimi ki skhtian bi bi AS"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "وہ سینہ جس پہ کہ سوتی تھی اب کہاں بی بیؑ",
+          "roman": "Woh seena js ph keh soti thi ab kahan bi bi AS"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ابھی کلیجے میں ایک آگ سی لگی ہوگی",
+          "roman": "Abhi klije mein aik aag si lgi hogi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ابھی تو گود کی گرمی نہ کم ہوئی ہوگی",
+          "roman": "Abhi to god ki grmi na km hoyi hogi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "نہ اس طرح کوئی کھیتی ہری بھری اجڑی",
+          "roman": "Na iss trh koyi khiti hri bhri ajri"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "تمہاری مانگ بھی اجڑی ہے، گود بھی اجڑی",
+          "roman": "Tmhari maang bhi ajri he, god bhi ajri"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شریکِ حق، درود و سلامِ پیغمبرؐ",
+          "roman": "Shrik-e hq, darood o salaam-e Payghambar"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سلام سیدِ لولاکؐ کے لٹے گھر پر",
+          "roman": "Salaam sid-e lolak ke lte ghr par"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "سلام تم پہ رسولؐ و بتولؑ کے پیارو",
+          "roman": "Salaam tum ph rsol o btol AS ke piaro"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "سلام مہرِ شہادت کے گرد سیارو",
+          "roman": "Salaam mhr-e shhadt ke grd siaro"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جو چل بسے تو یہ اپنا سلامِ آخر ہے",
+          "roman": "Jo chl bse to yeh apna salaam-e aakhr hai"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Salaam-e aakhr"
+}

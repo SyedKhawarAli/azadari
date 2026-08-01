@@ -1,0 +1,99 @@
+{
+  "id": "036e24cc-bb9d-524d-80d7-7b212c0564c5",
+  "title": "میرے جسم میں جان جب تک رہے گی",
+  "title_roman": "Mere jism mein jaan jab tak rahegi",
+  "type": "Manqabat",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://youtu.be/RcAGD1rHEKw",
+  "media_urls": [
+    "https://youtu.be/RcAGD1rHEKw"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میرے جسم میں جان جب تک رہے گی میں کرتا رہوں گا ثنا پنجتن کی",
+          "roman": "Mere jism mein jaan jab tak rahegi main karta rahunga sana Panjatan ki"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میں کیا اور میری حقیقت ہی کیا ہے، ثنا کر رہا ہے خدا پنجتن کی",
+          "roman": "Main kya aur meri haqeeqat hi kya hai, sana kar raha hai Khuda Panjatan ki"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اے آدم او حوا کے نالائق لڑکے، توں آلے پِیامبر کو ناراض کر کے",
+          "roman": "Aye Adam o Hawwa ke nalaiq ladke, toon Aal-e Payambar ko naraz kar ke"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کہاں سے خدا کی رضا ڈھونڈھتا ہا، خدا کی رضا ہے رضا پنجتن کی",
+          "roman": "Kahan se Khuda ki raza dhoondhta ha, Khuda ki raza hai raza Panjatan ki"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دکھاؤ ہمیں وہ عبادت کہاں ہے، عبادات کی جوکہ روحِ رواں ہے",
+          "roman": "Dikhao humein woh ibadat kahan hai, ibadaat ki jo ke rooh-e rawaan hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یہ بے جان روزے نمازیں تو لائے، کہاں بُھول آئے ویلا پنجتن کی",
+          "roman": "Yeh bejaan roze namazein to laaye, kahan bhool aaye wila Panjatan ki"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "عمل گر کوئی بھی قضا ہو گیا ہے، تو پھر اُس قضا کی یقیناً ادا ہے",
+          "roman": "Amal gar koi bhi qaza ho gaya hai, to phir us qaza ki yaqeenan ada hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مگر دوستو یہ ادا پھر نہ ہوگی، مُودت نہ کرنا قضا پنجتن کی",
+          "roman": "Magar dosto yeh ada phir na hogi, mawaddat na karna qaza Panjatan ki"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کریں کیوں نہ ہم روزوشب آہوزاری ، جو بے رحم ظالم نے چادر اوتاری",
+          "roman": "Karein kyun na hum roz-o-shab aah-o-zari, jo be-raham zalim ne chadar utari"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "وہ زینب اکیلی کے سَر سے نہ اوتری، لٹی کربلا میں رِدا پنجتن کی",
+          "roman": "Woh Zainab akeley ke sar se na utri, luti Karbala mein rida Panjatan ki"
+        }
+      ]
+    }
+  ]
+}

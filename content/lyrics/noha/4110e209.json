@@ -1,0 +1,130 @@
+{
+  "id": "4110e209-d31d-5f43-b34a-ce21ec698fa5",
+  "title": "ایک بار اور مجھے گود میں لے لو بابا",
+  "type": "Noha",
+  "poet_name": "انور (انڈیا)",
+  "reciter_name": "مرکزی ماتمی دستہ اسیرِ بغداد اسلام آباد",
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Bibi Sakina (SA)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "ایک بار اور مجھے گود میں لے لو بابا"
+    ],
+    "roman": [
+      "Aik bar aur mujhe god mein le lo baba"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وا حسینا کا ہوا شور حرم میں برپا",
+          "roman": "Oa hsina ka hoa shor hrm mein brpa"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہو کے رخصت جو چلے گھر سے شاہِ کرب و بلا",
+          "roman": "Ho ke rkhst jo chle ghr se shah-e krb o bla"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کہہ کے یہ دوڑی سکینہ کہ ٹھہر جاؤ ذرا",
+          "roman": "Khh ke yeh dori Sakina keh thhr jao zra"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شہ نے بچی کا جو یہ حال پریشاں دیکھا",
+          "roman": "Shh ne bchi ka jo yeh hal prishan dikha"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "رو کے فرمایا کہ کیا حال میری ماہِ لقا",
+          "roman": "Ro ke frmaia keh kya hal meri mah-e lqa"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جوڑ کے ننھے سے ہاتھوں کو سکینہ نے کہا",
+          "roman": "Jor ke nnhe se hathon ko Sakina ne kha"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سوچتی ہوں کہ طمانچے کوئی مارے نہ میرے",
+          "roman": "Sochti hoon keh tmanche koyi mare na mere"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "گوشوارے کوئی کانوں سے اتارے نہ میرے",
+          "roman": "Goshoare koyi kanon se atare na mere"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "وہم آتے ہیں میرے دل میں نہ جانے کیا کیا",
+          "roman": "Ohm aate hain mere dil mein na jane kya kya"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میں سمجھتی ہوں کہ یونہی مجھے بہلاتے ہو",
+          "roman": "Mein smjhti hoon keh ionhi mujhe bhlate ho"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تھا نہ معلوم کے مرنے کے لئے جاتے ہو",
+          "roman": "Tha na maloom ke marne ke lye jate ho"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تم ہمیشہ کے لئے ہوتے ہو اب مجھ سے جدا",
+          "roman": "Tum hmishh ke lye hote ho ab mujh se jda"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بابا سینے سے سکینہ کو لگاتے جاؤ",
+          "roman": "Baba seene se Sakina ko lgate jao"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اب کہاں ہوگی ملاقات بتاتے جاؤ",
+          "roman": "Ab kahan hogi mlaqat btate jao"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تم کو اکبر کی قسم غنچہ دہن کا صدقہ",
+          "roman": "Tum ko Akbar ki qsm ghnchh dhn ka sdqh"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Aik bar aur mujhe god mein le lo baba"
+}

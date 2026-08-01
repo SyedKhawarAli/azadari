@@ -1,0 +1,173 @@
+{
+  "id": "03e459ac-e4c1-5ce5-8b73-82798f3c9501",
+  "title": "ماواں کربلا دیاں ماواں",
+  "type": "Noha",
+  "poet_name": "ثقلین اکبر",
+  "reciter_name": "میر حسن میر",
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=VPS5FV33kSc",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=VPS5FV33kSc"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "ماواں کربلا دیاں ماواں",
+      "پتراں دیاں لاشاں دے ٹکڑے رئیاں لبدیاں وچ صحراواں"
+    ],
+    "roman": [
+      "Maoan Karbala dian maoan",
+      "Ptran dian lashan de tkre ryian lbdian och shraoan"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "صبر دے مالک نوں سین لیلیٰ آکھے اذن جے دیویں تے",
+          "roman": "Sbr de malk non sin lili aakhe izn je dioin te"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میں صبر دی سانجھ وچ اکبر دے سینے چوں سانگھ ہٹاواں",
+          "roman": "Mein sbr di sanjh och Akbar de seene chon sangh htaoan"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "آکھے ماں قاسم دی ماں تے احسان کریں دیر تائیں لڑدا رویں",
+          "roman": "Aakhe man Qasim di man te ahsan krin dir tayin lrda roin"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تیرے ٹکڑے مطابق ودھنیاں نے میرے ویر حسین دی سانواں",
+          "roman": "Tere tkre mtabq odhnian ne mere oir Hussain AS di sanoan"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جدوں قیدی ہو کے لنگھیاں مقتل چوں وین زینب کیتا",
+          "roman": "Jdon qidi ho ke lnghian mqtl chon oin Zainab kita"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "لاشاں ول ماواں نہ دیکھن کتے رک نہ جاون سانواں",
+          "roman": "Lashan ol maoan na dikhn kte rk na jaon sanoan"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "رو کے ہر ماں ایہو کہندی رئی شامیاں نوں بھاویں درے مارو",
+          "roman": "Ro ke hr man aiho khndi ryi shamian non bhaoin dre maro"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بس دے دو اجازت وچ صحرا میں پتر دی قبر بناواں",
+          "roman": "Bs de do ajazt och shra mein ptr di qbr bnaoan"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سین زینب نے کہیا کھول اکھیاں جے تے سانواں رکتیاں",
+          "roman": "Sin Zainab ne khia khol akhian je te sanoan rktian"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مینوں شامِ غریباں دے ویلے دیوے گا کون صلاواں",
+          "roman": "Minon sham-e ghriban de oile dioe ga kon slaoan"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وین کلثوم دا سی لال من کے غازی تینوں میں پالیا سی",
+          "roman": "Oin klsom da si laal mn ke ghazi tinon mein palia si"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میرے سر دی چادر ہائے وی لتھ گئی جدوں لتھیاں تیریاں بانواں",
+          "roman": "Mere sar di chadar haye oi lth gayi jdon lthian tirian banoan"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سانگھ تے اصغر نوں دیکھ کے آکھے رباب جے نہ قیدی ہوواں",
+          "roman": "Sangh te Asghar non dikh ke aakhe rbab je na qidi hooan"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سر سانگھ تے تیرا لاون لئی میں دیر کدی نہ لاواں",
+          "roman": "Sar sangh te tera laon lyi mein dir kdi na laoan"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شمر دے خنجر دے وار زہرا رو کے نال اے سین کہوے",
+          "roman": "Shmr de khnjr de oar Zahra ro ke nal Aye sin khoe"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میں چکیاں پیس کے پالیا سی کیوں ہتھ گردن توں چاواں",
+          "roman": "Mein chkian pis ke palia si kyun hth grdn ton chaoan"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "چودہ صدیاں ہوئیاں فاطمہ دی نوہاں العجل پڑھ دیاں",
+          "roman": "Chodh sdian hoyian Fatima di nohan alajl prh dian"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ثقلین اجے وی تکدیاں نے او مہدی پتر دی راہواں",
+          "roman": "Sqlin aje oi tkdian ne o mhdi ptr di rahoan"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Maoan Karbala dian maoan"
+}

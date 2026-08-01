@@ -1,0 +1,174 @@
+{
+  "id": "96ff931f-be6e-5d22-99ca-70173e6be786",
+  "title": "سجادؑ لئی اے مشکل اے شام دا سفر",
+  "type": "Noha",
+  "poet_name": "سید ضمیر الحسن تنویرؔ شاہ",
+  "reciter_name": "ناصر اصغر پارٹی",
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Imam Sajjad (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "سجادؑ لئی اے مشکل اے شام دا سفر",
+      "اکبرؑ بھرا دا قاتل عابدؑ دا ہمسفر"
+    ],
+    "roman": [
+      "Sjad AS lyi Aye mshkl Aye sham da sfr",
+      "Akbar AS bhra da qatl aabd AS da hmsfr"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہویا رہا جدوں دا چپ چپ سجادؑ رہندا",
+          "roman": "Hoia raha jdon da chp chp sjad AS rhnda"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "پچھے حال کوئی رو کے ناں شام دا اے لیندا",
+          "roman": "Pchhe hal koyi ro ke nan sham da Aye linda"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جیہڑے ظلم ویکھے عابدؑ دنیا نوں کی خبر",
+          "roman": "Jihre zlm oikhe aabd AS dnia non ki khbr"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اصغرؑ دا کرتا ویرن میری لحد وچ رکھ دے",
+          "roman": "Asghar AS da krta oirn meri lhd och rkh de"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "احسان کر قبر دا عابدؑ نشان مٹا دے",
+          "roman": "Ahsan kr qbr da aabd AS nshan mta de"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تیرے بعد آ نہ جاوے میری قبر تے شمر",
+          "roman": "Tere bad a na jaoe meri qbr te shmr"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "آکھے ربابؑ عابدؑ مشکل ہے میرا جینا",
+          "roman": "Aakhe rbab AS aabd AS mshkl hai mera jina"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اصغرؑ ہے کربلا وچ رہ شام گئی سکینہؑ",
+          "roman": "Asghar AS hai Karbala och rh sham gayi Sakina AS"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہوئی گود میری خالی کس دی لگی نظر",
+          "roman": "Hoyi god meri khali ks di lgi nzr"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ایس شام دے شہر وچ شبیرؑ رل گئیاں",
+          "roman": "Ais sham de shhr och shbir AS rl gyian"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دربار ویکھ ویرن تیری موت بھل گئیاں",
+          "roman": "Drbar oikh oirn teri mot bhl gyian"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "بیمار مر نہ جاوے زینبؑ نوں اے فکر",
+          "roman": "Bimar mr na jaoe Zainab AS non Aye fkr"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "روندا اے خون قیدی نئی مرض کوئی پرانی",
+          "roman": "Ronda Aye khon qidi nyi mrz koyi prani"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اے شام کھا گئی اے سجادؑ دی جوانی",
+          "roman": "Aye sham kha gayi Aye sjad AS di joani"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہویا ضعیف یکدم بازاراں دا اثر",
+          "roman": "Hoia zaif ikdm bazaran da asr"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جن و بشر ملائک کر دے بڑی عبادت",
+          "roman": "Jin o bshr mlayk kr de bri ibadat"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "لیکن ہے لاالہ دی بنیاد اے شہادت",
+          "roman": "Lekin hai laalh di bniad Aye shhadt"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "سجدہ حسینؑ تیرا بے شک عظیم تر",
+          "roman": "Sjdh Hussain AS AS tera be shk azim tr"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تنویرؔ آوے مہدیؑ کرو مل کے سب دعا اے",
+          "roman": "Tnoir aaoe mhdi AS kro ml ke sab dua Aye"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "رک جاوے رت اکھاں دی عابدؑ نوں چین آوے",
+          "roman": "Rk jaoe rt akhan di aabd AS non chin aaoe"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "آباد فیئر ہووے اے فاطمہؑ دا گھر",
+          "roman": "Aabad fiyr hooe Aye Fatima AS da ghr"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Sjad AS lyi Aye mshkl Aye sham da sfr"
+}

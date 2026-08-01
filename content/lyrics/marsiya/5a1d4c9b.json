@@ -1,0 +1,340 @@
+{
+  "id": "5a1d4c9b-2c40-5aa6-8fbe-ce19191509ed",
+  "title": "آخری سجدہ",
+  "type": "Marsiya",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=al0NW9tfkmk&list=RDal0NW9tfkmk&start_radio=1",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=al0NW9tfkmk&list=RDal0NW9tfkmk&start_radio=1"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [
+    "Day of Ashura"
+  ],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہلنے لگا عرشِ بریں, رونے لگی کربلا",
+          "roman": "Hlne lga arsh-e brin, rone lgi Karbala"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "لاکھوں قاتلوں میں تھا, مگر یہ سچ ہے با خدا",
+          "roman": "Lakhon qatlon mein tha, magar yeh sch hai ba Khuda"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کوئی نہ حسینؑ اور, خدا کے درمیاں تھا",
+          "roman": "Koyi na Hussain AS AS aur, Khuda ke drmian tha"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "سجدے میں حسینؑ تھے, لبوں پہ تھی یہی صدا",
+          "roman": "Sjde mein Hussain AS AS the, labon ph thi yehi sda"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لے اے میرے اللہ اب تیرے حوالے",
+          "roman": "Le Aye mere Allah ab tere hoale"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مالک تیرا بندہ اب تیرے حوالے",
+          "roman": "Malk tera bndh ab tere hoale"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ارے زندگی سے سیر ہو چکا",
+          "roman": "Are zndgi se sir ho chka"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "کر رہا ہوں آخری سجدہ",
+          "roman": "Kr raha hoon aakhri sjdh"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "سبحان ربی الاعلیٰ",
+          "roman": "Sbhan rbi alaali"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "عصر کی سنتا ہوں صدائے اذاں",
+          "roman": "Asr ki snta hoon sdaye azan"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "آخری دینا ہے مجھے امتحان",
+          "roman": "Aakhri dina hai mujhe amthan"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "چاروں طرف تیر و سناں برچھیاں",
+          "roman": "Charon trf tir o snan brchhian"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ہیں یہ میرے قتل کی تیاریاں",
+          "roman": "Hain yeh mere qtl ki tiarian"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "لے اے میرے اللہ اب تیرے حوالے",
+          "roman": "Le Aye mere Allah ab tere hoale"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "مالک تیرا بندہ اب تیرے حوالے",
+          "roman": "Malk tera bndh ab tere hoale"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جانتے ہیں کس کا نواسہ ہوں میں",
+          "roman": "Jante hain ks ka noash hoon mein"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جانتے ہیں کس لیے آیا ہوں میں",
+          "roman": "Jante hain ks lie aaya hoon mein"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تیرا ہی پیغام سناتا ہوں",
+          "roman": "Tera hi pigham snata hoon"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "پھر بھی ستم کا ہی نشانہ ہوں میں",
+          "roman": "Phir bhi stm ka hi nshanh hoon mein"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "لے اے میرے اللہ اب تیرے حوالے",
+          "roman": "Le Aye mere Allah ab tere hoale"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "مالک تیرا بندہ اب تیرے حوالے",
+          "roman": "Malk tera bndh ab tere hoale"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نہ میرا گھر بار نہ لشکر رہا",
+          "roman": "Na mera ghr bar na lshkr raha"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ارے اکبرؑ و عباسؑ کا غم کھا گیا",
+          "roman": "Are Akbar AS o Abbas AS ka ghm kha gaya"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اتنے ستم دل پہ میں سہتا رہا",
+          "roman": "Atne stm dil ph mein shta raha"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "شکر ہے وعدہ تو وفا ہو گیا",
+          "roman": "Shkr hai oadh to ofa ho gaya"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "لے اے میرے اللہ اب تیرے حوالے",
+          "roman": "Le Aye mere Allah ab tere hoale"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "مالک تیرا بندہ اب تیرے حوالے",
+          "roman": "Malk tera bndh ab tere hoale"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یاد رکھے گا یہ زمانہ سدا",
+          "roman": "Iad rkhe ga yeh zmanh sda"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کیسے ہمیں دشت میں لوٹا گیا",
+          "roman": "Kise hmin dasht mein lota gaya"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کیسے ہمیں نہر پہ پیاسا رکھا",
+          "roman": "Kise hmin nhr ph piasa rkha"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "کیسے میرا آخری سجدہ ہوا",
+          "roman": "Kise mera aakhri sjdh hoa"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "لے اے میرے اللہ اب تیرے حوالے",
+          "roman": "Le Aye mere Allah ab tere hoale"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "مالک تیرا بندہ اب تیرے حوالے",
+          "roman": "Malk tera bndh ab tere hoale"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "خیموں میں کہرام ہے میرے خدا",
+          "roman": "Khimon mein khram hai mere Khuda"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بیٹیوں بہنوں میں ہے ماتم بپا",
+          "roman": "Bition bhnon mein hai matm bpa"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "غش میں ہے سجادؑ اکیلا میرا",
+          "roman": "Ghsh mein hai sjad AS akila mera"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "بعد میرے ان کا ہے تو آسرا",
+          "roman": "Bad mere un ka hai to aasra"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "لے اے میرے اللہ اب تیرے حوالے",
+          "roman": "Le Aye mere Allah ab tere hoale"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "مالک تیرا بندہ اب تیرے حوالے",
+          "roman": "Malk tera bndh ab tere hoale"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لو دمِ آخر چلی آئی ہیں ماں",
+          "roman": "Lo dm-e aakhr chli aayi hain man"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ساتھ میں آئے ہیں میرے بابا جان",
+          "roman": "Sath mein aaye hain mere baba jaan"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "بھائی حسنؑ خاک پہ گریاں کناں",
+          "roman": "Bhayi Hasan AS khak ph grian knan"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "دیکھتے ہیں ناناؐ میرا امتحان",
+          "roman": "Dikhte hain nana mera amthan"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "لے اے میرے اللہ اب تیرے حوالے",
+          "roman": "Le Aye mere Allah ab tere hoale"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "مالک تیرا بندہ اب تیرے حوالے",
+          "roman": "Malk tera bndh ab tere hoale"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جیسے ہی سر خاک پہ شہؑ نے رکھا",
+          "roman": "Jise hi sar khak ph shh AS ne rkha"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "شمرِ لعین شاہ کی جانب بڑھا",
+          "roman": "Shmr-e lain shah ki janb brha"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "لرزی زمیں، خوں برسنے لگا",
+          "roman": "Lrzi zmin, khon brsne lga"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "آخری شبیرؑ کی گونجی صدا",
+          "roman": "Aakhri shbir AS ki gonji sda"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "لے اے میرے اللہ اب تیرے حوالے",
+          "roman": "Le Aye mere Allah ab tere hoale"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "مالک تیرا بندہ اب تیرے حوالے",
+          "roman": "Malk tera bndh ab tere hoale"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "ارے زندگی سے سیر ہو چکا",
+          "roman": "Are zndgi se sir ho chka"
+        },
+        {
+          "misra_number": 8,
+          "urdu": "کر رہا ہوں آخری سجدہ۔۔",
+          "roman": "Kr raha hoon aakhri sjdh.."
+        }
+      ]
+    }
+  ],
+  "title_roman": "Aakhri sjdh"
+}

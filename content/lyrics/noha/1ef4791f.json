@@ -1,0 +1,157 @@
+{
+  "id": "1ef4791f-c286-53bc-ad06-28c1b2181206",
+  "title": "یا زہرا یا زہرا",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=eHABZ9rhr88&list=RDeHABZ9rhr88&start_radio=1",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=eHABZ9rhr88&list=RDeHABZ9rhr88&start_radio=1"
+  ],
+  "personalities": [
+    "Bibi Fatima Zahra (SA)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "یا زہرا ، یا زہرا",
+      "یا زہرا ، یا زہرا"
+    ],
+    "roman": [
+      "Ya Zahra, Ya Zahra",
+      "Ya Zahra, Ya Zahra"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تو ہمیں حفظ اور اماں دے دے، اپنی چادر کا سائبان دے دے",
+          "roman": "To hmin hfz aur aman de de, apni chadar ka sayban de de"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تیری قدرت میں کیا نہیں بی بی، تو جسے چاہے دو جہاں دے دے",
+          "roman": "Teri qdrt mein kya nahi bi bi, to jse chahe do jhan de de"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "قرض مقروض کا ادا کر دے، مفلسوں کا نصیب وا کر دے",
+          "roman": "Qrz mqroz ka ada kr de, mflson ka nsib oa kr de"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جن کی گودیں بھری نہیں بی بی، ان کو اولاد تو عطا کر دے",
+          "roman": "Jin ki godin bhri nahi bi bi, un ko aolad to ata kr de"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "فرشِ مجلس پہ اور مصلے پر، ہر جوان کہہ رہا ہے رو رو کر",
+          "roman": "Frsh-e mjls ph aur msle pr, hr joan khh raha hai ro ro kr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہم رہیں نہ رہیں مگر بی بی، تا قیامت رہے غمِ سرور",
+          "roman": "Hum rhin na rhin magar bi bi, ta qayamat rahe ghm-e sarwar"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ان شہیدوں کا یہ مقدر، سائبان ان کا تیری چادر ہے",
+          "roman": "Un shhidon ka yeh mqdr, sayban un ka teri chadar hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ان کے سینوں پہ اے میری بی بی، داغِ ماتم نشانِ حیدر ہے",
+          "roman": "Un ke sinon ph Aye meri bi bi, dagh-e matm nshan-e hidr hai"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تیرے دل پر ہیں جو ستم ٹوٹے، زندگی میں جو تو نے غم دیکھے",
+          "roman": "Tere dil par hain jo stm tote, zndgi mein jo to ne ghm dikhe"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "آسمانوں زمین پے گر ہوتے، مثل شب وہ سیاہ ہو جاتے",
+          "roman": "Aasmanon zmin pe gr hote, msl shb woh siah ho jate"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بولی زہرا علی سے آ مولا ، غم یہ مجھ سے نہیں سہا جاتا",
+          "roman": "Boli Zahra Ali se a mola, ghm yeh mujh se nahi sha jata"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "قتلِ محسن سے بڑھ کے  مشکل تھا بھرے دربار میں میرا جانا",
+          "roman": "Qtl-e mhsn se brh ke mshkl tha bhre drbar mein mera jana"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اے محمد کی  لاڈلی دختر ، غم میں تیرے ہیں مرتضیٰ مُضطر",
+          "roman": "Aye Muhammad ki ladli dkhtr, ghm mein tere hain mrtzi mztr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جس نے ڈھایا تھا باب خیبر کا ، گر گیا خاک پر وہ یہ کہ کر",
+          "roman": "Js ne dhaia tha bab khibr ka, gr gaya khak par woh yeh keh kr"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جب تھا رسی میں مرتضیٰ کا گلا,امتحاں ضبط کا وہ تھا تیرا",
+          "roman": "Jab tha rsi mein mrtzi ka gla,amthan zbt ka woh tha tera"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہاں مدینہ اوجڑ گیا ہوتا توں جو دے دیتی بددعا زہراء",
+          "roman": "Han Madina aojr gaya hota ton jo de diti bdda zhra"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Ya Zahra Ya Zahra"
+}

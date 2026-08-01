@@ -1,0 +1,49 @@
+{
+  "title": "Example title in Urdu or Roman",
+  "title_roman": "Optional Roman Urdu title",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "media_urls": [
+    "https://www.youtube.com/watch?v=EXAMPLE"
+  ],
+  "personalities": ["Imam Hussain (AS)"],
+  "events": [],
+  "astai_chorus": {
+    "urdu": ["Tip / Astai line in Urdu"],
+    "roman": ["Optional Tip / Astai line in Roman Urdu"]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "First misra in Urdu",
+          "roman": "Optional first misra in Roman Urdu"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "Second misra in Urdu",
+          "roman": "Optional second misra in Roman Urdu"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "Band 1 — misra 1"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "Band 1 — misra 2"
+        }
+      ]
+    }
+  ]
+}

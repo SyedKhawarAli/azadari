@@ -1,0 +1,163 @@
+{
+  "id": "68c72349-dfb1-5904-be0f-263b32e8128a",
+  "title": "اس لا الہ پہ جس نے گھر کو لُٹا دیا",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=TkeOdBNktjQ&list=PLbujp-ihyzKCoEtqQUhUHr-PGU4U8om1R&t=285s",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=TkeOdBNktjQ&list=PLbujp-ihyzKCoEtqQUhUHr-PGU4U8om1R&t=285s"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "اُس کو بھُلا دیا، تم کیسے کلمہ گو ہو"
+    ],
+    "roman": [
+      "Iss ko bhla dia, tum kise klmh go ho"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اس لا الہ پہ جس نے گھر کو لُٹا دیا, اُس کو بھُلا دیا، تم کیسے کلمہ گو ہو",
+          "roman": "Iss la alh ph js ne ghr ko lta dia, iss ko bhla dia, tum kise klmh go ho"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سجدے میں جس نے اپنا , سر بھی کٹا دیا",
+          "roman": "Sjde mein js ne apna, sar bhi kta dia"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تم اپنی غیرتوں کو بازار میں پِھراؤ, روئیں گے ہم کبھی نہ",
+          "roman": "Tum apni ghirton ko bazar mein phrao-e, royin ge hum kbhi na"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اپنا معیارِ غیرت دنیا کو تم دکھاؤ, روئیں گے ہم کبھی نہ",
+          "roman": "Apna maiar-e ghirt dnia ko tum dkhao, royin ge hum kbhi na"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "غیرت تیری کو جس نے,  شرم و حیا دیا",
+          "roman": "Ghirt teri ko js ne, shrm o hia dia"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "انسانیت کے جس دم سانسیں اٹک رہی تھیں, کس نے دیا سہارا",
+          "roman": "Ansanit ke js dm sansin atk rahi thin, ks ne dia shara"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دنیا میں جب شریعت در در بھٹک رہی تھی, کس نے دیا سہارا",
+          "roman": "Dnia mein jab shriat dr dr bhtk rahi thi, ks ne dia shara"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "وہ حق پرست جس نے , حق سے ملا دیا",
+          "roman": "Woh hq prst js ne, hq se mla dia"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یہ کربلا نہ ہوتی، اعلیٰ کبھی نہ ہوتی  , تم کلمہ گو نہ ہوتے",
+          "roman": "Yeh Karbala na hoti, aali kbhi na hoti, tum klmh go na hote"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دنیا میں لا الٰہ کی پہچان کبھی نہ ہوتی  , تم کلمہ گو نہ ہوتے",
+          "roman": "Dnia mein la alh ki phchan kbhi na hoti, tum klmh go na hote"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تحفے میں جس نے تم کو,  یہ لا الٰہ دیا",
+          "roman": "Thfe mein js ne tum ko, yeh la alh dia"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "اُس کو بھلا دیا، تم کیسے کلمہ گو ہو؟",
+          "roman": "Iss ko bhla dia, tum kise klmh go ho?"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "انسانیت نہ ہوتی، انسانیت نہ ہوتی  , ہوتی یزیدیت اگر",
+          "roman": "Ansanit na hoti, ansanit na hoti, hoti izidit agar"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سب بُت پرست ہوتے، وحدانیت نہ ہوتی  , ہوتی یزیدیت اگر",
+          "roman": "Sab bt prst hote, ohdanit na hoti, hoti izidit agar"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جس نے یزیدیت کا نقشہ مٹا دیا",
+          "roman": "Js ne izidit ka nqshh mta dia"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "اُس کو بھلا دیا، تم کیسے کلمہ گو ہو؟",
+          "roman": "Iss ko bhla dia, tum kise klmh go ho?"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نقوی نبی کے گھر کا کچھ درد ان کو ہوتا  , ماتم میں یہ بھی آتے",
+          "roman": "Nqoi nbi ke ghr ka kchh drd un ko hota, matm mein yeh bhi aate"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "خونِ حسین کا اگر کچھ پاس ان کو ہوتا  , ماتم میں یہ بھی آتے",
+          "roman": "Khon-e Hussain AS ka agar kchh pas un ko hota, matm mein yeh bhi aate"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "گردن کٹا کے جس نے جینا سکھا دیا",
+          "roman": "Grdn kta ke js ne jina skha dia"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "اُس کو بھلا دیا، تم کیسے کلمہ گو ہو؟",
+          "roman": "Iss ko bhla dia, tum kise klmh go ho?"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Iss la alh ph js ne ghr ko lta dia"
+}

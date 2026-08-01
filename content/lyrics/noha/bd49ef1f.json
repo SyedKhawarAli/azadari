@@ -1,0 +1,203 @@
+{
+  "id": "bd49ef1f-a338-5a1b-ab85-a8cd94f8cad6",
+  "title": "دو شیر کربلا میں زینب کے آ رہے ہیں",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=WqaO1qpbmQw&list=RDWqaO1qpbmQw&start_radio=1",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=WqaO1qpbmQw&list=RDWqaO1qpbmQw&start_radio=1"
+  ],
+  "personalities": [
+    "Syeda Zainab (SA)",
+    "Imam Ali (AS)",
+    "Prophet Muhammad (SAWW)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "ہائے عون او محمد",
+      "ہائے عون او محمد",
+      "دو شیر کربلا میں زینب کے آ رہے ہیں",
+      "عکس علی ہیں دونوں ، تیور بتا رہے ہیں"
+    ],
+    "roman": [
+      "Haye aon o Muhammad",
+      "Haye aon o Muhammad",
+      "Do shir Karbala mein Zainab ke a rahe hain",
+      "Aks Ali hain donon, tior bta rahe hain"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کربوبلا کا رن ہے لرزے میں ہیں ہوائیں",
+          "roman": "Krbobla ka rn hai lrze mein hain hoayin"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "فوج یزید کا ہم احوال کیا بتائیں",
+          "roman": "Foj izid ka hum ahoal kya btayin"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "روحیں تڑپ رہی ہیں دل تھرتھرا رہے ہیں",
+          "roman": "Rohin trp rahi hain dil thrthra rahe hain"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اعدا دین کا اب جینا حرام ہوگا",
+          "roman": "Aada din ka ab jina hram hoga"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "زینب کے لاڈلوں کا ایسا قیام ہوگا",
+          "roman": "Zainab ke ladlon ka aisa qiam hoga"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "حیدر کے ساتھ جیسے عباس آ رہے ہیں",
+          "roman": "Hidr ke sath jise Abbas a rahe hain"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ان کا رجز ہے اپنے دادا کی پاسبانی",
+          "roman": "Un ka rjz hai apne dada ki pasbani"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بڑھتے ہوئے قدم ہیں جعفر کی ترجمانی",
+          "roman": "Brhte hoye qdm hain jafr ki trjmani"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "پرواز بن پرون کے کرتے ہی جا رہے ہیں",
+          "roman": "Proaz bn pron ke krte hi ja rahe hain"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اب موت کا فرشتہ پھر کام پر لگے گا",
+          "roman": "Ab mot ka frshth phir kam par lge ga"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "روحوں کے سر کٹیں گے اور وہ انھیں چُنے گا",
+          "roman": "Rohon ke sar ktin ge aur woh anhin chne ga"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جیسے یہ ذوالفقار حیدر چلا رہے ہیں",
+          "roman": "Jise yeh zoalfqar hidr chla rahe hain"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اعدا کی سب صفوں میں کُہرام اب مچے گا",
+          "roman": "Aada ki sab sfon mein khram ab mche ga"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کس کے پسر ہیں دونوں سب کو پتہ چلے گا",
+          "roman": "Ks ke psr hain donon sab ko pth chle ga"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ماں کی دعاؤں کے یہ تمغے سجا رہے ہیں",
+          "roman": "Man ki daaon ke yeh tmghe sja rahe hain"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ان کی وغام جوشِ حمزہ جہان دیکھے",
+          "roman": "Un ki ogham josh-e hmzh jahan dikhe"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جب یہ لڑیں تو جھک کر خود آسمان دیکھے",
+          "roman": "Jab yeh lrin to jhk kr khod aasman dikhe"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "عباس کے یہ ضیغم بن کر دیکھا رہے ہیں",
+          "roman": "Abbas ke yeh zighm bn kr dikha rahe hain"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لشکر اُلٹ پلٹ کر خیموں کی سمت دیکھا",
+          "roman": "Lshkr alt plt kr khimon ki smt dikha"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بے خوف تھے یہ پھر بھی یہ خوف کھا رہا تھا",
+          "roman": "Be khof the yeh phir bhi yeh khof kha raha tha"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "لینے ردا ستم گر خیموں میں جا رہے ہیں",
+          "roman": "Line rida stm gr khimon mein ja rahe hain"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جب لڑ چکے لڑائی غیبی پیام آیا",
+          "roman": "Jab lr chke lrayi ghibi piam aaya"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اپنی وفا نبھا کر دونوں نے سر کٹایا",
+          "roman": "Apni ofa nbha kr donon ne sar ktaia"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "یاسر اب ان کو حیدر کوثر پلا رہے ہیں",
+          "roman": "Iasr ab un ko hidr kosr pla rahe hain"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Do shir Karbala mein Zainab ke a rahe hain"
+}

@@ -1,0 +1,353 @@
+{
+  "id": "e41810d9-3c69-5844-9b63-5162a26a85ab",
+  "title": "اکبر تمہیں معلوم ہے کیا مانگ رہے ہو",
+  "title_roman": "Akbar tumhein maloom hai kya maang rahe ho",
+  "type": "Marsiya",
+  "poet_name": "Khurshid",
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Hazrat Ali Akbar (AS)",
+    "Imam Hussain (AS)",
+    "Syeda Zainab (SA)"
+  ],
+  "events": [
+    "Day of Ashura"
+  ],
+  "astai_chorus": {
+    "urdu": [
+      "اکبر تمہیں معلوم ہے کیا مانگ رہے ہو",
+      "تم باپ سے مرنے کی رضا مانگ رہے ہو"
+    ],
+    "roman": [
+      "Akbar tumhein maloom hai kya maang rahe ho",
+      "Tum baap se marne ki raza maang rahe ho"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اس عالمِ غربت میں تمہیں جانے دوں کیسے",
+          "roman": "Iss aalam-e ghurbat mein tumhein jaane doon kaise"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اس دشتِ مصیبت میں تمہیں جانے دوں کیسے",
+          "roman": "Iss dasht-e musibat mein tumhein jaane doon kaise"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اس وقتِ قیامت میں تمہیں جانے دوں کیسے",
+          "roman": "Iss waqt-e qayamat mein tumhein jaane doon kaise"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "اے لال جو تم اذنِ وداع مانگ رہے ہو",
+          "roman": "Aye laal jo tum izn-e widaa maang rahe ho"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کیا گزرے گی اس باپ کے دل پر نہیں سوچا",
+          "roman": "Kya guzregi iss baap ke dil par nahi socha"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تم نے یہ میری جان علی اکبر نہیں سوچا",
+          "roman": "Tumne yeh meri jaan Ali Akbar nahi socha"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "مر جاؤں گا میں تجھ سے بچھڑ کر نہیں سوچا",
+          "roman": "Mar jaunga main tujhse bichhad kar nahi socha"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "تم مجھ سے ضعیفی کا عصا مانگ رہے ہو",
+          "roman": "Tum mujhse zaeefi ka asaa maang rahe ho"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دل روتا ہے نظروں سے اگر دور ہو بیٹا",
+          "roman": "Dil rota hai nazron se agar door ho beta"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کس طرح جدائی تیری منظور ہو بیٹا",
+          "roman": "Kis tarhan judaai teri manzoor ho beta"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تم ہی میری آنکھیں ہو میرا نور ہو بیٹا",
+          "roman": "Tum hi meri ankhein ho mera noor ho beta"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "مجھ سے میری آنکھوں کی ضیا مانگ رہے ہو",
+          "roman": "Mujhse meri ankhon ki ziya maang rahe ho"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دنیا سے گیا جس گھڑی محبوبِ خدا کا",
+          "roman": "Duniya se gaya jis ghadi mehboob-e Khuda ka"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نانا کی زیارت کو تڑپتا تھا نواسہ",
+          "roman": "Nana ki ziyarat ko tarapta tha nawasa"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اے لال تجھے اس لیے خالق سے تھا مانگا",
+          "roman": "Aye laal tujhe is liye khaliq se tha manga"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "مقبول ہوئی میری دعا مانگ رہے ہو",
+          "roman": "Maqbool hui meri dua maang rahe ho"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اسلام پہ خود اپنا لہو رن میں بہاؤ",
+          "roman": "Islam pe khud apna lahoo ran mein bahao"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سینے پہ سنان شان سے میدان میں کھاؤ",
+          "roman": "Seene pe sinan shaan se maidan mein khao"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تصویرِ پیغمبرؐ کی سرِ خاک ملاؤ",
+          "roman": "Tasweer-e Payambar (SAW) ki sar-e khaak milao"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "کیا اس لیے مرنے کی رضا مانگ رہے ہو",
+          "roman": "Kya iss liye marne ki raza maang rahe ho"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ایک روز تجھے آن کے مانگا تھا پھوپھی نے",
+          "roman": "Ek roz tujhe aan ke manga tha phuphi ne"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اٹھارہ برس نازوں سے پالا تھا پھوپھی نے",
+          "roman": "Atthara baras nazon se paala tha phuphi ne"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "بیٹوں سے بھی زیادہ تمہیں چاہا تھا پھوپھی نے",
+          "roman": "Beton se bhi zyada tumhein chaha tha phuphi ne"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "احسان جو زینبؑ نے کیا مانگ رہے ہو",
+          "roman": "Ehsaan jo Zainab (SA) ne kiya maang rahe ho"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "رکھتے نہیں تم اس کی خبر اے میرے پیارے",
+          "roman": "Rakhte nahi tum iski khabar aye mere pyare"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کس درجہ محبت ہے تیری دل میں ہمارے",
+          "roman": "Kis darja mohabbat hai teri dil mein hamare"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "نانا کی میرے شکل ہے پیکر میں تمہارے",
+          "roman": "Nana ki mere shakl hai paikar mein tumhare"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "تم صورتِ محبوبِ خدا مانگ رہے ہو",
+          "roman": "Tum soorat-e mehboob-e Khuda maang rahe ho"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سر تیرا بھی جس وقت چڑھے گا سرِ نیزہ",
+          "roman": "Sar tera bhi jiss waqt chadhega sar-e neza"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہوگا سرِ میدان جدا سر بھی تمہارا",
+          "roman": "Hoga sar-e maidan juda sar bhi tumhara"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہم شکلِ پیغمبرؐ کا گلا کاٹیں گے ادا",
+          "roman": "Hum shakl-e Payambar (SAW) ka gala kaatenge ada"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "گویا میرے نانا کا گلا مانگ رہے ہو",
+          "roman": "Goya mere nana ka gala maang rahe ho"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بابا مجھے معلوم ہے کیا مانگ رہا ہوں",
+          "roman": "Baba mujhe maloom hai kya maang raha hoon"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ایک باپ سے مرنے کی رضا مانگ رہا ہوں",
+          "roman": "Ek baap se marne ki raza maang raha hoon"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "بابا مجھے اماں نے بھی کچھ درس دیا ہے",
+          "roman": "Baba mujhe amma ne bhi kuch dars diya hai"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ادبِ وفا سے مجھے آگاہ کیا ہے",
+          "roman": "Adab-e wafa se mujhe aagah kiya hai"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "پہلے میں مروں آپ سے وعدہ یہ لیا ہے",
+          "roman": "Pehle main maroon aap se wada yeh liya hai"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "بس اس لیے مرنے کی رضا مانگ رہا ہوں",
+          "roman": "Bas iss liye marne ki raza maang raha hoon"
+        }
+      ]
+    },
+    {
+      "band_number": 10,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہیں آپ تو بابا ابنِ خاتونِ قیامتؑ",
+          "roman": "Hain aap to baba ibn-e Khatoon-e Qayamat (SA)"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اور ماں ہے میری ادنیٰ سی ایک پیکرِ عصمت",
+          "roman": "Aur maa hai meri adna si ek paikar-e ismat"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کیا سینے میں اس پہ نہیں کچھ جذبۂ عصمت",
+          "roman": "Kya seene mein us pe nahin kuch jazba-e ismat"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "میں مادرِ مضطر کا کہا مان رہا ہوں",
+          "roman": "Main madar-e muztar ka kaha maan raha hoon"
+        }
+      ]
+    },
+    {
+      "band_number": 11,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بابا مجھے احوالِ دلِ زار پتا ہے",
+          "roman": "Baba mujhe ahwaal-e dil-e zaar pata hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہے سخت بہت منزلِ دشوار پتا ہے",
+          "roman": "Hai sakht bohat manzil-e dushwaar pata hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اور دین کا مشکل میں ہے سردار پتا ہے",
+          "roman": "Aur deen ka mushkil mein hai sardaar pata hai"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "یوں آپ سے مرنے کی رضا مانگ رہا ہوں",
+          "roman": "Yun aap se marne ki raza maang raha hoon"
+        }
+      ]
+    },
+    {
+      "band_number": 12,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میں شاعرِ حسرت جگر سوز ہوں خورشید",
+          "roman": "Main shair-e hasrat jigar-soz hoon Khurshid"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "محوِ غمِ شبیرؑ شب و روز ہوں خورشید",
+          "roman": "Mehv-e gham-e Shabbir (AS) shab-o-roz hoon Khurshid"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "آلامِ مصائب سے زمیں دوز ہوں خورشید",
+          "roman": "Aalaam-e masaeb se zameen-doz hoon Khurshid"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "کشکول میں کچھ اشکِ عزا مانگ رہا ہوں",
+          "roman": "Kashkol mein kuch ashq-e aza maang raha hoon"
+        }
+      ]
+    }
+  ]
+}

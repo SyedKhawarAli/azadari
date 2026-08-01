@@ -1,0 +1,97 @@
+{
+  "id": "d457be6a-c5d4-5dda-8c30-4d993ed37fe4",
+  "title": "یا علی، لب پہ میرے صبح و مسا رہتا ہے",
+  "type": "Manqabat",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Imam Ali (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یا علی، لب پہ میرے صبح و مسا رہتا ہے",
+          "roman": "Ya ali, lb ph mere sbh o msa rehta hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جامِ کُوثر میرے ہونٹوں پہ لگا رہتا ہے",
+          "roman": "Jam-e kosr mere honton ph lga rehta hai"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "آتی رہتی ہے سماعت میں سلونی کی صدا",
+          "roman": "Aati rhti hai smaat mein sloni ki sda"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "علم کے شہر کا دروازہ کھلا رہتا ہے",
+          "roman": "Alm ke shhr ka droazh khla rehta hai"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جس کے چہرے پہ خوشی نامِ علی سے آئے",
+          "roman": "Js ke chhre ph khoshi nam-e Ali se aaye"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اُس کا چہرہ دمِ آخر بھی کھلا رہتا ہے",
+          "roman": "Iss ka chhrh dm-e aakhr bhi khla rehta hai"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وقتِ پرسش میری ہمت کو بڑھانے کے لیے",
+          "roman": "Waqt-e prssh meri hmt ko brhane ke lie"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میرا مولا میری بالی  پہ کھڑا رہتا ہے",
+          "roman": "Mera mola meri bali ph khra rehta hai"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "پورے قرآن میں، اے حافظ قرآن بتا",
+          "roman": "Pore qraan min, Aye hafz qraan bta"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نقطہِ باء جو نکل جائے تو کیا رہتا ہے",
+          "roman": "Nqth-e ba jo nkl jaye to kya rehta hai"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Ya ali, lb ph mere sbh o msa rehta hai"
+}

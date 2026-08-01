@@ -1,0 +1,83 @@
+{
+  "id": "15836d73-b6de-5bc2-bccb-b342ab318820",
+  "title": "سر رکھ میڈے سینے تے ، دُکھ پِیوکو سورائنڈی آں",
+  "type": "Marsiya",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://vm.tiktok.com/ZGe3KxcHj/",
+  "media_urls": [
+    "https://vm.tiktok.com/ZGe3KxcHj/"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سر رکھ میڈے  سینے تے ، دُکھ پِیوکو سورائندی آں",
+          "roman": "Sar rkh mide seene te, dkh pioko-e sorayndi aan"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میں بُڈھہری تھی گئی ھاں، بابے کوں ڈسنڈی آں",
+          "roman": "Mein bdhhri thi gayi han, babe kon dsndi aan"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بابا تیرے قاتلان نے ، میکوں اتنا مارا اے",
+          "roman": "Baba tere qatlan ne, mikon atna mara Aye"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میری دید وی مک گئی ہے، ہر پاسے اندھارا اے",
+          "roman": "Meri did oi mk gayi he, hr pase andhara Aye"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جیویں اکبر گولیا ہیے، سجّاد گولینڈی آں",
+          "roman": "Jioin Akbar golia hie, sjad golindi aan"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "زِندان اِچ کئی واری، میں جھڑ جھڑ ویندی آں",
+          "roman": "Zndan-e ach-e kyi oari, mein jhr jhr oindi aan"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دُر شِمر لوٹے بابا، جیویں ہن نہ ڈسا سنگدی",
+          "roman": "Dr shmr-e lote baba, jioin hn na dsa sngdi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہن حشر دے ڈھن توڑی، میں دُر نہ پَا سنگدی",
+          "roman": "Hn hshr de dhn tori, mein dr na pa sngdi"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Sar rkh mide seene te, dkh pioko-e sorayndi aan"
+}

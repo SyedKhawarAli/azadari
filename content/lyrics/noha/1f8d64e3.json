@@ -1,0 +1,139 @@
+{
+  "id": "1f8d64e3-0b46-55e7-8b9d-a72ed2f0fd0e",
+  "title": "تیڈا سینہ نئی لبدا بابا میں رُل گئی آں",
+  "type": "Noha",
+  "poet_name": "محسن جعفری",
+  "reciter_name": "ملازم حسین",
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Bibi Sakina (SA)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "تیڈا سینہ نئی لبدا بابا میں رُل گئی آں",
+      "انج لتھے ہوئے دُر مینڈے او تیکوں رونا بُھل گئی آں"
+    ],
+    "roman": [
+      "Tida seena nyi lbda baba mein rl gayi aan",
+      "Anj lthe hoye dr minde o tikon rona bhl gayi aan"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بابا میکوں شام دے لوکاں نے تیڈے بعد کنیزی وچ منگیا",
+          "roman": "Baba mikon sham de lokan ne tide bad knizi och mngia"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میں غیرت سیداں دی او ویلے مرگئی آں",
+          "roman": "Mein ghirt sidan di o oile mrgyi aan"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جداں گل تیڈے ضرباں چلیاں میں کول کھلو کے ڈھیندی رہی",
+          "roman": "Jdan gl tide zrban chlian mein kol khlo ke dhindi rahi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نئی ملیا سر تیڈا او ترلے کر دی رئی آں",
+          "roman": "Nyi mlia sar tida o trle kr di ryi aan"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جداں وکھری قید دا حکم ہویا میکوں کلیاں تنگ زندان دے وچ",
+          "roman": "Jdan okhri qid da hkm hoia mikon klian tng zndan de och"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "انج روندی میں ٹری آں او قیدن میں رُل گئی آں",
+          "roman": "Anj rondi mein tri aan o qidn mein rl gayi aan"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دتا پہلا پرسہ مقتل وچ میکوں شمر لعین یتیمی دا",
+          "roman": "Dta phla prsh mqtl och mikon shmr lain itimi da"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "انج ظالم ہتھ چایا او میں خاک تے جھڑ پئی آں",
+          "roman": "Anj zalim hth chaia o mein khak te jhr pyi aan"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جداں داخلہ ہویا شام دے وچ ہئی بھیڑ بازاری لوکاں دی",
+          "roman": "Jdan dakhlh hoia sham de och hyi bhir bazari lokan di"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "پھپھیاں دے ٹرن کیتے او میں راہ منگدی رئی آں",
+          "roman": "Phphian de trn kite o mein rah mngdi ryi aan"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تیڈے خون چ تر ہتھ ظالم دے میکوں اجر رسالت دیندے رہے",
+          "roman": "Tide khon ch tr hth zalim de mikon ajr rsalt dinde rahe"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "انج خمس میکوں ملیا او رنگین ہویاں زلفاں",
+          "roman": "Anj khms mikon mlia o rngin hoian zlfan"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شالا کوئی دھی نہ انج گزرے بے سر بابے دی لاش اتوں",
+          "roman": "Shala koyi dhi na anj gzre be sar babe di lash aton"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جیویں میں رسیاں پا کے او تیڈی لاش توں گزری آں",
+          "roman": "Jioin mein rsian pa ke o tidi lash ton gzri aan"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Tida seena nyi lbda baba mein rl gayi aan"
+}

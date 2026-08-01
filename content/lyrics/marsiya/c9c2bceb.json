@@ -1,0 +1,241 @@
+{
+  "id": "c9c2bceb-907b-5b64-bd03-3f48294ad792",
+  "title": "ایک احسان کر میرے غازیؑ",
+  "type": "Marsiya",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=ZZ76beDW1S8&list=RDZZ76beDW1S8&start_radio=1",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=ZZ76beDW1S8&list=RDZZ76beDW1S8&start_radio=1"
+  ],
+  "personalities": [
+    "Hazrat Abbas (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "ایک احسان کر میرے غازیؑ، ظالموں سے میری ردا لا دے",
+      "ایک احسان کر میرے غازیؑ، ظالموں سے میری ردا لا دے",
+      "پھر اس کے بعد کچھ نہ مانگوں گی",
+      "ظالموں سے میری ردا لا دے",
+      "ایک احسان کر میرے غازیؑ، ظالموں سے میری ردا لا دے",
+      "ایک احسان کر میرے غازیؑ، ظالموں سے میری ردا لا دے"
+    ],
+    "roman": [
+      "Aik ahsan kr mere ghazi, AS zalmon se meri rida la de",
+      "Aik ahsan kr mere ghazi, AS zalmon se meri rida la de",
+      "Phir iss ke bad kchh na mangon gi",
+      "Zalmon se meri rida la de",
+      "Aik ahsan kr mere ghazi, AS zalmon se meri rida la de",
+      "Aik ahsan kr mere ghazi, AS zalmon se meri rida la de"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جب شام کا بازار آ گیا",
+          "roman": "Jab sham ka bazar a gaya"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اور چھینی گئی جب چادر",
+          "roman": "Aur chhini gayi jab chadar"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جب ظالم نے زینبؑ کا نام پکارا",
+          "roman": "Jab zalim ne Zainab AS ka nam pkara"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "زینبؑ زینبؑ زینبؑ",
+          "roman": "Zainab AS Zainab AS Zainab AS"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "یہ پکاری رو کر",
+          "roman": "Yeh pkari ro kr"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لاش تو کب کی بن چکی ہوں میں, دل تو بس عادتاً دھڑکتا ہے",
+          "roman": "Lash to kb ki bn chki hoon mein, dil to bs aadta dhrkta hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مار ڈالے نہ یہ ستم مجھ کو, میرے بھائی یہ مجھ کو لگتا ہے",
+          "roman": "Mar dale na yeh stm mujh ko, mere bhayi yeh mujh ko lgta hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جو چاہتا ہے زندگی میری, ظالموں سے میری ردا لا دے",
+          "roman": "Jo chahta hai zndgi meri, zalmon se meri rida la de"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دیکھ سجادؑ کی طرف غازیؑ,تجھ سے کرتی ہے یہ فغاں زینبؑ",
+          "roman": "Dikh sjad AS ki trf ghazi AS,tjh se krti hai yeh fghan Zainab AS"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ایک یہی بوجھ اس کے دل پر ہے,کہاں بازار اور کہاں زینبؑ",
+          "roman": "Aik yehi bojh iss ke dil par hai,kahan bazar aur kahan Zainab AS"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہے ایک راہ اس کے جینے کی, ظالموں سے میری ردا لا دے",
+          "roman": "Hai aik rah iss ke jeene ki, zalmon se meri rida la de"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کیسے طعنے سہوں میں لوگوں کے,غم سے پھٹنے لگا ہے دل میرا",
+          "roman": "Kise tane shon mein logon ke,ghm se phtne lga hai dil mera"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سب یہ کہتے ہیں یہ وہ زینبؑ ہے,جس کا عباسؑ جیسا بھائی تھا",
+          "roman": "Sab yeh khte hain yeh woh Zainab AS hai,js ka Abbas AS jisa bhayi tha"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "زبانیں بند کر دے تُو سب کی, ظالموں سے میری ردا لا دے",
+          "roman": "Zbanin bnd kr de to sab ki, zalmon se meri rida la de"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میری حالت میری غریبی پر, بھائی نیزے سے خون روتا ہے",
+          "roman": "Meri halt meri ghribi par, bhayi nize se khon rota hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اماں روتی ہے اور باباؑ بھی, کیونکہ اب وقت ایسا آیا ہے",
+          "roman": "Aman roti hai aur baba AS bhi, kionkh ab waqt aisa aaya hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اب آ رہی ہے ایک کنیز میری, ظالموں سے میری ردا لا دے",
+          "roman": "Ab a rahi hai aik kniz meri, zalmon se meri rida la de"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کربلا بس گئی ہے آنکھوں میں, مرثیہ بن گیا میرا چہرہ",
+          "roman": "Karbala bs gayi hai aankhon mein, mrsih bn gaya mera chhrh"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تازیانوں نے اے میرے غازیؑ, پشت پر لکھ دیا سفر میرا",
+          "roman": "Tazianon ne Aye mere ghazi AS, psht par lkh dia sfr mera"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہے اس کے بعد بھی بُکا میری, ظالموں سے میری ردا لا دے",
+          "roman": "Hai iss ke bad bhi bka meri, zalmon se meri rida la de"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ایک ستم اور بھی یہ باقی ہے, کس طرح طے یہ مرحلہ ہو گا",
+          "roman": "Aik stm aur bhi yeh baqi hai, ks trh te yeh mrhlh ho ga"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہاتھ رسی میں اور کھلے سر ہوں, کیسے شمر سے سامنا ہو گا",
+          "roman": "Hath rsi mein aur khle sar hoon, kise shmr se samna ho ga"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "یا اے موت یا میرے غازیؑ,  ظالموں سے میری ردا لا دے",
+          "roman": "Ya Aye mot Ya mere ghazi AS, zalmon se meri rida la de"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دیکھتی ہے مجھے نجس آنکھیں, نام میرا شقی کے لب پر ہے",
+          "roman": "Dikhti hai mujhe njs aankhein, nam mera shqi ke lb par hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کاش کھا جائے یہ زمین مجھ کو, ایسے جینے سے یہی بہتر ہے",
+          "roman": "Kash kha jaye yeh zmin mujh ko, aise jeene se yehi bhtr hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "یہ آخری ہے التجا میری, ظالموں سے میری ردا لا دے",
+          "roman": "Yeh aakhri hai altja meri, zalmon se meri rida la de"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جا کر \"فرحان\" ان کے روضے پر, تم سنا دینا یہ کلام میرا",
+          "roman": "Ja kr \"frhan\" un ke roze par, tum sna dina yeh klam mera"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بی بی زینبؑ کہا ہے \"مظہر\" نے, تیری عظمت کو ہے سلام میرا",
+          "roman": "Bi bi Zainab AS kha hai \"mzhr\" ne, teri azmt ko hai salaam mera"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "جو اپنے بھائی کو یہ کہتی رہی, ظالموں سے میری ردا لا دے",
+          "roman": "Jo apne bhayi ko yeh khti rahi, zalmon se meri rida la de"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "پھر اس کے بعد کچھ نہ مانگوں گی, ظالموں سے میری ردا لا دے",
+          "roman": "Phir iss ke bad kchh na mangon gi, zalmon se meri rida la de"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Aik ahsan kr mere ghazi AS"
+}

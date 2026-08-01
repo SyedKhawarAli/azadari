@@ -1,0 +1,166 @@
+{
+  "id": "ed09f538-3d70-50b5-9a6d-891d69c568cb",
+  "title": "چار برسوں میں ہوئی ہوں میں ضعیفہ بابا",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=vu1yw454yXc&list=PLbujp-ihyzKCoEtqQUhUHr-PGU4U8om1R&index=14",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=vu1yw454yXc&list=PLbujp-ihyzKCoEtqQUhUHr-PGU4U8om1R&index=14"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "چار برسوں میں ہوئی ہوں میں ضعیفہ بابا، مجھ کو پہچان میں ہوں تیری سکینہ بابا",
+          "roman": "Char brson mein hoyi hoon mein zaifh baba, mujh ko phchan mein hoon teri Sakina baba"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ترے قاتل نے ترے، بعد ہے اتنا مارا",
+          "roman": "Tre qatl ne tre, bad hai atna mara"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "مجھ کو پہچان میں ہوں تیری سکینہ بابا",
+          "roman": "Mujh ko phchan mein hoon teri Sakina baba"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میرے چہرے کی بدلتی ہوئی رنگت دیکھو",
+          "roman": "Mere chhre ki bdlti hoyi rngt dikho"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "شدتِ پیاس سے ہونٹوں کی یہ حالت دیکھو",
+          "roman": "Shdt-e pias se honton ki yeh halt dikho"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "دیکھو رسی سے بندھا ہے تیری بیٹی کا گلا",
+          "roman": "Dikho rsi se bndha hai teri biti ka gla"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نوک نیزہ پہ کیا آپ نے اے بابا سفر",
+          "roman": "Nok nizh ph kya aap ne Aye baba sfr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "راہ  پُرخار پے  گزرا ہے میرا سارا سفر",
+          "roman": "Rah prkhar pe gzra hai mera sara sfr"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اتنی زخمی ہوں قدم بھی نہیں اٹھتا بابا",
+          "roman": "Atni zkhmi hoon qdm bhi nahi athta baba"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جس طرح سے لب و رخسار تیرے زخمی ہیں",
+          "roman": "Js trh se lb o rkhsar tere zkhmi hain"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اس طرح سے لب و رخسار میرے زخمی ہیں",
+          "roman": "Iss trh se lb o rkhsar mere zkhmi hain"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تیری طرح تیری بیٹی کا ہے زخمی چہرہ",
+          "roman": "Teri trh teri biti ka hai zkhmi chhrh"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اماں زہرا کی تجھے آتی تھی مجھ سے خوشبو",
+          "roman": "Aman Zahra ki tjhe aati thi mujh se khoshbo"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جھک گئی میری کمر زخمی میرا ہے پہلو",
+          "roman": "Jhk gayi meri kmr zkhmi mera hai phlo"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "چار برسوں میں ہوئی ہوں میں شبیہہ زھرا",
+          "roman": "Char brson mein hoyi hoon mein shbihh zhra"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کوئی صدقہ تو کوئی پھینک رہا ہے پتھر",
+          "roman": "Koyi sdqh to koyi phink raha hai pthr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کوئی ہستا ہے مجھے باغی کی بیٹی کہہ کر",
+          "roman": "Koyi hsta hai mujhe baghi ki biti khh kr"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہر قدم تیری سکینہ پہ ہوا ظلم نیا",
+          "roman": "Hr qdm teri Sakina ph hoa zlm nia"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "درد یہ کس کو سنائے بھلا تیری بیٹی",
+          "roman": "Drd yeh ks ko snaye bhla teri biti"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ترے رخسار پہ رخسار نہیں رکھ سکتی",
+          "roman": "Tre rkhsar ph rkhsar nahi rkh skti"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ظلم ایسا تو یتیموں پہ کہیں بھی نہ ہوا",
+          "roman": "Zlm aisa to itimon ph khin bhi na hoa"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Char brson mein hoyi hoon mein zaifh baba"
+}

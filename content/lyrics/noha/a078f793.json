@@ -1,0 +1,237 @@
+{
+  "id": "a078f793-02cb-50d1-a9e6-ffcf278f6df7",
+  "title": "اے چاند محرم کے تو بدلی میں چلا جا",
+  "type": "Noha",
+  "poet_name": "یوسف سردار",
+  "reciter_name": "انجمن شباب المومنین",
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Bibi Sughra (SA)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "اے چاند محرم کے تو بدلی میں چلا جا",
+      "تجھے دیکھ کے مر جائے نہ بیمار ہے صغراؑ"
+    ],
+    "roman": [
+      "Aye chand mhrm ke to bdli mein chla ja",
+      "Tjhe dikh ke mr jaye na bimar hai sghra AS"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "گھر زہراؑ کا لٹنے کی خبر تو نے سنائی",
+          "roman": "Ghr Zahra AS ka ltne ki khbr to ne snayi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تجھے دیکھ کے روتی ہے محرم میں خدائی",
+          "roman": "Tjhe dikh ke roti hai mhrm mein khdayi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "چودہ سو برس بیتے سب کرتے ہیں شکوہ",
+          "roman": "Chodh so brs bite sab krte hain shkoh"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ملنے کے لئے بھائی کو بے چین بڑی ہے",
+          "roman": "Mlne ke lye bhayi ko be chin bri hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کب سے علی اکبرؑ کی یہ راہوں میں کھڑی ہے",
+          "roman": "Kb se Ali Akbar AS ki yeh rahon mein khri hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "بچھڑی ہے یہ مدت سے اسے تو نہ نظر آ",
+          "roman": "Bchhri hai yeh mdt se ase to na nzr a"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ویران گھروں میں نہ اسے نیند ہے آتی",
+          "roman": "Oiran ghron mein na ase nind hai aati"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اکبرؑ کی جدائی ہے اسے خون رلاتی",
+          "roman": "Akbar AS ki jdayi hai ase khon rlati"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "قدموں کے نشاں ڈھانپ کے بیٹھی ہے سرِ راہ",
+          "roman": "Qdmon ke nshan dhanp ke bithi hai sar-e rah"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "گن گن کے جو صغراؑ نے یہ دن ہیں گزارے",
+          "roman": "Gn gn ke jo sghra AS ne yeh din hain gzare"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "زندہ ہے تو اکبرؑ کے وعدوں کے سہارے",
+          "roman": "Zndh hai to Akbar AS ke oadon ke share"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "دن رات تڑپتی ہے اسے اور نہ تڑپا",
+          "roman": "Din raat trpti hai ase aur na trpa"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بھیا کی جدائی میں پریشان ہے رہتی",
+          "roman": "Bhia ki jdayi mein prishan hai rhti"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہر روز یہ نانا کو رو رو کے ہے کہتی",
+          "roman": "Hr roz yeh nana ko ro ro ke hai khti"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اکبرؑ نہ ملا نانا میں مر جاؤں گی تنہا",
+          "roman": "Akbar AS na mla nana mein mr jaon gi tnha"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "قاصد کو دیا خط میں یہ پیغام لکھا کے",
+          "roman": "Qasd ko dia kht mein yeh pigham lkha ke"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اک بار تو مل جا مجھے سینے سے لگا لے",
+          "roman": "Ak bar to ml ja mujhe seene se lga le"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "پتھرائی ہوئی نظریں کب دیکھیں گی چہرہ",
+          "roman": "Pthrayi hoyi nzrin kb dikhin gi chhrh"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وعدہ جو کیا بہن کو سینے سے لگا کے",
+          "roman": "Oadh jo kya bhn ko seene se lga ke"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میں شادی کروں گا تیرے پاس ہی آ کے",
+          "roman": "Mein shadi kron ga tere pas hi a ke"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میں سات محرم کو لوٹوں گا نہ گھبرا",
+          "roman": "Mein sat mhrm ko loton ga na ghbra"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "رونے نہیں دیتے مجھے راتوں کو مسلماں",
+          "roman": "Rone nahi dite mujhe raton ko mslman"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بیماری سے بے حال ہوں کچھ روز کی مہماں",
+          "roman": "Bimari se be hal hoon kchh roz ki mhman"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہر سمت سے ہے مجھ کو اب موت نے گھیرا",
+          "roman": "Hr smt se hai mujh ko ab mot ne ghira"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بہنوں کا تو بھائیوں سے رشتہ ہی عجب ہے",
+          "roman": "Bhnon ka to bhayion se rshth hi ajb hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تم بھول گئے مجھ کو یہ کیسا غضب ہے",
+          "roman": "Tum bhol gaye mujh ko yeh kisa ghzb hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اس آس پہ زندہ ہوں دیکھوں تیرا سہرا",
+          "roman": "Iss aas ph zndh hoon dikhon tera shra"
+        }
+      ]
+    },
+    {
+      "band_number": 10,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "صغراؑ کے نصیبوں میں رونا ہی لکھا ہے",
+          "roman": "Sghra AS ke nsibon mein rona hi lkha hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سردار معصومہ کو ملی کیسی سزا ہے",
+          "roman": "Srdar masomh ko mli kisi sza hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "خط آیا نہ اکبرؑ کا روتی رہی صغراؑ",
+          "roman": "Kht aaya na Akbar AS ka roti rahi sghra AS"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Aye chand mhrm ke to bdli mein chla ja"
+}

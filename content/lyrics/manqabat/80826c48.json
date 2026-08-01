@@ -1,0 +1,185 @@
+{
+  "id": "80826c48-aa91-5586-9b94-d06ca5ac1bae",
+  "title": "فاطمہ کے چَین نے، نبی کے نورعَین نے",
+  "type": "Manqabat",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Bibi Fatima Zahra (SA)",
+    "Imam Hussain (AS)",
+    "Prophet Muhammad (SAWW)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "فاطمہ (س) کے چین نے، نبی (ص) کے نورِ عین نے",
+      "بخدا حسین (ع) نے دین کو بچا لیا"
+    ],
+    "roman": [
+      "Fatima (s) ke chin ne, nbi (s) ke noor-e ain ne",
+      "Bkhda Hussain AS (a) ne din ko bcha lia"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "حرف آ رہا تھا دینِ مصطفیٰ (ص) کے نام پر",
+          "roman": "Hrf a raha tha din-e mstfi (s) ke nam par"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "منبرِ رسول (ص) بک رہا تھا تختِ شام پر",
+          "roman": "Mnbr-e rsol (s) bk raha tha tkht-e sham par"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تو دین کی اساس نے، دستِ حق شناس نے",
+          "roman": "To din ki asas ne, dst-e hq shnas ne"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "امتِ محمدی کو خواب سے جگا دیا، دین کو بچا لیا",
+          "roman": "Amt-e mhmdi ko khoab se jga dia, din ko bcha lia"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہر طرف سے بند ہو چکے تھے حق کے راستے",
+          "roman": "Hr trf se bnd ho chke the hq ke raste"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "خون مانگتا تھا دین زندگی کے واسطے",
+          "roman": "Khon mangta tha din zndgi ke oaste"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تو دین کے اصول نے، ایک نائبِ رسول (ص) نے",
+          "roman": "To din ke asol ne, aik nayb-e rsol (s) ne"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "زندگی کا قرض اپنے خون سے چکا دیا، دین کو بچا لیا",
+          "roman": "Zndgi ka qrz apne khon se chka dia, din ko bcha lia"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "امیرِ شام بن گیا تھا سانپ آستین کا",
+          "roman": "Amir-e sham bn gaya tha sanp aastin ka"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "خسروی کے سر پہ رکھ رہا تھا تاج دین کا",
+          "roman": "Khsroi ke sar ph rkh raha tha taj din ka"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تو بادشاہِ دین نے، ایک بوریا نشین نے",
+          "roman": "To badshah-e din ne, aik boria nshin ne"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "آرزوئے خسروی کو خاک میں ملا دیا، دین کو بچا لیا",
+          "roman": "Aarzoye khsroi ko khak mein mla dia, din ko bcha lia"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "پھر سے شرک کی طرف پلٹ نہ جائے آدمی",
+          "roman": "Phir se shrk ki trf plt na jaye aadmi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "راہِ مستقیم سے بھٹک نہ جائے آدمی",
+          "roman": "Rah-e mstqim se bhtk na jaye aadmi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "شاہِ تشنہ کام نے، وقت کے امام نے",
+          "roman": "Shah-e tshnh kam ne, waqt ke amam ne"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "حق کی راہ پر لہو سے ایک دیا جلا دیا، دین کو بچا لیا",
+          "roman": "Hq ki rah par lho se aik dia jla dia, din ko bcha lia"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "حلقِ بےزبان سے ظلم کی کمان توڑ دی",
+          "roman": "Hlq-e bezban se zlm ki kman tor di"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "شہ رگِ گلو سے خسروی کی دھار توڑ دی",
+          "roman": "Shh rg-e glo se khsroi ki dhar tor di"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "نازشِ حیات نے، فخرِ کائنات نے",
+          "roman": "Nazsh-e hiat ne, fkhr-e kaynat ne"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "سر کٹا کے آدمی کا سر بلند کر دیا، دین کو بچا لیا",
+          "roman": "Sar kta ke aadmi ka sar blnd kr dia, din ko bcha lia"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بڑھتے بڑھتے بات جب اصولِ دین پہ آ گئی",
+          "roman": "Brhte brhte bat jab asol-e din ph a gayi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اور یزیدیت کی شکل میں عروج پا گئی",
+          "roman": "Aur izidit ki shkl mein aroj pa gayi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تو بڑھ کے پھر دلیر نے، فاطمہ (س) کے شیر نے",
+          "roman": "To brh ke phir dlir ne, Fatima (s) ke shir ne"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ایک پہر میں تخت و تاجِ شام کو ہلا دیا، دین کو بچا لیا",
+          "roman": "Aik phr mein tkht o taj-e sham ko hla dia, din ko bcha lia"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Fatima ke chin ne, nbi ke norain ne"
+}

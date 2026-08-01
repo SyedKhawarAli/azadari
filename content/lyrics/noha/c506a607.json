@@ -1,0 +1,88 @@
+{
+  "id": "c506a607-8657-5abf-9e19-c9308e1428da",
+  "title": "آؤ غم شاہ کا منائیں",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Imam Hussain (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "آؤ، غم شاہ کا منائیں"
+    ],
+    "roman": [
+      "Aao, ghm shah ka mnayin"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "چھوڑو تفرقہ بازی، چھوڑو یہ اب لڑائی",
+          "roman": "Chhoro tfrqh bazi, chhoro yeh ab lrayi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اس غم میں سب برابر، آپس میں بھائی بھائی",
+          "roman": "Iss ghm mein sab brabr, aaps mein bhayi bhayi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "پیغام یہ امن کا، دنیا کو ہم بتائیں",
+          "roman": "Pigham yeh amn ka, dnia ko hum btayin"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جب ایک خدا ہمارا، پھر مسجدیں الگ کیوں",
+          "roman": "Jab aik Khuda hmara, phir msjdin alg kyun"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "معبود ایک سب کا، پھر عبادتیں الگ کیوں",
+          "roman": "Mabod aik sab ka, phir abadtin alg kyun"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "عقل و شعور سے اب، اس فرق کو مٹائیں",
+          "roman": "Aql o shaor se ab, iss frq ko mtayin"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "حسنین شاہ کا غم، یہ درس دے رہا ہے",
+          "roman": "Hsnin shah ka ghm, yeh drs de raha hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اک ہے خدا ہمارا، نہ سنی نہ شیعہ ہے",
+          "roman": "Ak hai Khuda hmara, na sni na shiah hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اس ملک میں امن کے، اب پھول ہم کھلائیں",
+          "roman": "Iss mlk mein amn ke, ab phol hum khlayin"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Aao ghm shah ka mnayin"
+}

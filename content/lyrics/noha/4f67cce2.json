@@ -1,0 +1,131 @@
+{
+  "id": "4f67cce2-a47a-51c7-9a5e-4715faed49ec",
+  "title": "وہ خون رو کے کہتا رہا زمانے سے",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=orNq9SeCJAw",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=orNq9SeCJAw"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وہ خون رو کے کہتا رہا زمانے سے",
+          "roman": "Woh khon ro ke khta raha zmane se"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ردائیں چھینو نہ لوگوں میرے گھرانے سے",
+          "roman": "Rdayin chhino na logon mere ghrane se"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سوالِ آب پہ، سونے پہ، اُس کے رونے پہ",
+          "roman": "Soal-e aab ph, sone ph, iss ke rone ph"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "وہ مارتے تھے سکینہ کو ہر بہانے سے",
+          "roman": "Woh marte the Sakina ko hr bhane se"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بلائیں کس طرح عباس کو مدد کے لیے",
+          "roman": "Blayin ks trh Abbas ko mdd ke lie"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "وہ بے ردا تھیں ،جھجکتی رہیں بلانے سے",
+          "roman": "Woh be rida thin,jhjkti rhin blane se"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سلایا جاتا تھا بے ہوش کر کے درّوں سے",
+          "roman": "Slaia jata tha be hosh kr ke dron se"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جگایا جاتا تھا عابد کو تازیانے سے",
+          "roman": "Jgaia jata tha aabd ko taziane se"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ردائے ثانیِ زہرا میں ڈھل گیا اکبر",
+          "roman": "Rdaye sani-e Zahra mein dhl gaya Akbar"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "غبار اٹھا جو لاشوں کے تھرتھرانے سے",
+          "roman": "Ghbar atha jo lashon ke thrthrane se"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کچھ اس طرح سرِ کرب و بلا وہ اجڑے تھے",
+          "roman": "Kchh iss trh sar-e krb o bla woh ajre the"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کہ ڈر رہے ہیں ابھی تک وہ گھر بسانے سے",
+          "roman": "Keh dr rahe hain abhi tak woh ghr bsane se"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کہا یہ گنجِ شہیداں میں باپ کے سر نے",
+          "roman": "Kha yeh gnj-e shhidan mein baap ke sar ne"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مجھے سکینہ بلاتی ہے قید خانے سے",
+          "roman": "Mujhe Sakina blati hai qid khane se"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Woh khon ro ke khta raha zmane se"
+}

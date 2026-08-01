@@ -1,0 +1,94 @@
+{
+  "id": "70d00371-469d-5004-a5ba-b89907b4b228",
+  "title": "نکلا تھا جنازہ جو گھر لوٹ کے آیا ہے",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=Hxsy4Q4tmv0",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=Hxsy4Q4tmv0",
+    "https://www.youtube.com/watch?v=DBsCY1KNZqg"
+  ],
+  "personalities": [
+    "Imam Hasan (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "نکلا تھا جنازہ جو گھر لوٹ کے آیا ہے",
+      "کس کس طرح سے آل کو امت نے ستایا ہے"
+    ],
+    "roman": [
+      "Nkla tha jnazh jo ghr lot ke aaya hai",
+      "Ks ks trh se Aal ko amt ne staia hai"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے زہر نے ٹکڑے کیے شبرؑ کے جگر کے",
+          "roman": "Haye zhr ne tkre kie shbr AS ke jgr ke"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہائے تیروں کا بادل تو تابوت پہ چھایا ہے",
+          "roman": "Haye tiron ka badl to tabot ph chhaia hai"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے فاتحِ خیبر کو لے آئے بنا قیدی",
+          "roman": "Haye fath-e khibr ko le aaye bna qidi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہائے بنتِ محمدؐ پہ دروازہ گرایا ہے",
+          "roman": "Haye bnt-e Muhammad ph droazh graia hai"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مولا حسنؑ کے چوم کے لب کہتے تھے احمدؐ",
+          "roman": "Mola Hasan AS ke chom ke lb khte the Ahmad"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہائے ان لبوں سے جگرِ حسنؑ تشت میں آیا ہے",
+          "roman": "Haye un labon se jgr-e Hasan AS tsht mein aaya hai"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کربل میں میرا بھائی بے اکبرؑ و اصغرؑ جب",
+          "roman": "Krbl mein mera bhayi be Akbar AS o Asghar AS jab"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "قربان کرنا قاسمؑ فروہ کو بتایا ہے",
+          "roman": "Qrban krna Qasim AS froh ko btaia hai"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Nkla tha jnazh jo ghr lot ke aaya hai"
+}

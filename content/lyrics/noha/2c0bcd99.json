@@ -1,0 +1,83 @@
+{
+  "id": "2c0bcd99-5a70-5976-a044-6604c504dcde",
+  "title": "سکینہ پر یتیمی کے ہوئے معنی عیاں بابا",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=14cDomgeEDA",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=14cDomgeEDA"
+  ],
+  "personalities": [
+    "Bibi Sakina (SA)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سکینہ پر یتیمی کے ہوئے معنی عیاں بابا",
+          "roman": "Sakina par itimi ke hoye mani aian baba"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بنا چہرے پہ جب پہلا تماچے کا نشاں بابا",
+          "roman": "Bna chhre ph jab phla tmache ka nshan baba"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میرے چہرے سے مٹ جائیں نشاں شاید تماچوں کے",
+          "roman": "Mere chhre se mt jayin nshan shaid tmachon ke"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نہیں مٹنا ستم گر کی انگوٹھی کا نشاں بابا",
+          "roman": "Nahi mtna stm gr ki angothi ka nshan baba"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "فقط دربار میں دیکھا، تھا پہلی بار میں نے یہ",
+          "roman": "Fqt drbar mein dikha, tha phli bar mein ne yeh"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کنیزی کے لیے مانگی گئی سیدانیاں بابا",
+          "roman": "Knizi ke lie mangi gayi sidanian baba"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تیری تسکینِ جاں  بیٹی  ہے اور زنداں کی گرمی ہے",
+          "roman": "Teri tskin-e jan biti hai aur zndan ki grmi hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بدل کر رہ گیا مطلب سکینہ کا یہاں بابا",
+          "roman": "Bdl kr rh gaya mtlb Sakina ka ihan baba"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Sakina par itimi ke hoye mani aian baba"
+}

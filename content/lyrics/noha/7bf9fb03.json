@@ -1,0 +1,204 @@
+{
+  "id": "7bf9fb03-eb19-5811-9929-553c8063d9a7",
+  "title": "چادروں کا نام سن کر رو پڑی بنت علی",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=rgB7vnaxZx4",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=rgB7vnaxZx4"
+  ],
+  "personalities": [
+    "Syeda Zainab (SA)",
+    "Imam Ali (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "چادروں کا نام سن کر رو پڑی بنت علی، شام کے دربار میں",
+          "roman": "Chadron ka nam sn kr ro pri bnt ali, sham ke drbar mein"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "وا حجابا کہہ رہی تھی، سیدہ کی لاڈلی، شام کے دربار میں",
+          "roman": "Oa hjaba khh rahi thi, sidh ki ladli, sham ke drbar mein"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کرسیوں پر کاتلان ،شاہ تھے بیٹھے ہوئے",
+          "roman": "Krsion par katlan,shah the bithe hoye"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سایہ دیوار میں تھے، سب حرم لیکن کھڑے",
+          "roman": "Saih dioar mein the, sab hrm lekin khre"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "با وفا کو ڈھونڈتی تھی، دخترِ شیرِ جری، شام کے دربار میں",
+          "roman": "Ba ofa ko dhondti thi, dkhtr-e shir-e jri, sham ke drbar mein"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شمر دیکھا تو سکینہ، سہم کر رونے لگی",
+          "roman": "Shmr dikha to skinh, shm kr rone lgi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دور ہو جاشمر  فِضا، چیخ کر کہنے لگی",
+          "roman": "Dor ho jashmr fza,-e chikh kr khne lgi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "خوف سے مرجھا رہی تھی، باغِ عصمت کی کلی",
+          "roman": "Khof se mrjha rahi thi, bagh-e asmt ki kli"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "طشت میں بابا کے سر پر، جب پڑی اس کی نظر",
+          "roman": "Tsht mein baba ke sar pr, jab pri iss ki nzr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اپنے زخموں کی رہی نہ، پھر سکینہ کو خبر",
+          "roman": "Apne zkhmon ki rahi nh, phir Sakina ko khbr"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "دوڑتی بابا کی جانب، لاڈلی بیٹی چلی",
+          "roman": "Dorti baba ki janb, ladli biti chli"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کون ہے زینب پکارا، جس گھڑی فرعونِ شام",
+          "roman": "Kon hai Zainab pkara, js ghri fraon-e sham"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہائے غربت کہہ کے اٹھا، تھا میرا قیدی امام",
+          "roman": "Haye ghurbat khh ke atha, tha mera qidi amam"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اشک خون کے رو رہا تھا، شاہ کا بیٹا علی",
+          "roman": "Ashk khon ke ro raha tha, shah ka bita Ali"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ظالموں کو مل رہے تھے، ظلم کرنے پر انعام",
+          "roman": "Zalmon ko ml rahe the, zlm krne par anaam"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "قہقہوں پر قہقہے تھے، جام پر چلتے تھے جام",
+          "roman": "Qhqhon par qhqhe the, jam par chlte the jam"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "روتے روتے شام لوگو، آلِ احمد کو ڈھلی",
+          "roman": "Rote rote sham logo, Aal-e Ahmad ko dhli"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "حکم حاکم نے سنایا، مار دو بیمار کو",
+          "roman": "Hkm hakm ne snaia, mar do bimar ko"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اس جگہ ہی قتل کر دو، قافلہ سالار کو",
+          "roman": "Iss jgh hi qtl kr do, qaflh salar ko"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "گر پڑی عابد کے اوپر، ہائے نازوں سے پلی",
+          "roman": "Gr pri aabd ke aopr, haye nazon se pli"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جب علی اکبر کے سر کو، سامنے لایا گیا",
+          "roman": "Jab Ali Akbar ke sar ko, samne laia gaya"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہو گئی بے ہوش ماں سے، نہ سنبھل پایا گیا",
+          "roman": "Ho gayi be hosh man se, na snbhl paia gaya"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "دخترانِ فاطمہ پڑھنے لگی نادِ علی",
+          "roman": "Dkhtran-e Fatima prhne lgi nad-e Ali"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "زینبِ کبریٰ نے رو کر، جس گھڑی خطبہ دیا",
+          "roman": "Zainab-e kbri ne ro kr, js ghri khtbh dia"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہائے اے توقیرِ عابد، کا بدن تھا کانپتا",
+          "roman": "Haye Aye toqir-e aabd, ka bdn tha kanpta"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہتھکڑی پر مارتا تھا، سر والی ابنِ ولی",
+          "roman": "Hthkri par marta tha, sar oali abn-e oli"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Chadron ka nam sn kr ro pri bnt Ali"
+}

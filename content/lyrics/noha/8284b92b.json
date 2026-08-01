@@ -1,0 +1,155 @@
+{
+  "id": "8284b92b-35fe-5dbb-acf4-1ee5cf4cdcff",
+  "title": "آجا اصغر میں تیرا جھولا جھلاواں ویرا",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Hazrat Ali Asghar (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "آجا اصغر میں تیرا جھولا جھلاواں ویرا",
+      "ڈھونڈتی پھرتی تیری بہن سکینہ اجڑی",
+      "آجا خیمے میں تیری پیاس بھجاواں ویرا"
+    ],
+    "roman": [
+      "Aaja Asghar mein tera jhola jhlaoan oira",
+      "Dhondti phrti teri bhn Sakina ajri",
+      "Aaja khime mein teri pias bhjaoan oira"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "رات پرخوف ہے کلیا توں نہ دردا ہووے",
+          "roman": "Raat prkhof hai klia ton na drda hooe"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یاد امبری نوں کدی بابے نوں کردا ہووے",
+          "roman": "Iad ambri non kdi babe non krda hooe"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "توں اے نازک تے بہت گرم ہواواں ویرا",
+          "roman": "Ton Aye nazk te bht grm hoaoan oira"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بہن صغریٰ نے تیرے پھجے نے سی کے چولے",
+          "roman": "Bhn sghri ne tere phje ne si ke chole"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اوہ نئیں جاندی توں سو گیا مٹیاں اولے",
+          "roman": "Aoh nyin jandi ton so gaya mtian aole"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کیویں اجڑی نوں تیرا حال سناواں ویرا",
+          "roman": "Kioin ajri non tera hal snaoan oira"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ناں تیرا لے کے میری امبری اے ہوکاں بھردی",
+          "roman": "Nan tera le ke meri ambri Aye hokan bhrdi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ویکھ کے جھولا تیرا ویر وی جاوے مردی",
+          "roman": "Oikh ke jhola tera oir oi jaoe mrdi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "باج پتراں دے کدوں جیوندیاں ماواں ویرا",
+          "roman": "Baj ptran de kdon jiondian maoan oira"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "حکم بابے نے وی غازی نوں دتا نہ جنگ دا",
+          "roman": "Hkm babe ne oi ghazi non dta na jang da"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کدوں مرنا سی ایہنوں توں جے نہ پانی منگدا",
+          "roman": "Kdon mrna si aihnon ton je na pani mngda"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "واریاں تیرے اتوں چاچے نے بھواں ویرا",
+          "roman": "Oarian tere aton chache ne bhoan oira"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یاد امبری نوں جدوں تیری ستاوے اصغر",
+          "roman": "Iad ambri non jdon teri staoe Asghar"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "رووے تک جھولا تیرا ٹھنڈیاں ہواواں بھر بھر",
+          "roman": "Rooe tak jhola tera thndian hoaoan bhr bhr"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہون پتراں توں جدا شالا نہ ماواں ویرا",
+          "roman": "Hon ptran ton jda shala na maoan oira"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وکھری قید جدوں ویر مینوں ہووے گی",
+          "roman": "Okhri qid jdon oir minon hooe gi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یاد کر کر کے تیری بہن بھرا رووے گی",
+          "roman": "Iad kr kr ke teri bhn bhra rooe gi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میں تیرے باج کیویں شام نوں جواں ویرا",
+          "roman": "Mein tere baj kioin sham non joan oira"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Aaja Asghar mein tera jhola jhlaoan oira"
+}

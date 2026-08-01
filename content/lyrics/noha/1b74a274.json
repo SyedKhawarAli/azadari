@@ -1,0 +1,207 @@
+{
+  "id": "1b74a274-84a4-5136-b490-3167a6a961b8",
+  "title": "بین کرتا ہوا خاک اڑاتا ہوا",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=hUB-BDU-hD8",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=hUB-BDU-hD8"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بین کرتا ہوا خاک اڑاتا ہوا",
+          "roman": "Bin krta hoa khak arata hoa"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تشنہ لب بے ردا لو چلا قافلہ",
+          "roman": "Tshnh lb be rida lo chla qaflh"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سن کے شور فغاں ایک کہرام ہے",
+          "roman": "Sn ke shor fghan aik khram hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بر سر کربلا لو چلا قافلہ",
+          "roman": "Br sar Karbala lo chla qaflh"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "رسم پردہ گریں جس کے گھر سے چلی",
+          "roman": "Rsm prdh grin js ke ghr se chli"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "شہزادی وہیں بے ردا ہو گئی",
+          "roman": "Shhzadi ohin be rida ho gayi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "مر نہ جائے کہیں غم سے بنت علی",
+          "roman": "Mr na jaye khin ghm se bnt Ali"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ہائے اب ہوگا کیا لو چلا قافلہ",
+          "roman": "Haye ab hoga kya lo chla qaflh"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جن کی چاہت پہ کونین کو راج ہے",
+          "roman": "Jin ki chaht ph konin ko raj hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جس کی ثانی زمانے میں کوئی نہیں",
+          "roman": "Js ki sani zmane mein koyi nahi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "چاہنے والے ہو بھائی اور ہو بہن",
+          "roman": "Chahne oale ho bhayi aur ho bhn"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "رو رہی ہیں جدا لو چلا قافلہ",
+          "roman": "Ro rahi hain jda lo chla qaflh"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اپنی صورت دکھا دو مجھے میری جاں",
+          "roman": "Apni sort dkha do mujhe meri jan"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "پِھر خدا جانے آنا ہویا کے نہ ہو",
+          "roman": "Phir-e Khuda jane aana hoia ke na ho"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "آؤ اکبر اٹھو ہم کو رخصت کرو",
+          "roman": "Aao Akbar atho hum ko rkhst kro"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ماں نے رو کے کہا لو چلا قافلہ",
+          "roman": "Man ne ro ke kha lo chla qaflh"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "چار جانب سے یہ آئی ہے صدا",
+          "roman": "Char janb se yeh aayi hai sda"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "الوداع الوداع الوداع الوداع",
+          "roman": "Aloda aloda aloda aloda"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اپنے پیاروں کے لاشوں سے ہو کر جدا",
+          "roman": "Apne piaron ke lashon se ho kr jda"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "خون روتا ہوا لو چلا قافلہ",
+          "roman": "Khon rota hoa lo chla qaflh"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ثانی فاطمہ بنت شیر خدا",
+          "roman": "Sani Fatima bnt shir Khuda"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کیسی بازار میں جائے گی بے ردا",
+          "roman": "Kisi bazar mein jaye gi be rida"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کیسی تائی ہو گا ہو شام کا راستہ",
+          "roman": "Kisi tayi ho ga ho sham ka rasth"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "رو رہی ہیں فذا لو چلا قافلہ",
+          "roman": "Ro rahi hain fza lo chla qaflh"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "حال اس وقت کا کیسے گوہر لکھے",
+          "roman": "Hal iss waqt ka kise gohr lkhe"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دیکھ کر سو مقتل سب ہی رو دئے",
+          "roman": "Dikh kr so mqtl sab hi ro dye"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "سب شہیدوں کے لاشے تڑب نے لگے",
+          "roman": "Sab shhidon ke lashe trb ne lge"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "جب یہ آئی صدا لو چلا",
+          "roman": "Jab yeh aayi sda lo chla"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Bin krta hoa khak arata hoa"
+}

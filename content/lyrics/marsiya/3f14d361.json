@@ -1,0 +1,231 @@
+{
+  "id": "3f14d361-3132-5725-a649-a3de25dc52b6",
+  "title": "میں دے رہی ہوں تجھے دشت میں سدا غازی",
+  "type": "Marsiya",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=Bo6Kvv4Vpuc&list=RDBo6Kvv4Vpuc&start_radio=1",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=Bo6Kvv4Vpuc&list=RDBo6Kvv4Vpuc&start_radio=1"
+  ],
+  "personalities": [
+    "Hazrat Abbas (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میں دے رہی ہوں تجھے دشت میں سدا غازی",
+          "roman": "Mein de rahi hoon tjhe dasht mein sda ghazi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تیری بہن کا نہیں کوئی آسرا غازی",
+          "roman": "Teri bhn ka nahi koyi aasra ghazi"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جلاے خیمے ستم گر نے چھین لی چادر",
+          "roman": "Jlae khime stm gr ne chhin li chadar"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہمارے حال پہ روتی ہے کربلا غازی",
+          "roman": "Hamare hal ph roti hai Karbala ghazi"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بس ایک دن میں بہتر جنازے دیکھے ہیں",
+          "roman": "Bs aik din mein bhtr jnaze dikhe hain"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "خود اپنی آنکھوں سے پامال لاشے دیکھے ہیں",
+          "roman": "Khod apni aankhon se pamal lashe dikhe hain"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اجڑ گئی ہوں میں کربوبلا کے جنگل میں",
+          "roman": "Ajr gayi hoon mein krbobla ke jngl mein"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "بےرحم لوگ یہاں میں نے آ کے دیکھے ہیں",
+          "roman": "Berhm log ihan mein ne a ke dikhe hain"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "ہوئی ہے شام غریباں نہیں کوئی وارث",
+          "roman": "Hoyi hai sham ghriban nahi koyi oars"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "تو آ کے روک لاعنوں کی یہ جفا غازی",
+          "roman": "To a ke rok laanon ki yeh jfa ghazi"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کبھی بلاتی ہوں بابا کو میں صدا دے کر",
+          "roman": "Kbhi blati hoon baba ko mein sda de kr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میں بے ردا ہوں اوڑہ دے مجھے کوئی چادر",
+          "roman": "Mein be rida hoon aorh de mujhe koyi chadar"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کوئی بھی حال پہ میرے ترس نہیں کھاتا",
+          "roman": "Koyi bhi hal ph mere trs nahi khata"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "آ میرے غازی توں آ کر یہ لے دیکھ لے منظر",
+          "roman": "A mere ghazi ton a kr yeh le dikh le mnzr"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "جلے خیامِ نبی زادیاں ہیں نوحہ گر",
+          "roman": "Jle khiam-e nbi zadian hain nohh gr"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "تُجھے بولاتی ہے  ناموس اے مصطفیٰ غازی",
+          "roman": "Tjhe bolati hai namos Aye mstfi ghazi"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دیارِغیر ہے چاروں طرف اداسی ہے",
+          "roman": "Diarghir-e hai charon trf adasi hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سیاہ رات ہے تنہا رسُول زادی ہے",
+          "roman": "Siah raat hai tnha rsol zadi hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میں جب بھی سوچ کے روتی ہوں اپنی غُربت پر",
+          "roman": "Mein jab bhi soch ke roti hoon apni ghurbat par"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "میری غریبی پے کربولا بھی روتی ہے",
+          "roman": "Meri ghribi pe krbola bhi roti hai"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "مدینہ چھوڑ کے آئی تیرے سہارے پر",
+          "roman": "Madina chhor ke aayi tere share par"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "بولاؤں کس کو صدا دوں کسے بتا غازی",
+          "roman": "Bolaon ks ko sda don kse bta ghazi"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہوئ جو شامِ غریبان تو رات روتی ہے",
+          "roman": "Hoy jo sham-e ghriban to raat roti hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہماری پیاس پے نہر فرات روتی ہے",
+          "roman": "Hamari pias pe nhr frat roti hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میں سوچتی ہوں یتیموں کو کیا دلاسہ دوں",
+          "roman": "Mein sochti hoon itimon ko kya dlash don"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "سکینہ سن کے میرے دل کی بات روتی ہے",
+          "roman": "Sakina sn ke mere dil ki bat roti hai"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "میرےجری میرے غیور باوفا غازی",
+          "roman": "Mirejri mere ghior baofa ghazi"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "تیری بہن ہے سرِدشت بے ردا غازی",
+          "roman": "Teri bhn hai srdsht-e be rida ghazi"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تڑپتی رہ گئی غازی کی لاش ساحل پر",
+          "roman": "Trpti rh gayi ghazi ki lash sahl par"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یہ بین زَینب ے مُضطر نے جب دئیے صفدر",
+          "roman": "Yeh bin Zainab e mztr ne jab dyie sfdr"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تُجھے قسم ہے تو آ جا میری مدد کے لیے",
+          "roman": "Tjhe qsm hai to a ja meri mdd ke lie"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "میری رِدا کے مُحافظ ہوئی میں بے چادر",
+          "roman": "Meri rida-e ke mhafz hoyi mein be chadar"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "لہو رولائے مجھے بے رِدائی کا صدمہ",
+          "roman": "Lho rolaye mujhe be rdayi-e ka sdmh"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "پڑی ہے سَر پے میرے خاکِ کربلا غازی",
+          "roman": "Pri hai sar pe mere khak-e Karbala ghazi"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Mein de rahi hoon tjhe dasht mein sda ghazi"
+}

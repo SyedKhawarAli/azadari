@@ -1,0 +1,110 @@
+{
+  "id": "31bc3cb4-634e-5e21-97f4-cc4da358341f",
+  "title": "آج بھی زینب کی آتی ہے صدا، بھائی حسین",
+  "type": "Marsiya",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=n4DsEnYNrkk&list=RDn4DsEnYNrkk&start_radio=1",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=n4DsEnYNrkk&list=RDn4DsEnYNrkk&start_radio=1"
+  ],
+  "personalities": [
+    "Syeda Zainab (SA)",
+    "Imam Hussain (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "آج بھی زینب کی آتی ہے صدا، بھائی حسین",
+      "تیرا چہرہ، تیری آنکھیں، بھول کب پائی حسین"
+    ],
+    "roman": [
+      "Aaj bhi Zainab ki aati hai sda, bhayi Hussain AS",
+      "Tera chhrh, teri aankhin, bhol kb payi Hussain AS"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "چلتے ناکے سے گرایا خود کو جلتی ریت پر",
+          "roman": "Chlte nake se graia khod ko jlti rit par"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "گھٹنوں کے بل میں تیری لاش تک آئی حسین",
+          "roman": "Ghtnon ke bl mein teri lash tak aayi Hussain AS"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بس میں گھبرائی تھی خنجر تجھ پہ چلتا دیکھ کر",
+          "roman": "Bs mein ghbrayi thi khnjr tjh ph chlta dikh kr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "پھر کسی مشکل میں گھر کر میں نہ گھبرائی حسین",
+          "roman": "Phir ksi mshkl mein ghr kr mein na ghbrayi Hussain AS"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کون تھا جو مرنے والوں میں نہیں تھا َخوبرو",
+          "roman": "Kon tha jo marne oalon mein nahi tha khobro"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بھولنے بیٹھی تو کس کس کی نہ یاد آئی حسین",
+          "roman": "Bholne bithi to ks ks ki na iad aayi Hussain AS"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بہہ رہے تھے آنکھ سے آنسو تیری رخصت کے وقت",
+          "roman": "Bhh rahe the aankh se aanso teri rkhst ke waqt"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "پھر کوئی آنسو نہ ٹپکا آنکھ پتھرائی حسین",
+          "roman": "Phir koyi aanso na tpka aankh pthrayi Hussain AS"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دور افتادہ سفر سے لوٹ کر میں نے نوید",
+          "roman": "Dor aftadh sfr se lot kr mein ne noid"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ٹھنڈا پانی جب پیا بس تیری یاد آئی حسین",
+          "roman": "Thnda pani jab pia bs teri iad aayi Hussain AS"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Aaj bhi Zainab ki aati hai sda, bhayi Hussain AS"
+}

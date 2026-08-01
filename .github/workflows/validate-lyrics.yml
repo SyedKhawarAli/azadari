@@ -1,0 +1,26 @@
+name: Validate lyrics
+
+on:
+  pull_request:
+    paths:
+      - "content/lyrics/**"
+      - "scripts/validate-lyrics.mjs"
+      - "scripts/build-library.mjs"
+  push:
+    branches: [main, master]
+    paths:
+      - "content/lyrics/**"
+      - "scripts/validate-lyrics.mjs"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Validate lyric files
+        run: node scripts/validate-lyrics.mjs
+      - name: Rebuild library
+        run: node scripts/build-library.mjs

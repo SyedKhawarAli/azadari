@@ -1,0 +1,221 @@
+{
+  "id": "703455d7-f869-58a3-9e36-2f754965597c",
+  "title": "آ اے میرے حسینؑ، میری گود میں آ جا",
+  "type": "Noha",
+  "poet_name": "ریحان اعظمی",
+  "reciter_name": "ندیم سرور",
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=3rBGy-Z1cZI",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=3rBGy-Z1cZI"
+  ],
+  "personalities": [
+    "Imam Hussain (AS)",
+    "Bibi Fatima (SA)",
+    "Bibi Sakina (SA)",
+    "Hazrat Ali Asghar (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "آ اے میرے حسینؑ، میری گود میں آ جا",
+      "آ جا میرے بچے، میری آغوش میں آ جا"
+    ],
+    "roman": [
+      "A Aye mere hsin, AS meri god mein a ja",
+      "A ja mere bche, meri aaghosh mein a ja"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "عاشور کا سورج ہے، قیامت کی گھڑی ہے",
+          "roman": "Aashor ka sorj he, qayamat ki ghri hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بھائی کا گلا کٹتا، بہن دیکھ رہی ہے",
+          "roman": "Bhayi ka gla ktta, bhn dikh rahi hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "مقتل میں کسی ماں کی صدا گونج رہی ہے",
+          "roman": "Mqtl mein ksi man ki sda gonj rahi hai"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میرے لیے اے لعل، تو اصغرؑ کی طرح ہے",
+          "roman": "Mere lie Aye lal, to Asghar AS ki trh hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "گودی میری گہوارہ ہے، بستر کی طرح ہے",
+          "roman": "Godi meri ghoarh he, bstr ki trh hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اس دھوپ میں دامن میرا، چادر کی طرح ہے",
+          "roman": "Iss dhop mein damn mira, chadar ki trh hai"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میں ماں ہوں، میرا دل نہیں سینے میں سنبھلتا",
+          "roman": "Mein man hon, mera dil nahi seene mein snbhlta"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نازک یہ بدن تیرا، یہ جلتا ہوا صحرا",
+          "roman": "Nazk yeh bdn tira, yeh jlta hoa shra"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اور اُس پہ ستم یہ ہے کہ تُو رہ گیا پیاسا",
+          "roman": "Aur iss ph stm yeh hai keh to rh gaya piasa"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میں گود میں لے لوں تجھے، سینے سے لگا لوں",
+          "roman": "Mein god mein le lon tjhe, seene se lga lon"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سینے پہ سکینہؑ کی طرح تجھ کو سُلا لوں",
+          "roman": "Seene ph Sakina AS ki trh tjh ko sla lon"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "سینے کے تیرے تیر، میں پلکوں سے نکالوں",
+          "roman": "Seene ke tere tir, mein plkon se nkalon"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "آ کر میرے زانو پہ جو سو جاتے تھے بیٹا",
+          "roman": "A kr mere zano ph jo so jate the bita"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "چکّی کی مشقت سے بھی پہلو نہیں بدلا",
+          "roman": "Chki ki mshqt se bhi phlo nahi bdla"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اب کیسے تجھے چھوڑ دوں مقتل میں اکیلا",
+          "roman": "Ab kise tjhe chhor don mqtl mein akila"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تیری بھی تو اولاد ہے، تُو بھی تو پدر ہے",
+          "roman": "Teri bhi to aolad he, to bhi to pdr hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اولاد کا غم کیا ہے، یہ تجھ کو بھی خبر ہے",
+          "roman": "Aolad ka ghm kya he, yeh tjh ko bhi khbr hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "غمِ بچے  کا سہہ جائے، یہ کس ماں کا جگر ہے؟",
+          "roman": "Ghm-e bche ka shh jaye, yeh ks man ka jgr he?"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کیوں لیٹ گیا تھک کے، تو اسی جلتی زمیں پر",
+          "roman": "Kyun lit gaya thk ke, to asi jlti zmin par"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یہ کس کا لہو تُو نے مِلا روئے حزیں پر",
+          "roman": "Yeh ks ka lho to ne mla-e roye hzin par"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "مت خاک پہ سو لعل، تیری ماں ہے یہیں پر",
+          "roman": "Mt khak ph so lal, teri man hai yehin par"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جو دل پہ تیرے گزری، میں سب دیکھ رہی تھی",
+          "roman": "Jo dil ph tere gzri, mein sab dikh rahi thi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہر لاش اُٹھانے میں تیرے ساتھ گئی تھی",
+          "roman": "Hr lash athane mein tere sath gayi thi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اب بات وہ کہتی ہوں جو بچپن میں کہی تھی",
+          "roman": "Ab bat woh khti hoon jo bchpn mein khi thi"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نوحے میں بیاں کیسے کریں سرور و ریحان",
+          "roman": "Nohe mein bian kise krin sarwar o rihan"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "پڑھ سکتا نہیں کوئی بھی یہ درد کا قرآن",
+          "roman": "Prh skta nahi koyi bhi yeh drd ka qraan"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ماں کہتی تھی رہ جائے نہ دل میں میرے ارمان",
+          "roman": "Man khti thi rh jaye na dil mein mere arman"
+        }
+      ]
+    }
+  ],
+  "title_roman": "A Aye mere hsin, AS meri god mein a ja"
+}

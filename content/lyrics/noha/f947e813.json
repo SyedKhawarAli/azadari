@@ -1,0 +1,163 @@
+{
+  "id": "f947e813-a222-5421-87f7-ac6ec2937298",
+  "title": "دشت بلا میں آئے شاہ ؑ",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=uYYJYCzl37g",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=uYYJYCzl37g"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یا حسین ؑ یا حسین ؑ یا حسین ؑ یا حسین ؑ",
+          "roman": "Ya Hussain AS AS Ya Hussain AS AS Ya Hussain AS AS Ya Hussain AS AS"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دشت بلا میں آئے شاہ ؑ سر کو کٹانے کے لیے",
+          "roman": "Dasht bla mein aaye shah AS sar ko ktane ke lie"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "سر بھی دیا گھر بھی دیا دیں کو بچانے کے لیے",
+          "roman": "Sar bhi dia ghr bhi dia din ko bchane ke lie"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اُس بے نوا کے ساتھ کئی قربانیاں تیار تھیں",
+          "roman": "Iss be noa ke sath kyi qrbanian tiar thin"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تھی ساتھ میں ہمشیر بھی چادر لٹانے کے لیے",
+          "roman": "Thi sath mein hmshir bhi chadar ltane ke lie"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اصغر ؑ کی پیاس کو دیکھ کر رو کے معصومہ نے کہا",
+          "roman": "Asghar AS ki pias ko dikh kr ro ke masomh ne kha"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کوئی تو جائے فرات پر ہائے پانی لانے کے لیے",
+          "roman": "Koyi to jaye frat par haye pani lane ke lie"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کم سن علی اصغر ؑ بھی تو فتح کو یوں بے تاب تھا",
+          "roman": "Km sn Ali Asghar AS bhi to fth ko ion be tab tha"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہے چھوڑ کر جھولا چلا مقتل سجانے کے لیے",
+          "roman": "Hai chhor kr jhola chla mqtl sjane ke lie"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مولا نے یہ دی ہے صدا کل انبیاء دیکھو زرا",
+          "roman": "Mola ne yeh di hai sda kl anbia dikho zra"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہوں کھینچتا نوکِ سناں جرات دکھانے کے لیے",
+          "roman": "Hoon khinchta nok-e snan jrat dkhane ke lie"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "عباس ؑ و اکبر ؑ نہ رہے، قاسم ؑ بھی جاں بلب ہوئے",
+          "roman": "Abbas AS o Akbar AS na rhe, Qasim AS bhi jan blb hoye"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بہنوں نے آہ تھامی رکاب شاہ کو چڑھانے کے لیے",
+          "roman": "Bhnon ne aah thami rkab shah ko chrhane ke lie"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یہ شام کا بازار ہے اور بھائی میں ہوں بےردا",
+          "roman": "Yeh sham ka bazar hai aur bhayi mein hoon berda"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "قرآن پڑھ تو بہن کا پردہ بنانے کے لیے",
+          "roman": "Qraan prh to bhn ka prdh bnane ke lie"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "طاہر تجھے کیا خوف ہے روزِ جزا کی پیاس کا",
+          "roman": "Tahr tjhe kya khof hai roz-e jza ki pias ka"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مشکل کشاء ؑ موجود ہیں کوثر پلانے کے لیے",
+          "roman": "Mshkl ksha AS mojod hain kosr plane ke lie"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دشت بلا میں آئے شاہ ؑ سر کو کٹانے کے لی",
+          "roman": "Dasht bla mein aaye shah AS sar ko ktane ke li"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Dasht bla mein aaye shah AS"
+}

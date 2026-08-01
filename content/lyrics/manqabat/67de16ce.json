@@ -1,0 +1,95 @@
+{
+  "id": "67de16ce-6594-5ed2-8442-0aafa12cc7e8",
+  "title": "لبوں پے جن کے درود و سلام آے گا",
+  "type": "Manqabat",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لبوں پے جن کے درود  و سلام آے گا",
+          "roman": "Labon pe jin ke darood o salaam aae ga"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "انہیں کے واستے کوثر کا جام آے گا",
+          "roman": "Anhin ke oaste kosr ka jam aae ga"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "بہت کے سمنبھال کے رکھنا نبی کے دیوانو",
+          "roman": "Bht ke smnbhal ke rkhna nbi ke dioano"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "یہی وظیفہ قیامت میں کام آے گا",
+          "roman": "Yehi ozifh qayamat mein kam aae ga"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جدھر جدھر  سے بھی گزرے ہیں مصطفیٰ والے",
+          "roman": "Jdhr jdhr se bhi gzre hain mstfi oale"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "زمانہ دیکھ کے بولے  ہیں یہ خدا والے",
+          "roman": "Zmanh dikh ke bole hain yeh Khuda oale"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "دلوں میں آج بھی نام حسین روشن  ہے",
+          "roman": "Dlon mein aaj bhi nam Hussain AS roshan hai"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "یزید مر گیا زندہ ہیں کربلا والے",
+          "roman": "Izid mr gaya zndh hain Karbala oale"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "رضائے رب کے لیے دین کی بقا کے لیے",
+          "roman": "Rzaye Rabb ke lie din ki bqa ke lie"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "حسین آے مدینے سے کربلا کے لیے",
+          "roman": "Hussain AS aae Madine se Karbala ke lie"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "زمین تجھ کو اُسی وقت کھا گئی ہوتی",
+          "roman": "Zmin tjh ko asi waqt kha gayi hoti"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "حسین ہاتھ اٹھاتے اگر دعا  کے لیے",
+          "roman": "Hussain AS hath athate agar dua ke lie"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Labon pe jin ke darood o salaam aae ga"
+}

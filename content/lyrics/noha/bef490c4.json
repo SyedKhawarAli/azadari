@@ -1,0 +1,173 @@
+{
+  "id": "bef490c4-bf9e-5977-830f-32f1b266f9cb",
+  "title": "ہائے ہائے علی اکبر",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Hazrat Ali Akbar (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "ہائے ہائے علی اکبر, ہائے ہائے علی اکبر",
+      "کہتی تھی یہ ماں خوں بھری میّت سے لپٹ کر",
+      "ہائے ہائے علی اکبرؑ ہائے ہائے علی اکبرؑ"
+    ],
+    "roman": [
+      "Haye haye Ali Akbar, haye haye Ali Akbar",
+      "Khti thi yeh man khon bhri mit se lpt kr",
+      "Haye haye Ali Akbar AS haye haye Ali Akbar AS"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ارمان تھا پہناؤں گی پوشاکِ شاہانی, افسوس کہ راس آئی نہ تجھ کو یہ جوانی",
+          "roman": "Arman tha phnaon gi poshak-e shahani, afsos keh ras aayi na tjh ko yeh joani"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کیسا تھا مقدر ہائے ہائے علی اکبرؑ",
+          "roman": "Kisa tha mqdr haye haye Ali Akbar AS"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اتنا تو ذرا ٹھہرو تمہیں دولہا بنا لوں, بس ایک جھلک سہرے کی صغریٰؑ کو دکھا لوں",
+          "roman": "Atna to zra thhro tumhein dolha bna lon, bs aik jhlk shre ki sghri AS ko dkha lon"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بے چین تھی خواہر ہائے ہائے علی اکبرؑ",
+          "roman": "Be chin thi khoahr haye haye Ali Akbar AS"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اٹھارہ برس پال کے پروان چڑھایا, وہ گیسوؤں والا ہے میرا خوں میں نہایا",
+          "roman": "Atharh brs pal ke proan chrhaia, woh gisoon oala hai mera khon mein nhaia"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یہ کیا ہوا دلبر ہائے ہائے علی اکبرؑ",
+          "roman": "Yeh kya hoa dlbr haye haye Ali Akbar AS"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ماں تیری جُدائی میں بھلا کیسے جیئے گی, مر جائے گی صغریٰؑ جو خبر تیری سُنے گی",
+          "roman": "Man teri jdayi mein bhla kise jiye gi, mr jaye gi sghri AS jo khbr teri sne gi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اب کیا کروں جی کر ہائے ہائے علی اکبرؑ",
+          "roman": "Ab kya kron ji kr haye haye Ali Akbar AS"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "پہلے تو اک آواز پہ اٹھ جاتے تھے بیٹا, اب اتنی صداؤں پہ بھی پہلو نہیں بدلا",
+          "roman": "Phle to ak aaoaz ph ath jate the bita, ab atni sdaon ph bhi phlo nahi bdla"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کیا ہو گیا دلبر ہائے ہائے علی اکبرؑ",
+          "roman": "Kya ho gaya dlbr haye haye Ali Akbar AS"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ٹھہرو کہ میں اٹھارویں منت تو بڑھا دوں, پھر لے کے بلائیں تجھے جینے کی دُعا دوں",
+          "roman": "Thhro keh mein atharoin mnt to brha don, phir le ke blayin tjhe jeene ki dua don"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "صدقے ہو یہ مادر ہائے ہائے علی اکبرؑ",
+          "roman": "Sdqe ho yeh madr haye haye Ali Akbar AS"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "آئیں جو ہمیں لوٹنے خیمے میں ستم گر, ماں دے گی صدائیں علی اکبرؑ علی اکبرؑ",
+          "roman": "Aayin jo hmin lotne khime mein stm gr, man de gi sdayin Ali Akbar AS Ali Akbar AS"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "چھن جائے گی چادر ہائے ہائے علی اکبرؑ",
+          "roman": "Chhn jaye gi chadar haye haye Ali Akbar AS"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تم ہچکیاں لے لے کہ جو دم توڑ رہے ہو, منہ ماں سے ہمیشہ کے لیے موڑ رہے ہو",
+          "roman": "Tum hchkian le le keh jo dm tor rahe ho, mnh man se hmishh ke lie mor rahe ho"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کیوں روٹھے ہو دلبر ہائے ہائے علی اکبرؑ",
+          "roman": "Kyun rothe ho dlbr haye haye Ali Akbar AS"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جب کوئی جواں لاش نظر آتی ہے محشرؔ, اک یاد سوئے کرب و بلا جاتی ہے محشرؔ",
+          "roman": "Jab koyi joan lash nzr aati hai mhshr, ak iad soye krb o bla jati hai mhshr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دل روتا ہے کہہ کر ہائے ہائے علی اکبرؑ",
+          "roman": "Dil rota hai khh kr haye haye Ali Akbar AS"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Haye haye Ali Akbar"
+}

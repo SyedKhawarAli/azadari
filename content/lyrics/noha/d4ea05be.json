@@ -1,0 +1,161 @@
+{
+  "id": "d4ea05be-9de2-564f-9221-3a283cfea6b9",
+  "title": "سجاد تیرا سینہ درداں دا خزینہ اے",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=0twse65brGU",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=0twse65brGU",
+    "https://www.youtube.com/watch?v=5Y4tnL2Y_UQ",
+    "https://www.youtube.com/watch?v=_iLRHYoiZZw"
+  ],
+  "personalities": [
+    "Imam Sajjad (AS)",
+    "Syeda Zainab (SA)",
+    "Bibi Sakina (SA)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "سجاد تیرا سینہ درداں دا خزینہ اے",
+      "اج قید تیرے رلے زینبؑ تے سکینہؑ اے"
+    ],
+    "roman": [
+      "Sjad tera seena drdan da khzinh Aye",
+      "Aj qid tere rle Zainab AS te Sakina AS Aye"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سجادؑ مہاری توں ٹریا وی نہ جاندا اے",
+          "roman": "Sjad AS mhari ton tria oi na janda Aye"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اِک ریت گرم زخمی پیراں دیاں تلیاں نیں",
+          "roman": "Ak-e rit grm zkhmi piran dian tlian nin"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سجادؑ کیویں پردے پھپھیاں دے بناڑوے گا",
+          "roman": "Sjad AS kioin prde phphian de bnaroe ga"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نانا تیرا کربل توں بھوں دور مدینہ اے",
+          "roman": "Nana tera krbl ton bhon dor Madina Aye"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "او شہر مدینہ سی سورج نے حیا کیتا",
+          "roman": "O shhr Madina si sorj ne hia kita"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سِر ننگے بازاراں وچ زہراؑ دیاں جائیاں نیں",
+          "roman": "Sar-e nnge bazaran och Zahra AS dian jayian nin"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "زہراؑ دیاں جائیاں نیں جنگلاں وچ آئیاں نیں",
+          "roman": "Zahra AS dian jayian nin jnglan och aayian nin"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سِر حق لئی کٹا دینا سیداں دا قرینہ اے",
+          "roman": "Sar-e hq lyi kta dina sidan da qrinh Aye"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لوکاں نے پتھر مارے سادات نوں ودھ ودھ کے",
+          "roman": "Lokan ne pthr mare sadat non odh odh ke"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جد شام دے وچ آیا پاکاں دا سفینہ اے",
+          "roman": "Jd sham de och aaya pakan da sfinh Aye"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "زندان دے وچ رووے بیماراں نوں پھڑ پھڑ کے",
+          "roman": "Zndan de och rooe bimaran non phr phr ke"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "معصومہؑ نوں یاد آندا جد بابے دا سینہ اے",
+          "roman": "Masomh AS non iad aanda jd babe da seena Aye"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بازاراں چہ او بی بی ہائے کیویں رئی ٹردی",
+          "roman": "Bazaran chh o bi bi haye kioin ryi trdi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بابے دی حویلی وچ ہائے جیڑی ٹری نہ اے",
+          "roman": "Babe di hoili och haye jiri tri na Aye"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "زینبؑ دی کمر اولے دکھ جاندی اے رو رو کے",
+          "roman": "Zainab AS di kmr aole dkh jandi Aye ro ro ke"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دِس جاندا سکینہؑ نوں جد شمر کمینہ اے",
+          "roman": "Ds-e janda Sakina AS non jd shmr kminh Aye"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Sjad tera seena drdan da khzinh Aye"
+}

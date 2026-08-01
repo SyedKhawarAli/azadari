@@ -1,0 +1,185 @@
+{
+  "id": "6a8b6b88-771c-5d3d-8075-a505730689cd",
+  "title": "لے لو سلام زینبؑ کا",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=hEl6S01fSCM",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=hEl6S01fSCM"
+  ],
+  "personalities": [
+    "Syeda Zainab (SA)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "آئی ہوں پھر سے نینوا لے لو سلام زینبؑ کا"
+    ],
+    "roman": [
+      "Aayi hoon phir se ninoa le lo salaam Zainab AS ka"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شاہِ شہیدِ کربلا لے لو سلام زینبؑ کا",
+          "roman": "Shah-e shhid-e Karbala le lo salaam Zainab AS ka"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے بھیا ۷۲ (بہتر) کا چہلم کروں گی , ہائے بھیا ۷۲ (بہتر) کا چہلم کروں گی",
+          "roman": "Haye bhia (bhtr) ka chhlm kron gi, haye bhia (bhtr) ka chhlm kron gi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دل کھول کر آج ماتم کروں گی , دل کھول کر آج ماتم کروں گی",
+          "roman": "Dil khol kr aaj matm kron gi, dil khol kr aaj matm kron gi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "فرشِ عزا لو بچھ گیا, لے لو سلام زینبؑ کا",
+          "roman": "Frsh-e aza lo bchh gaya, le lo salaam Zainab AS ka"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے بھیا لہو میرا سجادؑ رویا, ہائے بھیا لہو میرا سجادؑ رویا",
+          "roman": "Haye bhia lho mera sjad AS roia, haye bhia lho mera sjad AS roia"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میں سو سکی اور نہ سجادؑ سویا, میں سو سکی اور نہ سجادؑ سویا",
+          "roman": "Mein so ski aur na sjad AS soia, mein so ski aur na sjad AS soia"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہر ہر قدم تھی کربلا, لے لو سلام زینبؑ کا",
+          "roman": "Hr hr qdm thi Karbala, le lo salaam Zainab AS ka"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے بھیا وطن جا کے میں کیا کروں گی, بھیا وطن جا کے میں کیا کروں گی",
+          "roman": "Haye bhia otn ja ke mein kya kron gi, bhia otn ja ke mein kya kron gi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہائے اجڑے مدینے میں کیسے رہوں گی, اجڑے مدینے میں کیسے رہوں گی",
+          "roman": "Haye ajre Madine mein kise rahoon gi, ajre Madine mein kise rahoon gi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "مر جائے گی یہ غمزدہ, لے لو سلام زینبؑ کا",
+          "roman": "Mr jaye gi yeh ghmzdh, le lo salaam Zainab AS ka"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے میں بھی یہی زائروں میں رہوں گی, میں بھی یہی زائروں میں رہوں گی",
+          "roman": "Haye mein bhi yehi zayron mein rahoon gi, mein bhi yehi zayron mein rahoon gi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اور زائروں کی میں خدمت کروں گی, اور زائروں کی میں خدمت کروں گی",
+          "roman": "Aur zayron ki mein khdmt kron gi, aur zayron ki mein khdmt kron gi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "یہ وقت پھر کب آئے گا, لے لو سلام زینبؑ کا",
+          "roman": "Yeh waqt phir kb aaye ga, le lo salaam Zainab AS ka"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے خون میں بھرا کرتا لے جا رہی ہوں, خون میں بھرا کرتا لے جا رہی ہوں",
+          "roman": "Haye khon mein bhra krta le ja rahi hoon, khon mein bhra krta le ja rahi hoon"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "لیکن تمہاری قسم کھا رہی ہوں, لیکن تمہاری قسم کھا رہی ہوں",
+          "roman": "Lekin tmhari qsm kha rahi hoon, lekin tmhari qsm kha rahi hoon"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہاں ہاروں گی نہ میں حوصلہ, لے لو سلام زینبؑ کا",
+          "roman": "Han haron gi na mein hoslh, le lo salaam Zainab AS ka"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سارے شہید اب تمہارے حوالے, سارے شہید اب تمہارے حوالے",
+          "roman": "Sare shhid ab tmhare hoale, sare shhid ab tmhare hoale"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میں اپنے ان غمزدوں کو سنبھالے, میں اپنے ان غمزدوں کو سنبھالے",
+          "roman": "Mein apne un ghmzdon ko snbhale, mein apne un ghmzdon ko snbhale"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہائے لے جا رہی ہوں قافلہ, لے لو سلام زینبؑ کا",
+          "roman": "Haye le ja rahi hoon qaflh, le lo salaam Zainab AS ka"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے بھیا سکینہؑ کو نہ لائی زینبؑ, بھیا سکینہؑ کو نہ لائی زینبؑ",
+          "roman": "Haye bhia Sakina AS ko na layi Zainab AS, bhia Sakina AS ko na layi Zainab AS"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہائے زندان میں اس کو چھوڑ آئی زینبؑ, زندان میں اس کو چھوڑ آئی زینبؑ",
+          "roman": "Haye zndan mein iss ko chhor aayi Zainab AS, zndan mein iss ko chhor aayi Zainab AS"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہائے روتی رہی وہ مہ لقا, لے لو سلام زینبؑ کا",
+          "roman": "Haye roti rahi woh mh lqa, le lo salaam Zainab AS ka"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Le lo salaam Zainab AS ka"
+}

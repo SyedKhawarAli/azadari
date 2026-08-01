@@ -1,0 +1,181 @@
+{
+  "id": "f5bb7577-94ce-501a-b0d7-e15a231e9873",
+  "title": "جب مجھے آپ کے قاتل نے ہے مارا باباؑ",
+  "type": "Noha",
+  "poet_name": "محسن ریاض",
+  "reciter_name": "Kazmi Brothers",
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Bibi Sakina (SA)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "جب مجھے آپ کے قاتل نے ہے مارا باباؑ",
+      "ہر طمانچے پہ سکینہؑ نے پکارا باباؑ"
+    ],
+    "roman": [
+      "Jab mujhe aap ke qatl ne hai mara baba AS",
+      "Hr tmanche ph Sakina AS ne pkara baba AS"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بابا میں شمر سے کہتی تھی تم میرے پاس نہ آنا",
+          "roman": "Baba mein shmr se khti thi tum mere pas na aana"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "گویا عالم میں سب سے بہتر ہے میرا پاک گھرانہ",
+          "roman": "Goia aalam mein sab se bhtr hai mera paak ghranh"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میں چھوٹی فاطمہ زہرا ہوں نہ مجھ کو ہاتھ لگانا",
+          "roman": "Mein chhoti Fatima Zahra hoon na mujh ko hath lgana"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "پر پھر بھی اس ظالم نے کیا مجھ پہ ترس ذرا نہ",
+          "roman": "Par phir bhi iss zalim ne kya mujh ph trs zra na"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مجھے بالوں سے پکڑ کر ہے طمانچے مارے",
+          "roman": "Mujhe balon se pkr kr hai tmanche mare"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میں نے سرِ شمر (لع) سے مانگا جو تمہارا باباؑ",
+          "roman": "Mein ne sar-e shmr (la) se manga jo tmhara baba AS"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وہ جو دُر آپ نے تحفے میں مجھے بخشے تھے",
+          "roman": "Woh jo dr aap ne thfe mein mujhe bkhshe the"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اُن کو بے دردی سے ظالم نے اُتارا باباؑ",
+          "roman": "Un ko be drdi se zalim ne atara baba AS"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "آپ کے سینے پہ آرام سے سونے والی",
+          "roman": "Aap ke seene ph aaram se sone oali"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سو کے اب خاک پہ کرتی ہے گزارا باباؑ",
+          "roman": "So ke ab khak ph krti hai gzara baba AS"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ساتھ رہواروں کے دوڑایا گیا ہے مجھ کو",
+          "roman": "Sath rhoaron ke doraia gaya hai mujh ko"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "چور زخموں سے بدن میرا ہے سارا باباؑ",
+          "roman": "Chor zkhmon se bdn mera hai sara baba AS"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میری غربت پہ چچا جان کا سر روتا ہے",
+          "roman": "Meri ghurbat ph chcha jaan ka sar rota hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ان کی غربت میں کروں کیسے گوارا باباؑ",
+          "roman": "Un ki ghurbat mein kron kise goara baba AS"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نوکِ نیزہ پہ اُسے دیکھوں تو دیکھوں کیسے",
+          "roman": "Nok-e nizh ph ase dikhon to dikhon kise"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میرا اصغرؑ تھا مجھے جان سے بھی پیارا باباؑ",
+          "roman": "Mera Asghar AS tha mujhe jaan se bhi piara baba AS"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بے کفن آپ ہو بے کفن رہے گی بیٹی",
+          "roman": "Be kfn aap ho be kfn rahe gi biti"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ایک جیسا ہی مقدر ہے ہمارا باباؑ",
+          "roman": "Aik jisa hi mqdr hai hmara baba AS"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یہ صدا قبر سے معصومہ کی آئے محسن",
+          "roman": "Yeh sda qbr se masomh ki aaye mhsn"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ساتھ قائم کے چلے آنا دوبارہ باباؑ",
+          "roman": "Sath qaym ke chle aana dobarh baba AS"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Jab mujhe aap ke qatl ne hai mara baba AS"
+}

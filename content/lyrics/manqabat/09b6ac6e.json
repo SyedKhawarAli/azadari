@@ -1,0 +1,181 @@
+{
+  "id": "09b6ac6e-3555-52d7-8560-a08a3bc271ad",
+  "title": "یہ آخری جنگ ہے اقصٰی کی",
+  "type": "Manqabat",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "یہ آخری جنگ ہے اقصٰی کی",
+      "اب مٹ کے رہے گا اسرائیل"
+    ],
+    "roman": [
+      "Yeh aakhri jang hai Aqsa ki",
+      "Ab mt ke rahe ga asrayil"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یہ خونِ ناحق کا دریا",
+          "roman": "Yeh khon-e nahq ka dria"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نابود کرے گا اسرائیل",
+          "roman": "Nabod kre ga asrayil"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یہ ظلم کی آندھی اور طوفان",
+          "roman": "Yeh zlm ki aandhi aur tofan"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "فرعون صفت ہر ایک شیطان",
+          "roman": "Fraon sft hr aik shitan"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "مقصد یہ بنائے پھرتے ہیں",
+          "roman": "Mqsd yeh bnaye phrte hain"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "قابو میں ہو ہر ایک انسان",
+          "roman": "Qabo mein ho hr aik ansan"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "پر ظلم کے آگے ڈٹتے ہیں",
+          "roman": "Par zlm ke aage dtte hain"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "دنیا میں حاملِ قرآن",
+          "roman": "Dnia mein haml-e qraan"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "اب ہاتھوں کے حزب اللہ کے",
+          "roman": "Ab hathon ke hzb Allah ke"
+        },
+        {
+          "misra_number": 8,
+          "urdu": "ہرگز نہ بچے گا اسرائیل",
+          "roman": "Hrgz na bche ga asrayil"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہم پیرو کس کے حیدر کے",
+          "roman": "Hum piro ks ke hidr ke"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "حیدر کا ترانہ یاد رہے",
+          "roman": "Hidr ka tranh iad rahe"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اس شیرِ یزداں کا دیکھو",
+          "roman": "Iss shir-e izdan ka dikho"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "خیبر کو مٹانا یاد رہے",
+          "roman": "Khibr ko mtana iad rahe"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "پھر  نخبت مرحب کا ایسے",
+          "roman": "Phir nkhbt mrhb ka aise"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "مٹی میں ملانا یاد رہے",
+          "roman": "Mti mein mlana iad rahe"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "ہاں آج بھی حیدر کے ہاتھوں",
+          "roman": "Han aaj bhi hidr ke hathon"
+        },
+        {
+          "misra_number": 8,
+          "urdu": "مٹی میں ملے گا اسرائیل",
+          "roman": "Mti mein mle ga asrayil"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہے اپنا عہد اُن شہداء سے",
+          "roman": "Hai apna ahd un shhda se"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جو راہِ حق پہ چلتے رہے",
+          "roman": "Jo rah-e hq ph chlte rahe"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کرتاس سے بدن سے خونِ جگر پہ",
+          "roman": "Krtas se bdn se khon-e jgr ph"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "القدس کا نعرہ لکھتے رہے",
+          "roman": "Alqds ka narh lkhte rahe"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "بس بڑھتے رہے ہم چلتے رہے",
+          "roman": "Bs brhte rahe hum chlte rahe"
+        },
+        {
+          "misra_number": 6,
+          "urdu": "باطل سے ہر پل لڑتے رہے",
+          "roman": "Batl se hr pl lrte rahe"
+        },
+        {
+          "misra_number": 7,
+          "urdu": "وہ صبحِ روشن ہوگی جب",
+          "roman": "Woh sbh-e roshan hogi jab"
+        },
+        {
+          "misra_number": 8,
+          "urdu": "نقشے سے مٹے گا اسرائیل",
+          "roman": "Nqshe se mte ga asrayil"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Yeh aakhri jang hai Aqsa ki"
+}

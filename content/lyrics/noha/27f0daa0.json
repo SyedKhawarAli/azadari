@@ -1,0 +1,173 @@
+{
+  "id": "27f0daa0-6502-56f9-8cd9-0164ec9e81ae",
+  "title": "کوفے میں پھرایا جاتا ہے",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=1uM0VYhSLLE",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=1uM0VYhSLLE"
+  ],
+  "personalities": [
+    "Hazrat Muslim ibn Aqeel (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "کوفے میں پھرایا جاتا ہے مسلم کا لاشہ عید کے دن",
+      "کوئی بھی اٹھانے آتا نہیں بے کس کا جنازہ عید کے دن"
+    ],
+    "roman": [
+      "Kofe mein phraia jata hai mslm ka lashh aid ke din",
+      "Koyi bhi athane aata nahi be ks ka jnazh aid ke din"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بھائی بھی نہیں بیٹے بھی نہیں کوئی بھی نہیں رونے والا",
+          "roman": "Bhayi bhi nahi bite bhi nahi koyi bhi nahi rone oala"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مسلم کے جنازے پر بیٹھی روتی رہی زہرا عید کے دن",
+          "roman": "Mslm ke jnaze par bithi roti rahi Zahra aid ke din"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اک آہ سنائی دیتی ہے اک لاش دکھائی دیتی ہے",
+          "roman": "Ak aah snayi diti hai ak lash dkhayi diti hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بے ساخطہ آنسو آتے ہیں یاد آئے جو کوفہ عید کے دن",
+          "roman": "Be sakhth aanso aate hain iad aaye jo kofh aid ke din"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ٹوٹی ہے قیامت یہ کیسی دونوں پہ نظر ہے مولا کی",
+          "roman": "Toti hai qayamat yeh kisi donon ph nzr hai mola ki"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مسلم کی حمیدہ روتی ہے بے تعب ہے صغریٰ عید کے دن",
+          "roman": "Mslm ki hmidh roti hai be tab hai sghri aid ke din"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ظالم سے بچانے کی خاطر زنداں سےچھڑانے کی خاطر",
+          "roman": "Zalim se bchane ki khatr zndan sechhrane ki khatr"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "امید یہی ہے بچوں کو آئیں گے بابا عید کے دن",
+          "roman": "Amid yehi hai bchon ko aayin ge baba aid ke din"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مسلم کے یتیموں کو شہہ نے سینے سے لگا کر پیار کیا",
+          "roman": "Mslm ke itimon ko shhh ne seene se lga kr piar kya"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یہ حال یتیمی کا لوگوں سمجھی تھی سکینہ عید کے دن",
+          "roman": "Yeh hal itimi ka logon smjhi thi Sakina aid ke din"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اک وار علی کے سجدے سے مسلم کی شہادت تک پہنچا",
+          "roman": "Ak oar Ali ke sjde se mslm ki shhadt tak phncha"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یوں آل نبی کو امت نے ہر بار رلایا عید کے دن",
+          "roman": "Ion Aal nbi ko amt ne hr bar rlaia aid ke din"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جس گھر میں کوئی مرجاتا ہے سب آ کر پرسہ دیتے ہیں",
+          "roman": "Js ghr mein koyi mrjata hai sab a kr prsh dite hain"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہم کس کو دیں مولا مہدی مسلم کا پرسہ عید کے دن",
+          "roman": "Hum ks ko din mola mhdi mslm ka prsh aid ke din"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دستور زمانے سے ہے یہی ہم اہل عزا کا بعد نماز",
+          "roman": "Dstor zmane se hai yehi hum Ahl aza ka bad namaz"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہم سن کے مصائب دیتے ہیں زہرا کو پرسہ عید کے دن",
+          "roman": "Hum sn ke msayb dite hain Zahra ko prsh aid ke din"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دفنایا نہیں کفنایا نہیں کیسی یہ تکلم غربت ہے",
+          "roman": "Dfnaia nahi kfnaia nahi kisi yeh tklm ghurbat hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کوفے میں مسلماں سارے تھے مسلم تھا اکیلا عید کے دن",
+          "roman": "Kofe mein mslman sare the mslm tha akila aid ke din"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Kofe mein phraia jata hai"
+}

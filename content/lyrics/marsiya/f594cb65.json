@@ -1,0 +1,181 @@
+{
+  "id": "f594cb65-2b6b-5e2b-a447-d862deb351fc",
+  "title": "تمہارے غائب کا پردہ ہِلا کے روئیں گے",
+  "type": "Marsiya",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=mETKmdlgjRs&list=RDmETKmdlgjRs&start_radio=1",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=mETKmdlgjRs&list=RDmETKmdlgjRs&start_radio=1"
+  ],
+  "personalities": [
+    "Imam Mahdi (AJ)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "تمہارے غائب کا پردہ ہِلا کے روئیں گے",
+      "خدا کے سامنے ہم گڑگڑا کے روئیں گے"
+    ],
+    "roman": [
+      "Tmhare ghayb ka prdh hla-e ke royin ge",
+      "Khuda ke samne hum grgra ke royin ge"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تمہارے نام یہ سید کا آخری خط ہے",
+          "roman": "Tmhare nam yeh sid ka aakhri kht hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "قلم کو خون میں ڈبو لائن گر اجازت ہے",
+          "roman": "Qlm ko khon mein dbo layn gr ajazt hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "لہو سے اب یہ عارِضہ سجا کے روئیں گے",
+          "roman": "Lho se ab yeh aarzh-e sja ke royin ge"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تمہارے آنے کا اس نے یوں انتظار کِیا",
+          "roman": "Tmhare aane ka iss ne ion antzar kya-e"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تمہاری راہ میں لڑتے یہ جاں  سے ہار گیا",
+          "roman": "Tmhari rah mein lrte yeh jan se har gaya"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہم اس کے درد کو سینے لگا کے روئیں گے",
+          "roman": "Hum iss ke drd ko seene lga ke royin ge"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہزار زخموں سے  اِس کا ہے چورچور بدن",
+          "roman": "Hzar zkhmon se iss-e ka hai chorchor bdn"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تمہارے بیٹے نے  اوڑھا ہے آج سرخ کفن",
+          "roman": "Tmhare bite ne aorha hai aaj srkh kfn"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کفن سے خون کی رنگت چورا کے روئیں گے",
+          "roman": "Kfn se khon ki rngt chora ke royin ge"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "علی کے قدموں میں پہنچا ہے ایک ایک رفیق",
+          "roman": "Ali ke qdmon mein phncha hai aik aik rfiq"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہمارے ورثے میں آیا ہے پھر سے سرخ عقیق",
+          "roman": "Hamare orse mein aaya hai phir se srkh aqiq"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "انگوٹھیوں کے یہ ٹکرے ملا کے روئیں گے",
+          "roman": "Angothion ke yeh tkre mla ke royin ge"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اب آ بھی جاؤ کے رہبر ہمارا تنہا ہے",
+          "roman": "Ab a bhi jao ke rhbr hmara tnha hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "پھر اِس خیال سے اشکوں کا بند ٹوٹا ہے",
+          "roman": "Phir iss-e khial se ashkon ka bnd tota hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تمہاری گود میں چہرہ چھپا کے روئیں گے",
+          "roman": "Tmhari god mein chhrh chhpa ke royin ge"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "تمہاری گود میں چہرہ چھپا کے روئیں گے",
+          "roman": "Tmhari god mein chhrh chhpa ke royin ge"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سروں کا ہوگا کہاں دشمنِ خُدا سے شمار",
+          "roman": "Sron ka hoga kahan dshmn-e Khuda se shmar"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کٹے گا ایک تو اس کی جگہ اٹھیں گے ہزار",
+          "roman": "Kte ga aik to iss ki jgh athin ge hzar"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہمارے عشق کو وہ آزما کے روئیں گے",
+          "roman": "Hamare ashq ko woh aazma ke royin ge"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تمہارا غیب میں کیسا ہے حال کیا پوچھیں",
+          "roman": "Tmhara ghib mein kisa hai hal kya pochhin"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جواب سارے پتہ ہیں سوال کیا پوچھیں",
+          "roman": "Joab sare pth hain soal kya pochhin"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تمہاری آنکھوں سے نظریں چورا کے روئیں گے",
+          "roman": "Tmhari aankhon se nzrin chora ke royin ge"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Tmhare ghayb ka prdh hla-e ke royin ge"
+}

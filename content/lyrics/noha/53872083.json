@@ -1,0 +1,109 @@
+{
+  "id": "53872083-45e4-514e-b63e-b61788eb1832",
+  "title": "کربلا میں کیا بتائیں ہم نے کیا کیا دیکھا",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": "Nasir Asghar Party",
+  "scale_pitch": null,
+  "audio_url": "https://youtu.be/HZPfbttlKe4",
+  "media_urls": [
+    "https://youtu.be/HZPfbttlKe4"
+  ],
+  "personalities": [
+    "Imam Hussain (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "کربلا میں کیا بتائیں ہم نے کیا کیا دیکھا",
+      "ہم نے لاکھوں میں ہے شبیر کو تنہا دیکھا"
+    ],
+    "roman": [
+      "Karbala mein kya btayin hum ne kya kya dikha",
+      "Hum ne lakhon mein hai shbir ko tnha dikha"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یوں تو پانی کو ہے بے چین پیاسے کتنے",
+          "roman": "Ion to pani ko hai be chin piase ktne"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہم نے پیاسوں کو ترستے ہوئے دریا دیکھا",
+          "roman": "Hum ne piason ko trste hoye dria dikha"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کیوں نہ اشکوں کی جگہ خون بہائے عابد",
+          "roman": "Kyun na ashkon ki jgh khon bhaye aabd"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جس نے مادر کا وہ جلتے ہوئے برقع دیکھا",
+          "roman": "Js ne madr ka woh jlte hoye brqa dikha"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شاہ نے جب سینۂ اکبر سے نکالا نیزہ",
+          "roman": "Shah ne jab sin Akbar se nkala nizh"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ساتھ آتے ہوئے اکبر کا کلیجہ دیکھا",
+          "roman": "Sath aate hoye Akbar ka klijh dikha"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے اس بالی سکینہ کو کہاں نیند آئے",
+          "roman": "Haye iss bali Sakina ko kahan nind aaye"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جس نے بابا کا گلا آنکھوں سے کٹتا دیکھا",
+          "roman": "Js ne baba ka gla aankhon se ktta dikha"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جس کی حسرت لیے دنیا سے گئے سبز قبا",
+          "roman": "Js ki hsrt lie dnia se gaye sbz qba"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "صبحِ عاشور وہ لٹتے ہوئے صحرا دیکھا",
+          "roman": "Sbh-e aashor woh ltte hoye shra dikha"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Karbala mein kya btayin hum ne kya kya dikha"
+}

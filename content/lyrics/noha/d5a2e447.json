@@ -1,0 +1,145 @@
+{
+  "id": "d5a2e447-2db0-5a59-9dcc-88ccb6c6b5a5",
+  "title": "اکبرؑ کا لہو شہہؑ کی عبا تک پہنچ گیا",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Hazrat Ali Akbar (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اکبرؑ کا لہو شہہؑ کی عبا تک پہنچ گیا",
+          "roman": "Akbar AS ka lho shhh AS ki aba tak phnch gaya"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دستار سے وہ ماں کی ردا تک پہنچ گیا",
+          "roman": "Dstar se woh man ki rida tak phnch gaya"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ایسے گری ہے خیمے میں اکبرؑ کی لاش پر",
+          "roman": "Aise gri hai khime mein Akbar AS ki lash par"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "زینبؑ کا خون خاکِ شفا تک پہنچ گیا",
+          "roman": "Zainab AS ka khon khak-e shfa tak phnch gaya"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لیلیٰؑ یہ رو کے کہتی تھیں اکبرؑ کہاں ہو تم",
+          "roman": "Lili AS yeh ro ke khti thin Akbar AS kahan ho tum"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ظالم کا ہاتھ میری ردا تک پہنچ گیا",
+          "roman": "Zalim ka hath meri rida tak phnch gaya"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "آواز رن سے آئی کہ بابا میں گر پڑا",
+          "roman": "Aaoaz rn se aayi keh baba mein gr pra"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "گرتا ہوا حسینؑ صدا تک پہنچ گیا",
+          "roman": "Grta hoa Hussain AS AS sda tak phnch gaya"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سینے میں نیزہ توڑ کے کہتا تھا یہ لعیں",
+          "roman": "Seene mein nizh tor ke khta tha yeh lain"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دیکھو حسینؑ اپنی قضا تک پہنچ گیا",
+          "roman": "Dikho Hussain AS AS apni qaza tak phnch gaya"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مولاؑ ضعیف ہو گئے کچھ دیر میں مگر",
+          "roman": "Mola AS zaif ho gaye kchh dir mein magar"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اکبرؑ کا لاشہ آلِ عبا تک پہنچ گیا",
+          "roman": "Akbar AS ka lashh Aal-e aba tak phnch gaya"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جس ہاتھ نے گرایا تھا ہمشکلِ مصطفیٰؐ",
+          "roman": "Js hath ne graia tha hmshkl-e mstfi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نیزہ لیے وہ ہاتھ ردا تک پہنچ گیا",
+          "roman": "Nizh lie woh hath rida tak phnch gaya"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "برچھی گڑی ہوئی تھی تو قاصد بھی آ گیا",
+          "roman": "Brchhi gri hoyi thi to qasd bhi a gaya"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "صغریٰؑ کا انتظار قضا تک پہنچ گیا",
+          "roman": "Sghri AS ka antzar qaza tak phnch gaya"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Akbar AS ka lho shhh AS ki aba tak phnch gaya"
+}

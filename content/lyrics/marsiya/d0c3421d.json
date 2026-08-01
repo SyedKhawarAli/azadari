@@ -1,0 +1,252 @@
+{
+  "id": "d0c3421d-6d3a-577e-b104-22a425ed08b5",
+  "title": "پتھر ہٹا کے لاش سے، زینب نے دی صدا",
+  "type": "Marsiya",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=RqBIPT4WL7w&list=RDRqBIPT4WL7w&start_radio=1",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=RqBIPT4WL7w&list=RDRqBIPT4WL7w&start_radio=1"
+  ],
+  "personalities": [
+    "Syeda Zainab (SA)",
+    "Imam Hussain (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "پتھر ہٹا کے لاش سے، زینب نے دی صدا",
+      "کیا تم میرے حسین ہو"
+    ],
+    "roman": [
+      "Pthr hta ke lash se, Zainab ne di sda",
+      "Kya tum mere Hussain AS ho"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کیسے پڑے ہیں جسم کے  ٹکڑے جدا جدا",
+          "roman": "Kise pre hain jism ke tkre jda jda"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے ہائے میرے غریب کا  کیا حال کر دیا",
+          "roman": "Haye haye mere ghrib ka kya hal kr dia"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "گھوڑوں سے لاشہ دشت میں  پامال کر دیا",
+          "roman": "Ghoron se lashh dasht mein pamal kr dia"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "پہچانوں کس طرح سے، بدن سے ہے سر جدا",
+          "roman": "Phchanon ks trh se, bdn se hai sar jda"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "پہچان لوں گی میں تمہیں  آواز مجھ کو دو",
+          "roman": "Phchan lon gi mein tumhein aaoaz mujh ko do"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دم توڑتے جو دیکھا ہے  کڑیل جوان کو",
+          "roman": "Dm torte jo dikha hai kril joan ko"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "آنکھوں میں اب بہن کی، اجالا نہیں رہا",
+          "roman": "Aankhon mein ab bhn ki, ajala nahi raha"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "پہچاننا تمہارے لیے  بھی کٹھن ہوا",
+          "roman": "Phchanna tmhare lie bhi kthn hoa"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دیکھا ہے پہلی بار جو  زینب کو بے ردا",
+          "roman": "Dikha hai phli bar jo Zainab ko be rida"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "آتی ہے شرم جلد، بتا دو مجھے ذرا",
+          "roman": "Aati hai shrm jld, bta do mujhe zra"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کرتا رہا ہے ذبح کی  کوشش کہاں کہاں",
+          "roman": "Krta raha hai zbh ki koshsh kahan kahan"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "خنجر پہ ہے کٹی ہوئی  گردن پہ بھی نشاں",
+          "roman": "Khnjr ph hai kti hoyi grdn ph bhi nshan"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کاٹا ہے کس طرح سے  ستمگر نے گلا",
+          "roman": "Kata hai ks trh se stmgr ne gla"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کیا لے گئے ہیں لوٹ کے  سب کچھ یہ اشقیاں",
+          "roman": "Kya le gaye hain lot ke sab kchh yeh ashqian"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تن پر بچا ہے ماں کا یہ  کرتا سلا ہوا",
+          "roman": "Tn par bcha hai man ka yeh krta sla hoa"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "نکلے تھے جب خیام سے  یہ حال تو نہ تھا",
+          "roman": "Nkle the jab khiam se yeh hal to na tha"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "آہستہ سے جواب دو  ہے ساتھ اس کے ماں",
+          "roman": "Aahsth se joab do hai sath iss ke man"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کیا اب تمہارے پاس ہے  معصوم بے زباں",
+          "roman": "Kya ab tmhare pas hai masom be zban"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ننھا سا لاشہ کس کا یہ  سینے پہ ہے رکھا",
+          "roman": "Nnha sa lashh ks ka yeh seene ph hai rkha"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دیکھو بندھی ہیں ہاتھوں میں  میرے بھی رسیاں",
+          "roman": "Dikho bndhi hain hathon mein mere bhi rsian"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اب اور لو بہن کی نہ  غربت کا امتحاں",
+          "roman": "Ab aur lo bhn ki na ghurbat ka amthan"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کچھ تو جواب دو مجھے  سغرہ کا واسطہ",
+          "roman": "Kchh to joab do mujhe sghrh ka oasth"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "وہ بھی تمہارے طرح سے  زخمی نہ ہو کہیں",
+          "roman": "Woh bhi tmhare trh se zkhmi na ho khin"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دل کو میرے یہ لگتا ہے  موجود ہے یہیں",
+          "roman": "Dil ko mere yeh lgta hai mojod hai yehin"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "آتی ہے ماں کے رونے کی  نزدیک سے صدا",
+          "roman": "Aati hai man ke rone ki nzdik se sda"
+        }
+      ]
+    },
+    {
+      "band_number": 10,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "زینب پکاری میر تکلم بصد ملال",
+          "roman": "Zainab pkari mir tklm bsd mlal"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کیا مرتے وقت بھی میرے  پردے کا تھا خیال",
+          "roman": "Kya mrte waqt bhi mere prde ka tha khial"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہے مٹھیوں میں کس لیے  یہ خاکِ کربلا",
+          "roman": "Hai mthion mein ks lie yeh khak-e Karbala"
+        }
+      ]
+    },
+    {
+      "band_number": 11,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کیسے پڑے ہیں جسم کے  ٹکڑے جدا جدا",
+          "roman": "Kise pre hain jism ke tkre jda jda"
+        }
+      ]
+    },
+    {
+      "band_number": 12,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "پتھر ہٹا کے لاش سے…",
+          "roman": "Pthr hta ke lash se"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Pthr hta ke lash se, Zainab ne di sda"
+}

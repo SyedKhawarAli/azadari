@@ -1,0 +1,83 @@
+{
+  "id": "84c39b3c-b304-59d6-90c6-270268410515",
+  "title": "علی سے عشق کرنا ہی اصولِ زِندگی ٹھہرا",
+  "type": "Manqabat",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://islamimarkaz.com/topics/560/media/2464",
+  "media_urls": [
+    "https://islamimarkaz.com/topics/560/media/2464"
+  ],
+  "personalities": [
+    "Imam Ali (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "علی سے عشق کرنا ہی اصولِ زِندگی ٹھہرا",
+          "roman": "Ali se ashq krna hi asol-e zndgi-e thhra"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یہی معیار اُقبا میں قبول بندگی ٹھہرا",
+          "roman": "Yehi maiar aqba mein qbol bndgi thhra"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "علی کے عشق ہی سے ہم کو ہے عشقِ خدا حاصل",
+          "roman": "Ali ke ashq hi se hum ko hai ashq-e Khuda hasl"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "خدا والوں میں یہ عشقِ علی ہے لازمی ٹھہرا",
+          "roman": "Khuda oalon mein yeh ashq-e Ali hai lazmi thhra"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کہا یہ بارہا دُنیا سے یہ دہِن اے رسالت نے",
+          "roman": "Kha yeh barha dnia se yeh dhn-e Aye rsalt ne"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "احد تا خیبرو خندق فقط میرا علی ٹھہرا",
+          "roman": "Ahd ta khibro khndq fqt mera Ali thhra"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "خدا شاہد ہے ہر اک دَور میں مارا گیا ہم کو",
+          "roman": "Khuda shahd hai hr ak dor mein mara gaya hum ko"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "علی کا عشق ہی اپنی ہے وجہِ دُشمنی ٹھہرا",
+          "roman": "Ali ka ashq hi apni hai ojh-e dshmni thhra"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Ali se ashq krna hi asol-e zndgi-e thhra"
+}

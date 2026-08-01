@@ -1,0 +1,164 @@
+{
+  "id": "08ab2956-bdd5-5122-adcd-ce6e6aeb84f9",
+  "title": "نُورِ خُدا محمد ﷺ",
+  "type": "Manqabat",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=MCUzC-4eW8A",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=MCUzC-4eW8A"
+  ],
+  "personalities": [
+    "Prophet Muhammad (SAWW)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نُور چمکا تھا جو مدینے میں, آج روشن ہے میرے سینے میں",
+          "roman": "Noor chamka tha jo Madine mein, aaj roshan hai mere seene mein"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "رات دن نعت پڑھتا رہتا ہُوں, اب مزہ آرہا ہے جینے میں",
+          "roman": "Raat din nat parhta rehta hoon, ab maza aa-raha hai jeene mein"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نُورِ خُدا محمد  , شمسُ الضحٰی محمد",
+          "roman": "Noor-e Khuda Muhammad, shms alzhi Muhammad"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کامل شفا محمد  , صلِ علٰی محمد",
+          "roman": "Kaml shfa Muhammad, sl-e Ali Muhammad"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لوح و قلم محمد  , شانِ حرم محمد",
+          "roman": "Loh o qlm Muhammad, shan-e hrm Muhammad"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میٹھا کرم محمد  , بدر الدجٰی محمد",
+          "roman": "Mitha krm Muhammad, bdr aldji Muhammad"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نُورِ خدا محمد  ۔۔۔ نُورِ خدا محمد",
+          "roman": "Noor-e Khuda Muhammad... noor-e Khuda Muhammad"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کُل کائنات اُن کی, عرشوں پہ بات اُن کی",
+          "roman": "Kl kaynat un ki, arshon ph bat un ki"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "روشن ہے ذات اُن کی, اعلٰی صفات اُن کی",
+          "roman": "Roshan hai zat un ki, aali sfat un ki"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "صادق امیں محمد  , معراجِ دیں محمد",
+          "roman": "Sadq amin Muhammad, maraj-e din Muhammad"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سب سے حسیں محمد  , سب سے جُدا محمد",
+          "roman": "Sab se hsin Muhammad, sab se jda Muhammad"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نُورِ خدا محمد … نُورِ خدا محمد",
+          "roman": "Noor-e Khuda Muhammad noor-e Khuda Muhammad"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "محبوبِ کبریا وہ, مولائے مُرتضٰی وہ",
+          "roman": "Mhbob-e kbria woh, molaye mrtzi woh"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "معراجِ انبیا وہ, یعنی ہیں مُصطفٰی وہ",
+          "roman": "Maraj-e anbia woh, iani hain mstfi woh"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "شاہِ زمن محمد  , شیریں دہن محمد",
+          "roman": "Shah-e zmn Muhammad, shirin dhn Muhammad"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "آقائے من محمد  , غم کی دوا محمد",
+          "roman": "Aaqaye mn Muhammad, ghm ki doa Muhammad"
+        }
+      ]
+    },
+    {
+      "band_number": 10,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نورِ خدا محمد ۔۔۔ نورِ خدا محمد  ﷺ",
+          "roman": "Noor-e Khuda Muhammad... noor-e Khuda Muhammad SAWW"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Noor-e Khuda Muhammad SAWW"
+}

@@ -1,0 +1,265 @@
+{
+  "id": "1a8d364d-a94e-5b37-87a7-7a22a2c87bb5",
+  "title": "علی علی اکبرؑ، علی علی",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=SjPJNWoyB2g&list=RDSjPJNWoyB2g&start_radio=1",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=SjPJNWoyB2g&list=RDSjPJNWoyB2g&start_radio=1",
+    "https://www.youtube.com/watch?v=yZUxxKS4_Mk"
+  ],
+  "personalities": [
+    "Hazrat Ali Akbar (AS)",
+    "Imam Ali (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "(نوحہ خواں: احمد رضا ناصری)",
+          "roman": "(nohh khoan: Ahmad raza nasri)"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "علی علی اکبرؑ، علی علی",
+          "roman": "Ali Ali akbr, AS Ali Ali"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "شبیہِ پیمبرؐ، علی علی، اے جانم",
+          "roman": "Shbih-e pimbr, Ali ali, Aye janm"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نظر اٹھا کے تو ماں کو دیکھو اے بیٹا، اے جانم",
+          "roman": "Nzr atha ke to man ko dikho Aye bita, Aye janm"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "کیوں سر جھکائے کھڑے ہوئے ہو اے بیٹا، اے جانم",
+          "roman": "Kyun sar jhkaye khre hoye ho Aye bita, Aye janm"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تم ہی تو مادر کا آسرا ہو اے بیٹا",
+          "roman": "Tum hi to madr ka aasra ho Aye bita"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "اے جانِ مادر، علی علی, اے جانِ مادر، علی علی",
+          "roman": "Aye jaan-e madr, Ali Ali, Aye jaan-e madr, Ali Ali"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "شبیہِ پیمبرؐ، علی علی, شبیہِ پیمبرؐ، علی علی",
+          "roman": "Shbih-e pimbr, Ali Ali, shbih-e pimbr, Ali Ali"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اے میرے یوسفِ جمالِ اکبرؑ رک جاؤ، اے جانم",
+          "roman": "Aye mere iosf-e jmal-e Akbar AS rk jao, Aye janm"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نہ جی سکے گی تمہاری مادر رک جاؤ، اے جانم",
+          "roman": "Na ji ske gi tmhari madr rk jao, Aye janm"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "سہیں گے کیسے یہ داغ سرورؑ رک جاؤ",
+          "roman": "Shin ge kise yeh dagh sarwar AS rk jao"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "رکو اے صفدر، علی علی, رکو اے صفدر، علی علی",
+          "roman": "Rko Aye sfdr, Ali Ali, rko Aye sfdr, Ali Ali"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "شبیہِ پیمبرؐ، علی علی, شبیہِ پیمبرؐ، علی علی",
+          "roman": "Shbih-e pimbr, Ali Ali, shbih-e pimbr, Ali Ali"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہے امِ لیلیٰ کے لب پہ نوحہ واویلا، اے جانم",
+          "roman": "Hai am-e lili ke lb ph nohh oaoila, Aye janm"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "لہو میں ڈوبا ہے لال میرا واویلا، اے جانم",
+          "roman": "Lho mein doba hai laal mera oaoila, Aye janm"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہوا ہے سینے کے پار نیزہ واویلا",
+          "roman": "Hoa hai seene ke par nizh oaoila"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "فدا ہو مادر، علی علی, فدا ہو مادر، علی علی",
+          "roman": "Fda ho madr, Ali Ali, fda ho madr, Ali Ali"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "شبیہِ پیمبرؐ، علی علی, شبیہِ پیمبرؐ، علی علی",
+          "roman": "Shbih-e pimbr, Ali Ali, shbih-e pimbr, Ali Ali"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نبیؐ کی صورت، نبیؐ کی سیرت اے اکبرؑ، اے جانم",
+          "roman": "Nbi ki sort, nbi ki sirt Aye akbr, AS Aye janm"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نثار تجھ پہ جہاں کی عظمت اے اکبرؑ، اے جانم",
+          "roman": "Nsar tjh ph jhan ki azmt Aye akbr, AS Aye janm"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "پکارتی ہے تجھے شہادت اے اکبرؑ",
+          "roman": "Pkarti hai tjhe shhadt Aye Akbar AS"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "اے گلِ حیدرؑ، علی علی, اے گلِ حیدرؑ، علی علی",
+          "roman": "Aye gl-e hidr, AS Ali Ali, Aye gl-e hidr, AS Ali Ali"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "شبیہِ پیمبرؐ، علی علی, شبیہِ پیمبرؐ، علی علی",
+          "roman": "Shbih-e pimbr, Ali Ali, shbih-e pimbr, Ali Ali"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "پدر کی آنکھوں کا نور ہو تم اے دلبر، اے جانم",
+          "roman": "Pdr ki aankhon ka noor ho tum Aye dlbr, Aye janm"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سنا ہے زخموں سے چور ہو تم اے دلبر، اے جانم",
+          "roman": "Sna hai zkhmon se chor ho tum Aye dlbr, Aye janm"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کیوں ہائے مادر سے دور ہو تم اے دلبر",
+          "roman": "Kyun haye madr se dor ho tum Aye dlbr"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "دعاۓ مادر، علی علی, دعاۓ مادر، علی علی",
+          "roman": "Da madr, Ali Ali, da madr, Ali Ali"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "شبیہِ پیمبرؐ، علی علی, شبیہِ پیمبرؐ، علی علی",
+          "roman": "Shbih-e pimbr, Ali Ali, shbih-e pimbr, Ali Ali"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہے خون کی پیاسی یہ فوجِ اعداء آ جاؤ، اے جانم",
+          "roman": "Hai khon ki piasi yeh foj-e aada a jao, Aye janm"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اتارے زینبؑ تمہارا صدقہ آ جاؤ، اے جانم",
+          "roman": "Atare Zainab AS tmhara sdqh a jao, Aye janm"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "صدائیں دیتی ہیں بنتِ زہراؑ آ جاؤ",
+          "roman": "Sdayin diti hain bnt-e Zahra AS a jao"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "رداۓ زینبؑ، علی علی, رداۓ زینبؑ، علی علی",
+          "roman": "Rda zinb, AS Ali Ali, rda zinb, AS Ali Ali"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "شبیہِ پیمبرؐ، علی علی, شبیہِ پیمبرؐ، علی علی",
+          "roman": "Shbih-e pimbr, Ali Ali, shbih-e pimbr, Ali Ali"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بتاؤ کامل لکھوں میں کیسے وہ منظر، اے جانم",
+          "roman": "Btao kaml lkhon mein kise woh mnzr, Aye janm"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بپا تھا کربوبلا میں ہائے وہ محشر، اے جانم",
+          "roman": "Bpa tha krbobla mein haye woh mhshr, Aye janm"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "اٹھائے لاشہ کمر خمیدہ تھے سرورؑ",
+          "roman": "Athaye lashh kmr khmidh the sarwar AS"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "صدائے اکبرؑ، علی علی, صدائے اکبرؑ، علی علی",
+          "roman": "Sdaye akbr, AS Ali Ali, sdaye akbr, AS Ali Ali"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "شبیہِ پیمبرؐ، علی علی, شبیہِ پیمبرؐ، علی علی",
+          "roman": "Shbih-e pimbr, Ali Ali, shbih-e pimbr, Ali Ali"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Ali Ali akbr, AS Ali Ali"
+}

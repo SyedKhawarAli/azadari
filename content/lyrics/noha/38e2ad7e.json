@@ -1,0 +1,72 @@
+{
+  "id": "38e2ad7e-fd8b-5ab3-b5ad-46864eb56f06",
+  "title": "پیغام یہ ہر جا ، پھیلائیں گے ہر دم",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=ZmW_DDaZK3U",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=ZmW_DDaZK3U"
+  ],
+  "personalities": [
+    "Ahlulbayt (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "پیغام یہ ہر جا ، پھیلائیں گے ہر دم",
+          "roman": "Pigham yeh hr ja, philayin ge hr dm"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مولا سے وعدہ ہے ، نبھائیں گے ہر دم",
+          "roman": "Mola se oadh hai, nbhayin ge hr dm"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جن کے صدقے میں ملی یہ جاں چلی جائے",
+          "roman": "Jin ke sdqe mein mli yeh jan chli jaye"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "طاغوتیت کا ہر نشاں دنیا سے مِٹ جائے",
+          "roman": "Taghotit ka hr nshan dnia se mt-e jaye"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "روحِ وِلایت اب جہاں میں ایسے چھا جائے",
+          "roman": "Rooh-e wilayat-e ab jhan mein aise chha jaye"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہم ناصران مہدی ، رہبر ہیں جانِ مہدی",
+          "roman": "Hum nasran mhdi, rhbr hain jaan-e mhdi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "لبیک یا مہدی ، لبیک یا مہدی",
+          "roman": "Lbik Ya mhdi, lbik Ya mhdi"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Pigham yeh hr ja, philayin ge hr dm"
+}

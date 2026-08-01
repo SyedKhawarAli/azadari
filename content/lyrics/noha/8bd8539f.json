@@ -1,0 +1,135 @@
+{
+  "id": "8bd8539f-0a2d-50e4-9b04-8515dee49cc8",
+  "title": "اسلام سے وفا ہے شبیر تیرا ماتم",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": null,
+  "media_urls": [],
+  "personalities": [
+    "Imam Hussain (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "اسلام سے وفا ہے شبیر تیرا ماتم"
+    ],
+    "roman": [
+      "Aslam se ofa hai shbir tera matm"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ایمان کی بقا ہے ایمان کی بقا ہے شبیر تیرا ماتم",
+          "roman": "Aiman ki bqa hai aiman ki bqa hai shbir tera matm"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہر درد میں پیام کر بل  سُنا  رہا ہے ہر دور میں  پیام کر بل میں سنا رہا ہے مردہ ضمیر والوں کو یہ جگا رہا ہے",
+          "roman": "Hr drd mein piam kr bl sna raha hai hr dor mein piam kr bl mein sna raha hai mrdh zmir oalon ko yeh jga raha hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "چینا سکھا رہا ہے جینا سکھا رہا ہے شبیر تیرا ماتم",
+          "roman": "China skha raha hai jina skha raha hai shbir tera matm"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "زہرہ کے لال کا غم دل  سے منا رہے ہیں",
+          "roman": "Zhrh ke laal ka ghm dil se mna rahe hain"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "زہرہ کے لال کا غم دل  سے منا رہے ہیں",
+          "roman": "Zhrh ke laal ka ghm dil se mna rahe hain"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "عباس باوفا کا پرچم اٹھا رہے ہیں",
+          "roman": "Abbas baofa ka prchm atha rahe hain"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ہمت بڑھا  رہا ہے شبیر تیرا ماتم",
+          "roman": "Hmt brha raha hai shbir tera matm"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سر کٹ گیا ہے لیکن جھک نہ سکا کسی سے",
+          "roman": "Sar kt gaya hai lekin jhk na ska ksi se"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سر کٹ گیا ہے لیکن جھک نہ سکا کسی سے",
+          "roman": "Sar kt gaya hai lekin jhk na ska ksi se"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "صدیاں گزر گئی ہیں رک نہ سکا کسی سے",
+          "roman": "Sdian gzr gayi hain rk na ska ksi se"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ہر دور میں بپا ہے  ہر دور میں بپا ہے شبیر تیرا ماتم",
+          "roman": "Hr dor mein bpa hai hr dor mein bpa hai shbir tera matm"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "رہبر نے ہے سکھایا لبیک کا طریقہ",
+          "roman": "Rhbr ne hai skhaia lbik ka triqh"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "رہبر نے ہے سکھایا لیک کا طریقہ",
+          "roman": "Rhbr ne hai skhaia lik ka triqh"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہر تخت شھنشاہی مسمار کا طریقہ",
+          "roman": "Hr tkht shhnshahi msmar ka triqh"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "رہبر نے خود کیا ہے، رہبر نے خود کیا ہے",
+          "roman": "Rhbr ne khod kya he, rhbr ne khod kya hai"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "شبیر تیرا ماتم",
+          "roman": "Shbir tera matm"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Aslam se ofa hai shbir tera matm"
+}

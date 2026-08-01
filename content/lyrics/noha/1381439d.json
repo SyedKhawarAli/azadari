@@ -1,0 +1,210 @@
+{
+  "id": "1381439d-2360-5132-8177-a98c04522cab",
+  "title": "اصغر، میں تیری ماں ہوں",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=dctWUdOTsIo",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=dctWUdOTsIo"
+  ],
+  "personalities": [
+    "Hazrat Ali Asghar (AS)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "اصغر، میں تیری ماں ہوں…",
+      "آجاؤ چاند میرے، تیری پیاس میں بُجھاؤ",
+      "اصغر، میں تیری ماں ہوں…",
+      "آجاؤ چاند میرے، تیری پیاس میں بُجھاؤ",
+      "اصغر، میں تیری ماں ہوں…",
+      "میرے لاڈلے کہاں ہو؟",
+      "میرے لاڈلے کہاں ہو؟",
+      "سینے تمہیں لگاؤں",
+      "اصغر، میں تیری ماں ہوں…",
+      "آجاؤ چاند میرے، تیری پیاس میں بُجھاؤ",
+      "اصغر، میں تیری ماں ہوں…"
+    ],
+    "roman": [
+      "Asghr, mein teri man hon",
+      "Aajao chand mire, teri pias mein bjhao",
+      "Asghr, mein teri man hon",
+      "Aajao chand mire, teri pias mein bjhao",
+      "Asghr, mein teri man hon",
+      "Mere ladle kahan ho?",
+      "Mere ladle kahan ho?",
+      "Seene tumhein lgaon",
+      "Asghr, mein teri man hon",
+      "Aajao chand mire, teri pias mein bjhao",
+      "Asghr, mein teri man hon"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "آجا اصغر، آجا اصغر…",
+          "roman": "Aaja asghr, aaja asghr"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بیٹا، تمہارا قاتل میرے سامنے کھڑا ہے",
+          "roman": "Bita, tmhara qatl mere samne khra hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جانے کیوں ہنس رہا ہے",
+          "roman": "Jane kyun hns raha hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "چادر بھی لٹ چکی ہے",
+          "roman": "Chadar bhi lt chki hai"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "منہ کس طرح چھپاؤں",
+          "roman": "Mnh ks trh chhpaon"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تیرے جھولے کو سکینہ رو رو کے چومتی ہے",
+          "roman": "Tere jhole ko Sakina ro ro ke chomti hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تجھے گھر میں ڈھونڈتی ہے، تیری موت کی خبر میں",
+          "roman": "Tjhe ghr mein dhondti he, teri mot ki khbr mein"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کیسے اُسے سناؤں",
+          "roman": "Kise ase snaon"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "میری جان جا رہی ہے یہ سوچ سوچ اصغر",
+          "roman": "Meri jaan ja rahi hai yeh soch soch Asghar"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اس پھول سے گلے پر، یہ تیر کیسے جھیلا",
+          "roman": "Iss phol se gle pr, yeh tir kise jhila"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "بہنوں کو کیا بتاؤں",
+          "roman": "Bhnon ko kya btaon"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نیزے سے گر رہا ہے ننھا سا سر تمہارا",
+          "roman": "Nize se gr raha hai nnha sa sar tmhara"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دل روتا ہے ہمارا، میرے ہاتھ تو بندھے ہیں",
+          "roman": "Dil rota hai hmara, mere hath to bndhe hain"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "سر کس طرح اُٹھاؤں",
+          "roman": "Sar ks trh athaon"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جھولے کے ساتھ بیٹا میرے ہاتھ جل گئے ہیں",
+          "roman": "Jhole ke sath bita mere hath jl gaye hain"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ظالم بھی ہنس رہے ہیں، تیری آخری نشانی",
+          "roman": "Zalim bhi hns rahe hin, teri aakhri nshani"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "ہائے کس طرح  بچاؤں",
+          "roman": "Haye ks trh bchaon"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جب رات ہوگی رن میں ہوجائے گا اندھیرا",
+          "roman": "Jab raat hogi rn mein hojaye ga andhira"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ڈَرنا نہیں اے بیٹا، دادی کہیں گی تم سے",
+          "roman": "Drna nahi Aye bita, dadi khin gi tum se"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "آ میں تجھے سولاؤں",
+          "roman": "A mein tjhe solaon"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تم رات کو ہمیشہ سنتے تھے ماں سے لوری",
+          "roman": "Tum raat ko hmishh snte the man se lori"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اب نیند آتی ہوگی، پھر گود میں لٹا کر",
+          "roman": "Ab nind aati hogi, phir god mein lta kr"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "نادِ علی سناؤں",
+          "roman": "Nad-e Ali snaon"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Asghr, mein teri man hoon"
+}

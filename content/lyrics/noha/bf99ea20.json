@@ -1,0 +1,205 @@
+{
+  "id": "bf99ea20-cc96-52b7-ae2b-434efef2496e",
+  "title": "سکینہ اٹھو میری جان اٹھو",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=-MCvDd0LJkU",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=-MCvDd0LJkU"
+  ],
+  "personalities": [
+    "Bibi Sakina (SA)"
+  ],
+  "events": [],
+  "astai_chorus": {
+    "urdu": [
+      "سکینہ……"
+    ],
+    "roman": [
+      "Skinh"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سکینہ اٹھو میری جان اٹھو رہائی ملی چلو گھر چلے",
+          "roman": "Sakina atho meri jaan atho rhayi mli chlo ghr chle"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یہ کرتی تھی ماں لحد پر بکا میری لاڈلی چلو گھر چلے",
+          "roman": "Yeh krti thi man lhd par bka meri ladli chlo ghr chle"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "یہاں سے چلو چلے کربلا وہیں پر تمہیں ملیں گے چچا",
+          "roman": "Ihan se chlo chle Karbala ohin par tumhein mlin ge chcha"
+        },
+        {
+          "misra_number": 4,
+          "urdu": "ستم جو ہوئے بتانا انہیں دکھانا انہیں یہ کرتا جلا",
+          "roman": "Stm jo hoye btana anhin dkhana anhin yeh krta jla"
+        },
+        {
+          "misra_number": 5,
+          "urdu": "چچا جان کو دکھانا ذرا ردأ خون بھری چلو گھر چلے",
+          "roman": "Chcha jaan ko dkhana zra rda khon bhri chlo ghr chle"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بتانا انہیں سبھی سختیاں ملی کس قدر تجھے جِھڑکیاں",
+          "roman": "Btana anhin sbhi skhtian mli ks qdr tjhe jhrkian-e"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "ہماری ردأ لٹی کس طرح چھینی کس طرح تیری بالیاں",
+          "roman": "Hamari rda lti ks trh chhini ks trh teri balian"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "بتانا انہیں بجھی کس طرح تیری تِشنگی چلو گھر چلے",
+          "roman": "Btana anhin bjhi ks trh teri tshngi-e chlo ghr chle"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "پدر سے ملو تو دل جوئی ہو بتانا انہیں بہت روئی ہو",
+          "roman": "Pdr se mlo to dil joyi ho btana anhin bht royi ho"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "قسم لو اگر تمہارے بنا سکینہ کبھی کہیں سوئی ہو",
+          "roman": "Qsm lo agar tmhare bna Sakina kbhi khin soyi ho"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "لحد باپ کی ملے جب تجھے تو کہنا یہی چلو گھر چلے",
+          "roman": "Lhd baap ki mle jab tjhe to khna yehi chlo ghr chle"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لحد جب ملے تجھے بھائی کی تو کہنا اسے میری لاڈلی",
+          "roman": "Lhd jab mle tjhe bhayi ki to khna ase meri ladli"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "رہائی ملی ہمیں قید سے ہمیں اب نہیں اذیت کوئی",
+          "roman": "Rhayi mli hmin qid se hmin ab nahi azit koyi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میرے بےزباں اٹھو گھر چلے شبیہ نبی چلو گھر چلے",
+          "roman": "Mere bezban atho ghr chle shbih nbi chlo ghr chle"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لبِ علقمہ تو کرنا فغاں تیری موج ہے ابھی تک رواں",
+          "roman": "Lb-e alqmh to krna fghan teri moj hai abhi tak roan"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میری پیاس پر ہوئے جو فدا چچا کے میرے ہیں بازو کہاں",
+          "roman": "Meri pias par hoye jo fda chcha ke mere hain bazo kahan"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "کہاں مشق ہے کہاں ہے علم کہاں ہے جری چلو گھر چلے",
+          "roman": "Kahan mshq hai kahan hai alm kahan hai jri chlo ghr chle"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نہ اب غم کوئی نہ افتاد ہے وہ زنجیر سے اب آزاد ہے",
+          "roman": "Na ab ghm koyi na aftad hai woh znjir se ab aazad hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "پھپی بھی تیری تیرے ساتھ ہے تیرے ساتھ ہی وہ سجاد ہے",
+          "roman": "Phpi bhi teri tere sath hai tere sath hi woh sjad hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میری غم زدہ شبِ غم کٹی سحر ہو چکی چلو گھر چلے",
+          "roman": "Meri ghm zdh shb-e ghm kti shr ho chki chlo ghr chle"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لبوں پر تیرے یہی بات تھی وطن جائیں گے کبھی ہم پھپی",
+          "roman": "Labon par tere yehi bat thi otn jayin ge kbhi hum phpi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تجھے شمر کا نہیں خوف اب ستائیں گے نہ تجھے اب شقی",
+          "roman": "Tjhe shmr ka nahi khof ab stayin ge na tjhe ab shqi"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "نکل قید سے شروع ہم کریں نئی زندگی چلو گھر چلے",
+          "roman": "Nkl qid se shroa hum krin nyi zndgi chlo ghr chle"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "غریبوں کا یہ لٹا قافلہ وداع ہو کے پھر وطن جائے گا",
+          "roman": "Ghribon ka yeh lta qaflh widaa ho ke phir otn jaye ga"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تجھے پائے گی جو سُغرا تیری تو بیمار کو ملے گی دوا",
+          "roman": "Tjhe paye gi jo sghra teri to bimar ko mle gi doa"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "گلے مل کے پھر بہت روئے گی وہ بہنہ تیری چلو گھر چلے",
+          "roman": "Gle ml ke phir bht roye gi woh bhnh teri chlo ghr chle"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Sakina atho meri jaan atho"
+}

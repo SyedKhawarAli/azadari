@@ -1,0 +1,115 @@
+{
+  "id": "401d8e32-abce-571e-a1a6-85da805427ce",
+  "title": "مقتل میں بٹا تیرا ٹکڑوں میں بدن قاسم",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=ZHsv-VFkJCs&list=RDZHsv-VFkJCs&start_radio=1",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=ZHsv-VFkJCs&list=RDZHsv-VFkJCs&start_radio=1"
+  ],
+  "personalities": [
+    "Hazrat Qasim (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مقتل میں بٹا تیرا ٹکڑوں میں بدن قاسم",
+          "roman": "Mqtl mein bta tera tkron mein bdn Qasim"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اک دن میں اجڑا ہائے فروا کا چمن قاسم",
+          "roman": "Ak din mein ajra haye froa ka chmn Qasim"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ایسے نہ ہوا رن میں پامال کوئی لاشہ",
+          "roman": "Aise na hoa rn mein pamal koyi lashh"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "پامال ہوا جیسے تو ابنِ حسن قاسم",
+          "roman": "Pamal hoa jise to abn-e Hasan Qasim"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بھائی کی نشانی کو مقتل میں سلایا جب",
+          "roman": "Bhayi ki nshani ko mqtl mein slaia jab"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "غُربت میں شاہ دین کویاد آیا وطن قاسم",
+          "roman": "Ghurbat mein shah din koiad aaya otn Qasim"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مظلوم تیرے جیسا کوئی بھی نہیں بن میں",
+          "roman": "Mzlom tere jisa koyi bhi nahi bn mein"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "پامال بدن ہائے اور تشنہ دہن قاسم",
+          "roman": "Pamal bdn haye aur tshnh dhn Qasim"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ماں تیری تڑپتی ہے اِس دشتِ بیاباں میں",
+          "roman": "Man teri trpti hai iss-e dasht-e biaban mein"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "یثرب میں تڑپتی ہے ہائے روحِ حسن قاسم",
+          "roman": "Isrb mein trpti hai haye rooh-e Hasan Qasim"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مختار پڑھو نوحا سیدار کرو ماتم",
+          "roman": "Mkhtar prho noha sidar kro matm"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "صفدر کا قلم روئے اعجاز بدن قاسم",
+          "roman": "Sfdr ka qlm roye aajaz bdn Qasim"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Mqtl mein bta tera tkron mein bdn Qasim"
+}

@@ -1,0 +1,147 @@
+{
+  "id": "545700d6-188b-52c6-8f55-fecfe5809ab4",
+  "title": "رونے کے لئے کافی ہے سجاد تیرا نام",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "audio_url": "https://www.youtube.com/watch?v=qHb14j8R0U8",
+  "media_urls": [
+    "https://www.youtube.com/watch?v=qHb14j8R0U8"
+  ],
+  "personalities": [
+    "Imam Zain-ul-Abideen (AS)"
+  ],
+  "events": [],
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "رونے کے لئے کافی ہے سجاد تیرا نام",
+          "roman": "Rone ke lye kafi hai sjad tera nam"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تو شہنشاہِ درد ہے، بتلا رہی ہے شام",
+          "roman": "To shhnshah-e drd he, btla rahi hai sham"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "چلا بےکسوں کا کارواں، بیمار لوگو ساربان، ہے سنگ سارے اوریا،",
+          "roman": "Chla bekson ka karoan, bimar logo sarban, hai sng sare aoria,"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "شاہِ لافتح کی بیٹیاں، کربلا کے دشت میں... برپا ہے کہرام",
+          "roman": "Shah-e lafth ki bitian, Karbala ke dasht mein... brpa hai khram"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "زینب پکاری بےوطن، بھائی میرا ہے بےکفن، کر دے اسے کوئی دفن،",
+          "roman": "Zainab pkari beotn, bhayi mera hai bekfn, kr de ase koyi dfn,"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میرے ہاتھوں میں باندھی رسن، ہائے کیسے سنا ہوگا... بیمار نے پیغام",
+          "roman": "Mere hathon mein bandhi rsn, haye kise sna hoga... bimar ne pigham"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مستوروں میں ایک مرد ہے، غیرت سے چہرہ زرد، کربلا کی زمین گرد ہے،",
+          "roman": "Mstoron mein aik mrd he, ghirt se chhrh zrd, Karbala ki zmin grd he,"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "زینب کا دل میں درد ہے، روتا ہے سر جھکا کے... کرتا نہیں کلام",
+          "roman": "Zainab ka dil mein drd he, rota hai sar jhka ke... krta nahi klam"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مشکل تھی بڑی وہ گھڑی، دربار میں زینب کھڑی، شبیر کے لب پر چھڑی،",
+          "roman": "Mshkl thi bri woh ghri, drbar mein Zainab khri, shbir ke lb par chhri,"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "سجاد نے پہنی کڑی، دربارِ یزیدی کے... لرزے تھے در و بام",
+          "roman": "Sjad ne phni kri, drbar-e izidi ke... lrze the dr o bam"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کٹ جاتے سیادوں کے سر، زینب نہ جاتی دربدر، بیمار کا ٹکڑے جگر،",
+          "roman": "Kt jate siadon ke sr, Zainab na jati drbdr, bimar ka tkre jgr,"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "روتا ہے لہو ہر نگر، ہر منزلوں پہ تڑپنا... سجاد تیرا کام",
+          "roman": "Rota hai lho hr ngr, hr mnzlon ph trpna... sjad tera kam"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "زندان سیاہ پوش ہے، تنہائی کی آغوش ہے، عابد کہے نہ ہوش ہے،",
+          "roman": "Zndan siah posh he, tnhayi ki aaghosh he, aabd khe na hosh he,"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "دم ٹوٹا ہے خاموش ہے، امت نے سکینہ کو... دیا موت کا انعام",
+          "roman": "Dm tota hai khamosh he, amt ne Sakina ko... dia mot ka anaam"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کربلا کی سویا خاک پر، قاتل لہو پوشاک پر، ڈھلتے ہوئے افلاک پر،",
+          "roman": "Karbala ki soia khak pr, qatl lho poshak pr, dhlte hoye aflak pr,"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "امکان ہے نو لاکھ پر، ہیں جن و ملائک بھی... سجاد کے خدام",
+          "roman": "Amkan hai no lakh pr, hain jin o mlayk bhi... sjad ke khdam"
+        }
+      ]
+    }
+  ],
+  "title_roman": "Rone ke lye kafi hai sjad tera nam"
+}
