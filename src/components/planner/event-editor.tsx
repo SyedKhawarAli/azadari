@@ -374,7 +374,7 @@ function SortableItem({
             <p
               className={cn(
                 "min-w-0 flex-1",
-                rtlTitle ? "urdu-title text-base" : "text-sm font-medium",
+                rtlTitle ? "urdu-title text-right text-base" : "text-sm font-medium",
               )}
               dir={rtlTitle ? "rtl" : undefined}
               lang={rtlTitle ? "ur" : undefined}

@@ -166,7 +166,7 @@ function EventSurface({
                     className={cn(
                       "min-w-0 flex-1",
                       rtlTitle
-                        ? "urdu-title text-base sm:text-lg"
+                        ? "urdu-title text-right text-base sm:text-lg"
                         : "text-sm font-medium sm:text-base",
                     )}
                     dir={rtlTitle ? "rtl" : undefined}
@@ -185,7 +185,7 @@ function EventSurface({
                   <p
                     className={cn(
                       "mt-1 text-xs text-muted-foreground sm:text-sm",
-                      rtlNote && "urdu-title",
+                      rtlNote && "urdu-title text-right",
                     )}
                     dir={rtlNote ? "rtl" : undefined}
                     lang={rtlNote ? "ur" : undefined}
