@@ -2,9 +2,11 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
+import { Share2 } from "lucide-react";
 import { QRCodeSVG } from "qrcode.react";
+import { toast } from "sonner";
 import { Badge } from "@/components/ui/badge";
-import { buttonVariants } from "@/components/ui/button";
+import { Button, buttonVariants } from "@/components/ui/button";
 import { resolveLyricRef } from "@/lib/db/queries";
 import { decodeShareProgramme, shareUrl } from "@/lib/planner/share-codec";
 import { isRtlText } from "@/lib/text";
@@ -98,10 +100,30 @@ function EventSurface({
   shareUrl: string;
   programmeHash: string;
 }) {
+  const shareProgramme = async () => {
+    if (!url) return;
+    try {
+      if (typeof navigator !== "undefined" && typeof navigator.share === "function") {
+        await navigator.share({ title, url, text: `Majlis programme: ${title}` });
+        return;
+      }
+      await navigator.clipboard.writeText(url);
+      toast.success("Share link copied.");
+    } catch (error) {
+      if (error instanceof DOMException && error.name === "AbortError") return;
+      try {
+        await navigator.clipboard.writeText(url);
+        toast.success("Share link copied.");
+      } catch {
+        toast.error("Could not share this programme.");
+      }
+    }
+  };
+
   return (
     <div className="space-y-5 sm:space-y-8">
       <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between sm:gap-6">
-        <div>
+        <div className="min-w-0 flex-1">
           <p className="text-[0.65rem] tracking-wide text-muted-foreground uppercase sm:text-xs">
             Majlis programme
           </p>
@@ -110,6 +132,17 @@ function EventSurface({
           <p className="mt-0.5 text-xs text-muted-foreground sm:mt-1 sm:text-sm">
             {items.length} {items.length === 1 ? "item" : "items"}
           </p>
+          {url && (
+            <Button
+              variant="outline"
+              size="sm"
+              className="mt-3 print-hidden"
+              onClick={() => void shareProgramme()}
+            >
+              <Share2 className="size-3.5" />
+              Share programme
+            </Button>
+          )}
         </div>
         {url && (
           <div className="shrink-0 self-start rounded-lg border bg-white p-2 sm:p-3 print-hidden">
@@ -119,40 +152,49 @@ function EventSurface({
       </div>
 
       <ol className="space-y-2.5 sm:space-y-3">
-        {items.map((item, index) => (
-          <li key={item.id} className="flex gap-2 border-b pb-2.5 sm:gap-3 sm:pb-3">
-            <span className="w-5 shrink-0 text-xs tabular-nums text-muted-foreground sm:w-6 sm:text-sm">
-              {index + 1}.
-            </span>
-            <div className="min-w-0 flex-1">
-              <div className="flex flex-wrap items-center gap-1.5 sm:gap-2">
-                <p
-                  className={cn(
-                    isRtlText(item.title)
-                      ? "urdu-title text-base sm:text-lg"
-                      : "text-sm font-medium sm:text-base",
-                  )}
-                >
-                  {item.title}
-                </p>
-                <Badge variant="outline" className="h-5 px-1.5 text-[0.65rem] font-normal">
-                  {item.kind}
-                </Badge>
+        {items.map((item, index) => {
+          const row = (
+            <>
+              <span className="w-5 shrink-0 text-xs tabular-nums text-muted-foreground sm:w-6 sm:text-sm">
+                {index + 1}.
+              </span>
+              <div className="min-w-0 flex-1">
+                <div className="flex flex-wrap items-center gap-1.5 sm:gap-2">
+                  <p
+                    className={cn(
+                      isRtlText(item.title)
+                        ? "urdu-title text-base sm:text-lg"
+                        : "text-sm font-medium sm:text-base",
+                    )}
+                  >
+                    {item.title}
+                  </p>
+                  <Badge variant="outline" className="h-5 px-1.5 text-[0.65rem] font-normal">
+                    {item.kind}
+                  </Badge>
+                </div>
+                {item.note && (
+                  <p className="mt-1 text-xs text-muted-foreground sm:text-sm">{item.note}</p>
+                )}
               </div>
-              {item.note && (
-                <p className="mt-1 text-xs text-muted-foreground sm:text-sm">{item.note}</p>
-              )}
-              {item.lyricId && (
+            </>
+          );
+
+          return (
+            <li key={item.id} className="border-b pb-2.5 sm:pb-3">
+              {item.lyricId ? (
                 <Link
                   href={`/lyrics/${item.lyricId}?from=programme&h=${encodeURIComponent(programmeHash)}`}
-                  className={cn(buttonVariants({ variant: "link", size: "sm" }), "mt-1 h-auto px-0")}
+                  className="-mx-2 flex gap-2 rounded-md px-2 py-1.5 sm:gap-3 sm:py-2 hover:bg-muted/60 focus-visible:bg-muted/60 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
                 >
-                  Open lyric
+                  {row}
                 </Link>
+              ) : (
+                <div className="flex gap-2 sm:gap-3">{row}</div>
               )}
-            </div>
-          </li>
-        ))}
+            </li>
+          );
+        })}
       </ol>
     </div>
   );
