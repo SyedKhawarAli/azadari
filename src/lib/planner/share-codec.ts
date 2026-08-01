@@ -24,7 +24,26 @@ const MAX_NOTE_CHARS = 120;
 const MAX_PAYLOAD_CHARS = 1800;
 
 export function appBasePath(): string {
-  return (process.env.NEXT_PUBLIC_BASE_PATH || "").replace(/\/$/, "");
+  const fromEnv = (process.env.NEXT_PUBLIC_BASE_PATH || "").replace(/\/$/, "");
+  if (fromEnv) return fromEnv;
+
+  // Runtime fallback when the env var was not inlined at build time
+  // (e.g. Pages `configure-pages` set next.config basePath but not NEXT_PUBLIC_*).
+  if (typeof document !== "undefined") {
+    const script = document.querySelector('script[src*="/_next/"]');
+    const src = script?.getAttribute("src");
+    if (src) {
+      try {
+        const pathname = new URL(src, window.location.origin).pathname;
+        const idx = pathname.indexOf("/_next/");
+        if (idx > 0) return pathname.slice(0, idx).replace(/\/$/, "");
+      } catch {
+        /* ignore */
+      }
+    }
+  }
+
+  return "";
 }
 
 function toBase64Url(bytes: Uint8Array): string {
