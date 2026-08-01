@@ -1,8 +1,10 @@
-name: Deploy GitHub Pages
+# Build and deploy the Next.js static export to GitHub Pages
+name: Deploy Next.js site to Pages
 
 on:
   push:
     branches: [main, master]
+    branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -11,43 +13,58 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
-  cancel-in-progress: true
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: "22"
           cache: npm
-      - name: Install
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+        with:
+          # Injects basePath for this repo (e.g. /azadari) and pairs with next.config.ts
+          static_site_generator: next
+
+      - name: Install dependencies
         run: npm ci
+
       - name: Validate lyrics
         run: npm run validate:lyrics
+
       - name: Build library
         run: npm run build:library
+
       - name: Typecheck
         run: npm run typecheck
-      - name: Build static site
+
+      - name: Build with Next.js
         run: npm run build
         env:
-          # Set to /<repo> for project Pages (e.g. /azadari). Leave empty for user/org root site.
-          NEXT_PUBLIC_BASE_PATH: ${{ vars.NEXT_PUBLIC_BASE_PATH }}
-          # Optional absolute origin for share/QR links when window is unavailable.
+          # Optional absolute origin for share/QR links
           NEXT_PUBLIC_APP_URL: ${{ vars.NEXT_PUBLIC_APP_URL }}
-      - uses: actions/upload-pages-artifact@v3
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: out
+          path: ./out
 
   deploy:
-    needs: build
-    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
     steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
