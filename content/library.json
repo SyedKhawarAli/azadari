@@ -11160,6 +11160,158 @@
     ]
   },
   {
+    "id": "e73a4efe-1a22-5421-87f7-ac6ec2937298",
+    "title": "تیرے باغوں میں تاریق اُج شہبلا",
+    "title_roman": "Tere Baghon Mein Tariq Uj Shabla",
+    "type": "Noha",
+    "poet_name": "منیم صادقی",
+    "reciter_name": null,
+    "scale_pitch": null,
+    "audio_url": null,
+    "media_urls": [],
+    "personalities": [
+      "Imam Hussain (AS)",
+      "Abbas ibn Ali (AS)"
+    ],
+    "events": [
+      "Karbala"
+    ],
+    "structure": [
+      {
+        "band_number": 1,
+        "band_type": "matla",
+        "misras": [
+          {
+            "misra_number": 1,
+            "urdu": "تیرے باغوں میں تاریق اُج شہبلا سے میکھالس نو دیکھا",
+            "roman": "Tere baghon mein tariq uj shabla se mikhals no dekha"
+          },
+          {
+            "misra_number": 2,
+            "urdu": "تیرا شہر زرانی بائے خون آج ڈووہ وچ شہبلا رو سکھیاں",
+            "roman": "Tera shehar zarani baye khoon aaj dooh vich shabla ro sakhian"
+          }
+        ]
+      },
+      {
+        "band_number": 2,
+        "band_type": "stanza",
+        "misras": [
+          {
+            "misra_number": 1,
+            "urdu": "کیکے ساران لوگ نی شہیدین بارن لوگ",
+            "roman": "Kaike saran log ni shaheedin baran log"
+          },
+          {
+            "misra_number": 2,
+            "urdu": "میرے تو خرنوں تیوں کیتا اجہموں لیو گے باہے مسل روحین رو علی",
+            "roman": "Mere to kharnon tiyon kita ajhmon leo ge bahe masal rohin ro Ali"
+          },
+          {
+            "misra_number": 3,
+            "urdu": "سے پاچ میرن پشخیں مقتلن ہرکھے رحالیا بائے سکھیاں",
+            "roman": "Se paach miran pashkhen maqtalan harkhe rahalya baye sakhian"
+          }
+        ]
+      },
+      {
+        "band_number": 3,
+        "band_type": "stanza",
+        "misras": [
+          {
+            "misra_number": 1,
+            "urdu": "بائے میس محمدی رو سکھی چودیر وچ باہے دیوبالا وچ",
+            "roman": "Baye mais Mohammadi ro sakhi chodir vich bahe Dewbala vich"
+          },
+          {
+            "misra_number": 2,
+            "urdu": "شنج پنزاستران وچ بیوتنی روعلی نے تھانا",
+            "roman": "Shanj panzastran vich beyotni ro Ali ne thana"
+          },
+          {
+            "misra_number": 3,
+            "urdu": "ہے باکو دیر حمبدالون نزمیں تزری تتھے کو نوے نزر تنن بائے سکھیاں",
+            "roman": "Hai bako dair Hamddaloon nazmeen tazri tathe ko nowe nazar tanan baye sakhian"
+          }
+        ]
+      },
+      {
+        "band_number": 4,
+        "band_type": "stanza",
+        "misras": [
+          {
+            "misra_number": 1,
+            "urdu": "للی الگیر کی بمیرا کما سی عرب و بلا",
+            "roman": "Lali Algir ki bamira kama si Arab o bala"
+          },
+          {
+            "misra_number": 2,
+            "urdu": "بائے دیوک ار مین پنجبت وایعلا انچ نمیر کایہ نسل پیرار",
+            "roman": "Baye Dewk ar meen panjbat waila anch namir kaya nasl perar"
+          },
+          {
+            "misra_number": 3,
+            "urdu": "تیرا زنے نمکلینیں رو سکھیاں دویلاے ہر غزال نی ہیں دویاں دویاں بر جشل دویاں",
+            "roman": "Tera zane namakleen ro sakhian dawilaye har ghazal ni heen doyan doyan bar jashal doyan"
+          }
+        ]
+      },
+      {
+        "band_number": 5,
+        "band_type": "stanza",
+        "misras": [
+          {
+            "misra_number": 1,
+            "urdu": "دیکے ہلی کی تے لوگ حمیدے کی ںے",
+            "roman": "Dekhe hali ki te log Hamide ki ne"
+          },
+          {
+            "misra_number": 2,
+            "urdu": "بائے قائم تے رینا رو کے فاجر میرا کی رو میں تیرا فوج نے جنمین رو سکھیاں",
+            "roman": "Baye Qaim te raina ro ke fajir mera ki ro mein tera foj ne janmeen ro sakhian"
+          }
+        ]
+      },
+      {
+        "band_number": 6,
+        "band_type": "stanza",
+        "misras": [
+          {
+            "misra_number": 1,
+            "urdu": "ائے عیدایک گراگی ائے سکائیت مر کتی",
+            "roman": "Aye Eidayak gragi aye sakayet mar kati"
+          },
+          {
+            "misra_number": 2,
+            "urdu": "بائے سرینیح لہاڈی ںے بائے یکنین لہاڈی ںے ائے لہاں رو سکھیاں",
+            "roman": "Baye sarineh lahadi ne baye yakneen lahadi ne aye lahan ro sakhian"
+          },
+          {
+            "misra_number": 3,
+            "urdu": "آنی تاریق ثری ڈی قرعہ میں نمین دویری بائے ںے سکھیاں",
+            "roman": "Aani tariq sari di qara mein nameen doweri baye ne sakhian"
+          }
+        ]
+      },
+      {
+        "band_number": 7,
+        "band_type": "stanza",
+        "misras": [
+          {
+            "misra_number": 1,
+            "urdu": "نیجم صادق نے ورشا ہے حزمل دتل",
+            "roman": "Naijam Sadiq ne warsha hai hazmal datal"
+          },
+          {
+            "misra_number": 2,
+            "urdu": "دنیا نیم سے جنمن دی گھسن او شام سیج جھسو بنے مںے سکھیاں رو سکھیاں",
+            "roman": "Dunya naim se janman di ghasen ao sham seej jhaso bane mange sakhian ro sakhian"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "ed09f538-3d70-50b5-9a6d-891d69c568cb",
     "title": "چار برسوں میں ہوئی ہوں میں ضعیفہ بابا",
     "title_roman": "Char brson mein hoyi hoon mein zaifh baba",
