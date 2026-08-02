@@ -100,17 +100,12 @@
         {
           "misra_number": 1,
           "urdu": "کائمے سہراں لوکی جیویں مرن لوکی",
-          "roman": "Kaime sahran loki jivi maran loki"
+          "roman": "Khaimay sahran loki jiwein maran loki"
         },
         {
           "misra_number": 2,
-          "urdu": "احساس ہویا پردیش ویران اوسی کلیاں رہ گیا",
-          "roman": "Ehsaas hoya pardisch veeran usee kaliyaan reh gaya"
-        },
-        {
-          "misra_number": 3,
-          "urdu": "تیرے باجوں ویران غازی اینج شامہ پے گیا",
-          "roman": "Tere bajon veeran ghazi ainj shama pay gaya"
+          "urdu": "احساس ہویا پردیس چے ویران اسی کلیاں رہ گیاں",
+          "roman": "Ahsas hoya pardais che veran assi kaliyaan reh gayiyaan"
         }
       ]
     },
@@ -120,18 +115,13 @@
       "misras": [
         {
           "misra_number": 1,
-          "urdu": "ہائے دربارا وچ تنگ بازارا وچ",
-          "roman": "Haye darbara vich tang bazara vich"
+          "urdu": "سر توں چادر لے گئی ہائے میں رونڈی رہ گئی",
+          "roman": "Sir taun chadar leh gayi haye main rondi reh gayi"
         },
         {
           "misra_number": 2,
-          "urdu": "میرا ناں لے کی او دین صداواں میں سونیاں پے گیا",
-          "roman": "Mera Naam le ki o din sadawaan main soon niyaan pay gaya"
-        },
-        {
-          "misra_number": 3,
-          "urdu": "تیرے باجوں ویران غازی اینج شامہ پے گیا",
-          "roman": "Tere bajon veeran ghazi ainj shama pay gaya"
+          "urdu": "تیرے باج ویران ہتھاں وچ میرے ہائے رسیاں پے گیاں",
+          "roman": "Tere baaj veran hathaan wich mere haye rasiyaan pe gayiyaan"
         }
       ]
     },
@@ -141,18 +131,13 @@
       "misras": [
         {
           "misra_number": 1,
-          "urdu": "میں مسافت کر گئی ہائے سکینہ مار گئی",
-          "roman": "Main musafat kar gay haye sakina maar gay"
+          "urdu": "ہائے میں تکدی رہ گئی کیویں جیوندی رہ گئی",
+          "roman": "Haye main takdi reh gayi kiwein jiyondi reh gayi"
         },
         {
           "misra_number": 2,
-          "urdu": "تیری لاڈلی دی پیراں دیاں زخمی ہائے تلیاں رہ گیا",
-          "roman": "Teri laadli di pera diyaan zakhmi haye taliyaan reh gaya"
-        },
-        {
-          "misra_number": 3,
-          "urdu": "تیرے باجوں ویران غازی اینج شامہ پے گیا",
-          "roman": "Tere bajon veeran ghazi ainj shama pay gaya"
+          "urdu": "تیری لاش اتے جدوں تیریاں بنواں مینوں لبڑیاں پے گیاں",
+          "roman": "Teri lash uttay jadon teriyaan banwaan mainu labnriyaan pe gayiyaan"
         }
       ]
     },
@@ -162,18 +147,13 @@
       "misras": [
         {
           "misra_number": 1,
-          "urdu": "ہائے غازی آئی غازی دی صدا سائیں ناں ہو وی خفا",
-          "roman": "Haye ghazi ayi ghazi di sada sain naa ho vi kafaa"
+          "urdu": "ہائے دربارا وچ تنگ بازارا وچ",
+          "roman": "Haye darbaraan wich tang bazaraan wich"
         },
         {
           "misra_number": 2,
-          "urdu": "شبیر دیاں حکماں وچ بچیاں سب جورتا رہ گیا",
-          "roman": "Shabeer diyaan hooqama vich bachiyaan sab joorta reh gaya"
-        },
-        {
-          "misra_number": 3,
-          "urdu": "تیرے باجوں ویران غازی اینج شامہ پے گیا",
-          "roman": "Tere bajon veeran ghazi ainj shama pay gaya"
+          "urdu": "میرا ناں لے کے او دین صداواں مینوں سنیاں پے گیاں",
+          "roman": "Mera naa le ke oh dein sadawaan mainu sunniyaan pe gayiyaan"
         }
       ]
     },
@@ -183,8 +163,125 @@
       "misras": [
         {
           "misra_number": 1,
-          "urdu": "لٹ پے گئے سر گئے کائمے اوسی قیدی ہو گیا",
-          "roman": "Loot pay gay sar gay kaime usee qaidi ho gaya"
+          "urdu": "لال اکبر سی میرا کھا گئی کربو بلا",
+          "roman": "Lal Akbar si mera kha gayi Karb-o-Bala"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جو لکھیاں سن سغرا نے دعاواں او لکھیاں رہ گیاں",
+          "roman": "Jo likhiyaan san Sughra ne duawaan oh likhiyaan reh gayiyaan"
+        }
+      ]
+    },
+    {
+      "band_number": 10,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے ولیل دیاں ویر جرنیل دیاں",
+          "roman": "Haye walail diyaan veer jarnail diyaan"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نو لکھ قاتل دے ہتھ وچ ٹکیاں او زلفاں رہ گیاں",
+          "roman": "Nu lakh qatil de hath wich takiyaan oh zulfaan reh gayiyaan"
+        }
+      ]
+    },
+    {
+      "band_number": 11,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دیوے بلدے سی جتھے لوک ہسدے سی جتھے",
+          "roman": "Deway balday si jithay lok hasday si jithay"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تیرے عابد دی اکھیاں وچ ویران او گلیاں رہ گیاں",
+          "roman": "Tere Abid di akhiyaan wich veran oh galiyaan reh gayiyaan"
+        }
+      ]
+    },
+    {
+      "band_number": 12,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے قاسم نہ ریا رو کے زینب نے کہیا",
+          "roman": "Haye Qasim na riya ro ke Zainab ne kehya"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "اینج بکھر گیا پھل تیرا فروا بس کلیاں رہ گیاں",
+          "roman": "Aynj bikhar gaya phul tera farwa bas kaliyaan reh gayiyaan"
+        }
+      ]
+    },
+    {
+      "band_number": 13,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "اے مسافت کر گئی ہائے سکینہ مار گئی",
+          "roman": "Aye musafat kar gayi haye Sakina mar gayi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تیری لاڈلی دے پیراں دیاں زخمی ہائے تلیاں رہ گیاں",
+          "roman": "Teri ladli de pairaan diyaan zakhmi haye taliyaan reh gayiyaan"
+        }
+      ]
+    },
+    {
+      "band_number": 14,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے ظلماں دا سفر کوئی سایہ نہ شجر",
+          "roman": "Haye zulmaa da safar koi saya na shajar"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تھک ہار کے غازی تیری قبر دی چھاویں میں ویران بہہ گیاں",
+          "roman": "Thak haar ke Ghazi teri qabar di chawein main veran beh gayiyaan"
+        }
+      ]
+    },
+    {
+      "band_number": 15,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "آئی غازی دی صدا سائیں نہ ہوویں خفا",
+          "roman": "Aayi Ghazi di sada sain na howein khafa"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "شبیر دیاں حکماں وچ بجھیاں سب جرتاں رہ گیاں",
+          "roman": "Shabeer diyaan hukmaa wich bajhiyaan sab jurtaan reh gayiyaan"
+        }
+      ]
+    },
+    {
+      "band_number": 16,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "نعیم صادق تے رضا ہے مزمل دی دعا",
+          "roman": "Naeem Sadiq te Raza hai Muzamil di dua"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "رل کے ویکھن او شام دی نگری جو سنگتاں رہ گیاں",
+          "roman": "Ral ke wekhan oh Sham di nagri jo sangtaan reh gayiyaan"
         }
       ]
     }
