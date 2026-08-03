@@ -67,3 +67,32 @@ export function matchesLyricQuery(
   if (!blob) return false;
   return tokens.every((token) => blob.includes(token));
 }
+
+/**
+ * Calculate relevance score for a lyric based on where the search query matches.
+ * Higher scores indicate better matches.
+ * - Title match: 100 points
+ * - Title roman match: 90 points
+ * - Content match only: 0 points
+ */
+export function calculateRelevanceScore(
+  lyric: { title: string; title_roman?: string | null },
+  query: string | undefined | null,
+): number {
+  const tokens = tokenizeSearchQuery(query ?? "");
+  if (tokens.length === 0) return 0;
+
+  const normalizedTitle = normalizeSearchText(lyric.title);
+  const normalizedTitleRoman = normalizeSearchText(lyric.title_roman ?? "");
+
+  let score = 0;
+  for (const token of tokens) {
+    if (normalizedTitle.includes(token)) {
+      score += 100;
+    } else if (normalizedTitleRoman && normalizedTitleRoman.includes(token)) {
+      score += 90;
+    }
+  }
+
+  return score;
+}
