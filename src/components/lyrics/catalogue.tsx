@@ -82,29 +82,31 @@ function CatalogueBody() {
           {lyrics.length} {lyrics.length === 1 ? "result" : "results"}
         </p>
 
-        <div className="flex items-center gap-1.5">
-          <ArrowUpDown className="size-3.5 text-muted-foreground" aria-hidden />
-          <Select
-            value={sort}
-            onValueChange={(value) => applySort(String(value))}
-            items={LYRIC_SORT_OPTIONS}
-          >
-            <SelectTrigger
-              size="sm"
-              className="h-7 max-w-40 text-xs sm:max-w-44"
-              aria-label="Sort results"
+        {!filters.q && (
+          <div className="flex items-center gap-1.5">
+            <ArrowUpDown className="size-3.5 text-muted-foreground" aria-hidden />
+            <Select
+              value={sort}
+              onValueChange={(value) => applySort(String(value))}
+              items={LYRIC_SORT_OPTIONS}
             >
-              <SelectValue />
-            </SelectTrigger>
-            <SelectContent align="end">
-              {LYRIC_SORT_OPTIONS.map((option) => (
-                <SelectItem key={option.value} value={option.value}>
-                  {option.label}
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
-        </div>
+              <SelectTrigger
+                size="sm"
+                className="h-7 max-w-40 text-xs sm:max-w-44"
+                aria-label="Sort results"
+              >
+                <SelectValue />
+              </SelectTrigger>
+              <SelectContent align="end">
+                {LYRIC_SORT_OPTIONS.map((option) => (
+                  <SelectItem key={option.value} value={option.value}>
+                    {option.label}
+                  </SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
+          </div>
+        )}
       </div>
 
       {lyrics.length === 0 ? (

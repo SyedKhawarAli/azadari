@@ -99,28 +99,7 @@ export function listLyrics(filters: LyricFilters = {}, sort: LyricSort = "title"
         return scoreB - scoreA;
       }
       
-      switch (sort) {
-        case "title":
-          return a.title.localeCompare(b.title, "ur", { sensitivity: "base" });
-        case "type": {
-          const typeOrder =
-            LYRIC_TYPES.indexOf(a.type) - LYRIC_TYPES.indexOf(b.type) ||
-            a.title.localeCompare(b.title, "ur", { sensitivity: "base" });
-          return typeOrder;
-        }
-        case "poet":
-          return (
-            compareNullable(a.poet_name, b.poet_name) ||
-            a.title.localeCompare(b.title, "ur", { sensitivity: "base" })
-          );
-        case "reciter":
-          return (
-            compareNullable(a.reciter_name, b.reciter_name) ||
-            a.title.localeCompare(b.title, "ur", { sensitivity: "base" })
-          );
-        default:
-          return 0;
-      }
+      return a.title.localeCompare(b.title, "ur", { sensitivity: "base" });
     });
   }
   
