@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { cn } from "@/lib/utils";
+import logo from "../../../public/icons/logo.png";
 
 type AppLogoProps = {
   title?: string;
@@ -10,7 +11,7 @@ type AppLogoProps = {
 export function AppLogo({ title = "Azadari", className }: AppLogoProps) {
   return (
     <Image
-      src="/icons/logo.png"
+      src={logo}
       alt={title}
       width={128}
       height={128}
