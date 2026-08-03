@@ -18,7 +18,8 @@ export function normalizeSearchText(value: string): string {
 export function tokenizeSearchQuery(query: string): string[] {
   const normalized = normalizeSearchText(query);
   if (!normalized) return [];
-  return normalized.split(/\s+/).filter(Boolean);
+  const tokens = normalized.split(/\s+/).filter(Boolean);
+  return [...new Set(tokens)];
 }
 
 function buildLyricSearchBlob(lyric: LyricWithBands): string {
