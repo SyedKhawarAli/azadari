@@ -5,7 +5,6 @@ import { useEffect, useMemo, useState } from "react";
 import { Share2 } from "lucide-react";
 import { QRCodeSVG } from "qrcode.react";
 import { toast } from "sonner";
-import { Badge } from "@/components/ui/badge";
 import { Button, buttonVariants } from "@/components/ui/button";
 import { resolveLyricRef } from "@/lib/db/queries";
 import { decodeShareProgramme, shareUrl } from "@/lib/planner/share-codec";
@@ -17,7 +16,6 @@ type ResolvedItem = {
   title: string;
   note: string | null;
   lyricId: string | null;
-  kind: string;
 };
 
 export function PublicEventView() {
@@ -72,7 +70,6 @@ export function PublicEventView() {
       title: lyric?.title ?? item.t ?? "Untitled",
       note: item.n ?? null,
       lyricId: lyric?.id ?? item.l ?? null,
-      kind: item.l ? "Lyric" : "Segment",
     };
   });
 
@@ -153,31 +150,50 @@ function EventSurface({
 
       <ol className="space-y-2.5 sm:space-y-3">
         {items.map((item, index) => {
+          const rtlTitle = isRtlText(item.title);
+          const rtlNote = isRtlText(item.note);
           const row = (
-            <>
-              <span className="w-5 shrink-0 text-xs tabular-nums text-muted-foreground sm:w-6 sm:text-sm">
-                {index + 1}.
-              </span>
-              <div className="min-w-0 flex-1">
-                <div className="flex flex-wrap items-center gap-1.5 sm:gap-2">
-                  <p
-                    className={cn(
-                      isRtlText(item.title)
-                        ? "urdu-title text-base sm:text-lg"
-                        : "text-sm font-medium sm:text-base",
-                    )}
-                  >
-                    {item.title}
-                  </p>
-                  <Badge variant="outline" className="h-5 px-1.5 text-[0.65rem] font-normal">
-                    {item.kind}
-                  </Badge>
-                </div>
-                {item.note && (
-                  <p className="mt-1 text-xs text-muted-foreground sm:text-sm">{item.note}</p>
+            <div className="min-w-0 flex-1 space-y-1">
+              <div
+                className={cn(
+                  "flex items-center gap-2 sm:gap-3",
+                  rtlTitle && "flex-row-reverse",
                 )}
+              >
+                <span
+                  className={cn(
+                    "w-5 shrink-0 text-end tabular-nums text-muted-foreground sm:w-6",
+                    rtlTitle ? "text-base sm:text-lg" : "text-sm sm:text-base",
+                  )}
+                >
+                  {index + 1}.
+                </span>
+                <p
+                  className={cn(
+                    "min-w-0 flex-1",
+                    rtlTitle
+                      ? "urdu-title text-base sm:text-lg"
+                      : "text-sm font-medium sm:text-base",
+                  )}
+                  dir={rtlTitle ? "rtl" : undefined}
+                  lang={rtlTitle ? "ur" : undefined}
+                >
+                  {item.title}
+                </p>
               </div>
-            </>
+              {item.note && (
+                <p
+                  className={cn(
+                    "text-xs text-muted-foreground sm:text-sm",
+                    rtlNote && "urdu-title",
+                  )}
+                  dir={rtlNote ? "rtl" : undefined}
+                  lang={rtlNote ? "ur" : undefined}
+                >
+                  {item.note}
+                </p>
+              )}
+            </div>
           );
 
           return (
@@ -185,12 +201,12 @@ function EventSurface({
               {item.lyricId ? (
                 <Link
                   href={`/lyrics/${item.lyricId}?from=programme&h=${encodeURIComponent(programmeHash)}`}
-                  className="-mx-2 flex gap-2 rounded-md px-2 py-1.5 sm:gap-3 sm:py-2 hover:bg-muted/60 focus-visible:bg-muted/60 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+                  className="-mx-2 block rounded-md px-2 py-1.5 sm:py-2 hover:bg-muted/60 focus-visible:bg-muted/60 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
                 >
                   {row}
                 </Link>
               ) : (
-                <div className="flex gap-2 sm:gap-3">{row}</div>
+                row
               )}
             </li>
           );

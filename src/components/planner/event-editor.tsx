@@ -342,6 +342,7 @@ function SortableItem({
   const { attributes, listeners, setNodeRef, transform, transition, isDragging } = useSortable({
     id: item.id,
   });
+  const rtlTitle = isRtlText(item.title);
 
   return (
     <li
@@ -368,7 +369,14 @@ function SortableItem({
         <div className="min-w-0 flex-1 space-y-2">
           <div className="flex flex-wrap items-center gap-2">
             <span className="text-xs tabular-nums text-muted-foreground">{index + 1}.</span>
-            <p className={cn(isRtlText(item.title) ? "urdu-title text-base" : "text-sm font-medium")}>
+            <p
+              className={cn(
+                "min-w-0",
+                rtlTitle ? "urdu-title text-base" : "text-sm font-medium",
+              )}
+              dir={rtlTitle ? "rtl" : undefined}
+              lang={rtlTitle ? "ur" : undefined}
+            >
               {item.title}
             </p>
             <Badge variant="outline">{item.lyricId ? "Lyric" : "Segment"}</Badge>
