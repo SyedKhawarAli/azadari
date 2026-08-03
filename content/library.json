@@ -12592,22 +12592,6 @@
     "structure": [
       {
         "band_number": 1,
-        "band_type": "matla",
-        "misras": [
-          {
-            "misra_number": 1,
-            "urdu": "حسینؑ تجھ کو میں ایسے بچا کے آئی ہوں",
-            "roman": "Hussain tujh ko main aise bacha ke aayi hoon"
-          },
-          {
-            "misra_number": 2,
-            "urdu": "حسینؑ کون تھا کیا ہے بتا کے آئی ہوں",
-            "roman": "Hussain kaun tha kya hai bata ke aayi hoon"
-          }
-        ]
-      },
-      {
-        "band_number": 2,
         "band_type": "stanza",
         "misras": [
           {
@@ -12628,7 +12612,7 @@
         ]
       },
       {
-        "band_number": 3,
+        "band_number": 2,
         "band_type": "stanza",
         "misras": [
           {
@@ -12649,7 +12633,7 @@
         ]
       },
       {
-        "band_number": 4,
+        "band_number": 3,
         "band_type": "stanza",
         "misras": [
           {
@@ -12670,7 +12654,7 @@
         ]
       },
       {
-        "band_number": 5,
+        "band_number": 4,
         "band_type": "stanza",
         "misras": [
           {
@@ -12691,7 +12675,7 @@
         ]
       },
       {
-        "band_number": 6,
+        "band_number": 5,
         "band_type": "stanza",
         "misras": [
           {
@@ -12712,7 +12696,7 @@
         ]
       },
       {
-        "band_number": 7,
+        "band_number": 6,
         "band_type": "stanza",
         "misras": [
           {
@@ -12733,7 +12717,7 @@
         ]
       },
       {
-        "band_number": 8,
+        "band_number": 7,
         "band_type": "stanza",
         "misras": [
           {
@@ -12754,7 +12738,7 @@
         ]
       },
       {
-        "band_number": 9,
+        "band_number": 8,
         "band_type": "stanza",
         "misras": [
           {
@@ -12775,7 +12759,7 @@
         ]
       },
       {
-        "band_number": 10,
+        "band_number": 9,
         "band_type": "stanza",
         "misras": [
           {
