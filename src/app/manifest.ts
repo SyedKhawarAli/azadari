@@ -6,7 +6,7 @@ export const dynamic = "force-static";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Azadari Setup — Nohay & Majlis Planner",
+    name: "Azadari — Nohay & Majlis Planner",
     short_name: "Azadari",
     description:
       "Nohay, Manqabat, Marsiya, Soz and Salam in Urdu and Roman Urdu, with a Majlis programme planner that works offline.",

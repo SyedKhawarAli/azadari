@@ -1,4 +1,4 @@
-# Azadari Setup
+# Azadari
 
 Static, open-source reader for Shia Azadari content — Nohay, Manqabat, Marsiya and more — plus a
 guest Majlis planner. Host it on GitHub Pages or any static host. No login required.
