@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { cn } from "@/lib/utils";
-import logo from "../../../public/icons/logo.png";
+import logo from "@/assets/logo.png";
 
 type AppLogoProps = {
   title?: string;
