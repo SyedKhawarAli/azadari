@@ -52,7 +52,7 @@ export function LyricFilters({ personalities, events, poets, reciters }: LyricFi
   useEffect(() => {
     const current = searchParams.get("q") ?? "";
     if (query === current) return;
-    const timer = setTimeout(() => apply({ q: query }), 300);
+    const timer = setTimeout(() => apply({ q: query }), 500);
     return () => clearTimeout(timer);
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [query]);
