@@ -367,27 +367,23 @@ function SortableItem({
           <GripVertical className="size-4" />
         </button>
         <div className="min-w-0 flex-1 space-y-2">
-          <div className="flex items-start gap-2">
-            <span className="shrink-0 text-xs tabular-nums text-muted-foreground">
-              {index + 1}.
-            </span>
+          <div className="flex flex-wrap items-center gap-2">
+            <span className="text-xs tabular-nums text-muted-foreground">{index + 1}.</span>
             <p
               className={cn(
-                "min-w-0 flex-1",
-                rtlTitle ? "urdu-title text-right text-base" : "text-sm font-medium",
+                "min-w-0",
+                rtlTitle ? "urdu-title text-base" : "text-sm font-medium",
               )}
               dir={rtlTitle ? "rtl" : undefined}
               lang={rtlTitle ? "ur" : undefined}
             >
               {item.title}
             </p>
-            <Badge variant="outline" className="shrink-0">
-              {item.lyricId ? "Lyric" : "Segment"}
-            </Badge>
+            <Badge variant="outline">{item.lyricId ? "Lyric" : "Segment"}</Badge>
             {item.lyricId && (
               <Link
                 href={`/lyrics/${item.lyricId}?from=planner&eid=${encodeURIComponent(eventId)}`}
-                className="shrink-0 text-xs text-muted-foreground underline"
+                className="text-xs text-muted-foreground underline"
               >
                 Open
               </Link>
