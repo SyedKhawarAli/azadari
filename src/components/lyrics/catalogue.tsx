@@ -5,7 +5,6 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { ArrowUpDown } from "lucide-react";
 import { LyricCard } from "@/components/lyrics/lyric-card";
 import { LyricFilters } from "@/components/lyrics/lyric-filters";
-import { ScriptToggle } from "@/components/lyrics/script-toggle";
 import {
   Select,
   SelectContent,
@@ -88,7 +87,7 @@ function CatalogueBody() {
       />
 
       <div
-        className="mt-3 mb-2 flex flex-wrap items-center justify-between gap-2 sm:mt-5 sm:mb-3"
+        className="mt-3 mb-2 flex flex-wrap items-center justify-between gap-2 sm:mt-4 sm:mb-3"
         data-pending={pending ? "" : undefined}
       >
         <p className="text-[0.7rem] text-muted-foreground sm:text-xs">
@@ -141,21 +140,7 @@ function CatalogueBody() {
 export function Catalogue() {
   return (
     <div className="mx-auto w-full max-w-6xl flex-1 px-3 py-4 sm:px-4 sm:py-6">
-      <div className="mb-3 flex flex-wrap items-start justify-between gap-2 sm:mb-6">
-        <div className="min-w-0 max-w-2xl flex-1">
-          <h1 className="text-base font-semibold tracking-tight sm:text-xl">Azadari library</h1>
-          <p className="mt-0.5 text-[0.7rem] leading-snug text-muted-foreground sm:mt-1 sm:text-sm sm:leading-normal">
-            <span className="sm:hidden">Browse, read, and plan a Majlis.</span>
-            <span className="hidden sm:inline">
-              Nohay, Manqabat, Marsiya and more — open any piece to read it, or build a Majlis
-              programme to share.
-            </span>
-          </p>
-        </div>
-        <ScriptToggle size="sm" className="shrink-0" />
-      </div>
-
-      <Suspense fallback={<Skeleton className="h-24 w-full" />}>
+      <Suspense fallback={<Skeleton className="h-10 w-full" />}>
         <CatalogueBody />
       </Suspense>
     </div>
