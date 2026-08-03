@@ -1,5 +1,5 @@
 import { STARTER_LIBRARY } from "./starter-library";
-import { matchesLyricQuery } from "@/lib/search/lyrics";
+import { matchesLyricQuery, calculateRelevanceScore } from "@/lib/search/lyrics";
 import { PERSONALITIES, ISLAMIC_EVENTS, LYRIC_TYPES } from "@/lib/taxonomy";
 import type {
   Lyric,
@@ -88,10 +88,43 @@ export function matchesFilters(lyric: Lyric, filters: LyricFilters) {
 }
 
 export function listLyrics(filters: LyricFilters = {}, sort: LyricSort = "title"): Lyric[] {
-  return sortLyrics(
-    STARTER_LIBRARY.filter((lyric) => matchesFilters(lyric, filters)).map(toLyric),
-    sort,
-  );
+  const filteredLyrics = STARTER_LIBRARY.filter((lyric) => matchesFilters(lyric, filters)).map(toLyric);
+  
+  if (filters.q) {
+    return filteredLyrics.sort((a, b) => {
+      const scoreA = calculateRelevanceScore(a, filters.q);
+      const scoreB = calculateRelevanceScore(b, filters.q);
+      
+      if (scoreB !== scoreA) {
+        return scoreB - scoreA;
+      }
+      
+      switch (sort) {
+        case "title":
+          return a.title.localeCompare(b.title, "ur", { sensitivity: "base" });
+        case "type": {
+          const typeOrder =
+            LYRIC_TYPES.indexOf(a.type) - LYRIC_TYPES.indexOf(b.type) ||
+            a.title.localeCompare(b.title, "ur", { sensitivity: "base" });
+          return typeOrder;
+        }
+        case "poet":
+          return (
+            compareNullable(a.poet_name, b.poet_name) ||
+            a.title.localeCompare(b.title, "ur", { sensitivity: "base" })
+          );
+        case "reciter":
+          return (
+            compareNullable(a.reciter_name, b.reciter_name) ||
+            a.title.localeCompare(b.title, "ur", { sensitivity: "base" })
+          );
+        default:
+          return 0;
+      }
+    });
+  }
+  
+  return sortLyrics(filteredLyrics, sort);
 }
 
 /** Resolve a full UUID or short share-link prefix to a catalogue lyric. */
