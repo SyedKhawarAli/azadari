@@ -1,0 +1,236 @@
+{
+  "title": "شام سے واپسی",
+  "title_roman": "Sham se wapsi",
+  "type": "Noha",
+  "poet_name": null,
+  "reciter_name": null,
+  "scale_pitch": null,
+  "media_urls": [],
+  "personalities": [
+    "Imam Hussain (AS)",
+    "Syeda Zainab (SA)",
+    "Bibi Sakina (SA)",
+    "Imam Zain-ul-Abideen (AS)"
+  ],
+  "events": [
+    "Chehlum / Arbaeen",
+    "Karbala"
+  ],
+  "astai_chorus": {
+    "urdu": [
+      "حسینؑ تجھ کو میں ایسے بچا کے آئی ہوں",
+      "حسینؑ کون تھا کیا ہے بتا کے آئی ہوں"
+    ],
+    "roman": [
+      "Hussain tujh ko main aise bacha ke aayi hoon",
+      "Hussain kaun tha kya hai bata ke aayi hoon"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "حسینؑ تجھ کو میں ایسے بچا کے آئی ہوں",
+          "roman": "Hussain tujh ko main aise bacha ke aayi hoon"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "حسینؑ کون تھا کیا ہے بتا کے آئی ہوں",
+          "roman": "Hussain kaun tha kya hai bata ke aayi hoon"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کہاں کہاں سے میں گزری ہے سوچنا مشکل",
+          "roman": "Kahan kahan se main guzri hai sochna mushkil"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جہاں پہ میرا تھا اک لفظ بولنا مشکل",
+          "roman": "Jahan pe mera tha ik lafz bolna mushkil"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "وہاں سلونی کے خطبے سنا کے آئی ہوں",
+          "roman": "Wahan Saluni ke khutbay suna ke aayi hoon"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "رہے گا نام تیرا بہن کی دعاؤں سے",
+          "roman": "Rahe ga naam tera behan ki duaon se"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نہ بُجھ سکیں گے یزیدی نجس ہواؤں سے",
+          "roman": "Na bujh sakein ge Yazeedi najis hawaon se"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "حسینیت کے دیئے وہ جلا کے آئی ہوں",
+          "roman": "Hussainiyat ke diye wo jala ke aayi hoon"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "حسینؑ مکہ میں جو انبیاء کا کعبہ ہے",
+          "roman": "Hussain Makkah mein jo ambiya ka Kaaba hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تیری لحد کا وہ آ کے طواف کرتا ہے",
+          "roman": "Teri lahad ka wo aa ke tawaf karta hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میں کربلا کو معلیٰ بنا کے آئی ہوں",
+          "roman": "Main Karbala ko Mualla bana ke aayi hoon"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "بدر کا بغض نکلتا تھا جن کے سینوں سے",
+          "roman": "Badr ka bughz nikalta tha jin ke seenon se"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نہ پوچھ بھائی کہ اُن شام کے کمینوں سے",
+          "roman": "Na poochh bhai ke un Shaam ke kameenon se"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میں کیسے تیرا یہ عابدؑ بچا کے آئی ہوں",
+          "roman": "Main kaise tera ye Abid bacha ke aayi hoon"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "یہی تمنا ہے ہمشیر کی گزارش ہے",
+          "roman": "Yehi tamanna hai hamsheer ki guzarish hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "حسینؑ سوچ ذرا پتھروں کی بارش میں",
+          "roman": "Hussain soch zara pattharon ki barish mein"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میں کس طرح تیرا چہلم کرا کے آئی ہوں",
+          "roman": "Main kis tarah tera chehlum kara ke aayi hoon"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "حسینؑ جیسے گیا تھا تُو لاشِ اکبرؑ پر",
+          "roman": "Hussain jaise gaya tha tu laash-e Akbar par"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میں ویسے چلتی تھی بازار میں بنا چادر",
+          "roman": "Main waise chalti thi bazaar mein bina chadar"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تیری لحد پہ کمر کو جھکا کے آئی ہوں",
+          "roman": "Teri lahad pe kamar ko jhuka ke aayi hoon"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "کمینہ نیزوں سے برقعے اُتار لیتا تھا",
+          "roman": "Kameena nezon se burqay utaar leta tha"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "پھر اُس کے بعد وہ غازیؑ کے طعنے دیتا تھا",
+          "roman": "Phir us ke baad wo Ghazi ke tanay deta tha"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "میں اپنا دین پہ سب کچھ لُٹا کے آئی ہوں",
+          "roman": "Main apna deen pe sab kuchh luta ke aayi hoon"
+        }
+      ]
+    },
+    {
+      "band_number": 9,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "جنہوں نے نیزوں سے تیری بہن کو مارا ہے",
+          "roman": "Jinhon ne nezon se teri behan ko mara hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "مجھے بھی باغی کی ہمشیر ہی پُکارا ہے",
+          "roman": "Mujhe bhi baaghi ki hamsheer hi pukara hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "تجھے اُنہی سے نمازی منا کے آئی ہوں",
+          "roman": "Tujhe unhi se namazi mana ke aayi hoon"
+        }
+      ]
+    },
+    {
+      "band_number": 10,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "مدینے اماں ہے صغریٰؑ ہے میرا نانا ہے",
+          "roman": "Madine amman hai Sughra hai mera nana hai"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "بس اُن سے مل کے پھر اِک بار شام جانا ہے",
+          "roman": "Bas un se mil ke phir ik baar Shaam jana hai"
+        },
+        {
+          "misra_number": 3,
+          "urdu": "وہاں اکیلی سکینہؑ سُلا کے آئی ہوں",
+          "roman": "Wahan akeli Sakina sula ke aayi hoon"
+        }
+      ]
+    }
+  ]
+}
