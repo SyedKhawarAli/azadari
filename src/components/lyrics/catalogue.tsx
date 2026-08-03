@@ -17,20 +17,12 @@ import {
   LYRIC_SORT_OPTIONS,
   listContributors,
   listIslamicEvents,
+  listLyrics,
   listPersonalities,
-  matchesFilters,
   parseLyricSort,
-  sortLyrics,
 } from "@/lib/db/queries";
 import { LYRIC_TYPES } from "@/lib/taxonomy";
-import { STARTER_LIBRARY } from "@/lib/db/starter-library";
-import type { Lyric, LyricFilters as Filters, LyricType, LyricWithBands } from "@/types";
-
-function toCardLyric(lyric: LyricWithBands): Lyric {
-  const { bands, ...rest } = lyric;
-  void bands;
-  return rest;
-}
+import type { LyricFilters as Filters, LyricType } from "@/types";
 
 function readParam(params: URLSearchParams, key: string): string | undefined {
   const value = params.get(key);
@@ -57,11 +49,7 @@ function CatalogueBody() {
   );
 
   const lyrics = useMemo(
-    () =>
-      sortLyrics(
-        STARTER_LIBRARY.filter((lyric) => matchesFilters(lyric, filters)).map(toCardLyric),
-        sort,
-      ),
+    () => listLyrics(filters, sort),
     [filters, sort],
   );
 
