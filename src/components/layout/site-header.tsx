@@ -13,12 +13,7 @@ export function SiteHeader() {
           className="mr-1 flex items-center gap-2 rounded-md outline-none focus-visible:ring-2 focus-visible:ring-ring"
         >
           <AppLogo className="size-8 shrink-0 sm:size-9" />
-          <span className="flex flex-col leading-none">
-            <span className="text-sm font-semibold tracking-tight sm:text-base">Azadari</span>
-            <span className="text-[9px] uppercase tracking-[0.18em] text-muted-foreground sm:text-[10px]">
-              Setup
-            </span>
-          </span>
+          <span className="text-sm font-semibold tracking-tight sm:text-base">Azadari</span>
         </Link>
 
         <NavLinks className="hidden sm:flex" />

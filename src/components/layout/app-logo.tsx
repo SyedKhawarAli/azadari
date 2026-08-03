@@ -6,8 +6,8 @@ type AppLogoProps = {
   className?: string;
 };
 
-/** Brand mark: stylized Arabic Ain (ع) — Azadari Setup. */
-export function AppLogo({ title = "Azadari Setup", className }: AppLogoProps) {
+/** Brand mark: stylized Arabic Ain (ع) — Azadari. */
+export function AppLogo({ title = "Azadari", className }: AppLogoProps) {
   return (
     <Image
       src="/icons/logo.png"

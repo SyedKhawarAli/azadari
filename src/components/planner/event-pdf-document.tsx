@@ -51,7 +51,7 @@ const styles = StyleSheet.create({
 
 export function EventProgrammeDocument({ event }: { event: LocalEvent }) {
   return (
-    <Document title={event.title} author="Azadari Setup">
+    <Document title={event.title} author="Azadari">
       <Page size="A4" style={styles.page}>
         <Text style={styles.title}>{event.title}</Text>
         <Text style={styles.meta}>

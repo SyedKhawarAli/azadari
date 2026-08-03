@@ -16,8 +16,8 @@ const notoNastaliq = Noto_Nastaliq_Urdu({
 
 export const metadata: Metadata = {
   title: {
-    default: "Azadari Setup — Nohay, Marsiya & Majlis Planner",
-    template: "%s · Azadari Setup",
+    default: "Azadari — Nohay, Marsiya & Majlis Planner",
+    template: "%s · Azadari",
   },
   description:
     "Browse and recite Nohay, Manqabat, Marsiya, Soz and Salam in Urdu and Roman Urdu, and plan or share a complete Majlis programme — online or offline.",
