@@ -29,6 +29,7 @@ import {
 } from "lucide-react";
 import { useMemo, useState, useTransition } from "react";
 import { toast } from "sonner";
+import { LyricSearchInput } from "@/components/lyrics/lyric-search-input";
 import { EventPdfButton } from "@/components/planner/event-pdf-button";
 import { EventQrDialog } from "@/components/planner/event-qr-dialog";
 import { Badge } from "@/components/ui/badge";
@@ -52,8 +53,11 @@ import {
   type LocalEventItem,
 } from "@/lib/offline/db";
 import { encodeShareProgramme, shareUrl } from "@/lib/planner/share-codec";
+import { matchesLyricQuery } from "@/lib/search/lyrics";
 import { cn } from "@/lib/utils";
 import type { Lyric } from "@/types";
+
+type CatalogueEntry = Pick<Lyric, "id" | "title" | "type" | "poet_name" | "reciter_name">;
 
 function normalizeEvent(event: LocalEvent): LocalEvent {
   return {
@@ -67,7 +71,7 @@ export function EventEditor({
   catalogue,
 }: {
   eventId: string;
-  catalogue: Pick<Lyric, "id" | "title" | "type" | "poet_name" | "reciter_name">[];
+  catalogue: CatalogueEntry[];
 }) {
   const stored = useLiveQuery(async () => {
     if (!db) return null;
@@ -98,10 +102,10 @@ function EventEditorForm({
   catalogue,
 }: {
   initial: LocalEvent;
-  catalogue: Pick<Lyric, "id" | "title" | "type" | "poet_name" | "reciter_name">[];
+  catalogue: CatalogueEntry[];
 }) {
   const [draft, setDraft] = useState(initial);
-  const [lyricToAdd, setLyricToAdd] = useState<string>("");
+  const [catalogueQuery, setCatalogueQuery] = useState("");
   const [segmentToAdd, setSegmentToAdd] = useState<string>(PROGRAM_SEGMENTS[0]);
   const [pending, startTransition] = useTransition();
   const [qrOpen, setQrOpen] = useState(false);
@@ -112,6 +116,11 @@ function EventEditorForm({
   );
 
   const itemIds = useMemo(() => draft.items.map((item) => item.id), [draft.items]);
+
+  const filteredCatalogue = useMemo(
+    () => catalogue.filter((lyric) => matchesLyricQuery(lyric.id, catalogueQuery)),
+    [catalogue, catalogueQuery],
+  );
 
   const { hash, truncated } = useMemo(
     () =>
@@ -141,9 +150,7 @@ function EventEditorForm({
     persist({ ...draft, items: arrayMove(draft.items, oldIndex, newIndex) });
   };
 
-  const addLyric = () => {
-    const lyric = catalogue.find((entry) => entry.id === lyricToAdd);
-    if (!lyric) return;
+  const addLyric = (lyric: CatalogueEntry) => {
     const item: LocalEventItem = {
       id: crypto.randomUUID(),
       lyricId: lyric.id,
@@ -151,7 +158,6 @@ function EventEditorForm({
       note: null,
     };
     persist({ ...draft, items: [...draft.items, item] });
-    setLyricToAdd("");
     toast.success("Added to programme.");
   };
 
@@ -229,28 +235,60 @@ function EventEditorForm({
 
       <section className="grid gap-3 sm:grid-cols-2">
         <div className="space-y-2 rounded-lg border p-3">
-          <Label className="text-xs">Add from catalogue</Label>
-          <Select
-            value={lyricToAdd || undefined}
-            onValueChange={(value) => setLyricToAdd(String(value))}
-            items={catalogue.map((lyric) => ({ value: lyric.id, label: lyric.title }))}
+          <Label htmlFor="catalogue-search" className="text-xs">
+            Add from catalogue
+          </Label>
+          <LyricSearchInput
+            id="catalogue-search"
+            value={catalogueQuery}
+            onChange={setCatalogueQuery}
+            size="sm"
+            aria-label="Search catalogue"
+          />
+          <div
+            className="max-h-52 overflow-y-auto rounded-md border bg-background"
+            role="listbox"
+            aria-label="Catalogue results"
           >
-            <SelectTrigger className="w-full">
-              <SelectValue placeholder="Choose a lyric…" />
-            </SelectTrigger>
-            <SelectContent>
-              {catalogue.map((lyric) => (
-                <SelectItem key={lyric.id} value={lyric.id}>
-                  <span className={cn(isRtlText(lyric.title) && "urdu-title")}>{lyric.title}</span>
-                  <span className="ml-2 text-muted-foreground">· {lyric.type}</span>
-                </SelectItem>
-              ))}
-            </SelectContent>
-          </Select>
-          <Button size="sm" onClick={addLyric} disabled={!lyricToAdd}>
-            <Plus className="size-3.5" />
-            Add lyric
-          </Button>
+            {filteredCatalogue.length === 0 ? (
+              <p className="px-3 py-4 text-center text-xs text-muted-foreground">
+                No matches. Try another search.
+              </p>
+            ) : (
+              <ul className="divide-y">
+                {filteredCatalogue.map((lyric) => {
+                  const rtlTitle = isRtlText(lyric.title);
+                  return (
+                    <li key={lyric.id}>
+                      <button
+                        type="button"
+                        role="option"
+                        className="flex w-full items-center gap-2 px-2.5 py-2 transition-colors hover:bg-muted/60 focus-visible:bg-muted/60 focus-visible:outline-none"
+                        onClick={() => addLyric(lyric)}
+                      >
+                        <Plus className="size-3.5 shrink-0 text-muted-foreground" />
+                        <span
+                          className={cn(
+                            "min-w-0 flex-1 leading-snug",
+                            rtlTitle
+                              ? "urdu-title text-right text-sm"
+                              : "text-sm font-medium",
+                          )}
+                          dir={rtlTitle ? "rtl" : undefined}
+                          lang={rtlTitle ? "ur" : undefined}
+                        >
+                          {lyric.title}
+                        </span>
+                      </button>
+                    </li>
+                  );
+                })}
+              </ul>
+            )}
+          </div>
+          <p className="text-[0.7rem] text-muted-foreground">
+            {filteredCatalogue.length} of {catalogue.length} — tap a row to add
+          </p>
         </div>
 
         <div className="space-y-2 rounded-lg border p-3">
@@ -367,7 +405,12 @@ function SortableItem({
           <GripVertical className="size-4" />
         </button>
         <div className="min-w-0 flex-1 space-y-2">
-          <div className="flex flex-wrap items-center gap-2">
+          <div
+            className={cn(
+              "flex flex-wrap items-center gap-2",
+              rtlTitle && "flex-row-reverse justify-end",
+            )}
+          >
             <span className="text-xs tabular-nums text-muted-foreground">{index + 1}.</span>
             <p
               className={cn(

@@ -1,4 +1,5 @@
 import { STARTER_LIBRARY } from "./starter-library";
+import { matchesLyricQuery } from "@/lib/search/lyrics";
 import { PERSONALITIES, ISLAMIC_EVENTS, LYRIC_TYPES } from "@/lib/taxonomy";
 import type {
   Lyric,
@@ -82,13 +83,7 @@ export function matchesFilters(lyric: Lyric, filters: LyricFilters) {
   if (filters.event && !lyric.events.includes(filters.event)) return false;
   if (filters.poet && lyric.poet_name !== filters.poet) return false;
   if (filters.reciter && lyric.reciter_name !== filters.reciter) return false;
-  if (filters.q) {
-    const haystack = [lyric.title, lyric.title_roman, lyric.poet_name, lyric.reciter_name]
-      .filter(Boolean)
-      .join(" ")
-      .toLowerCase();
-    if (!haystack.includes(filters.q.toLowerCase())) return false;
-  }
+  if (filters.q && !matchesLyricQuery(lyric.id, filters.q)) return false;
   return true;
 }
 

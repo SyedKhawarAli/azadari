@@ -1,11 +1,11 @@
 "use client";
 
-import { Search, SlidersHorizontal, X } from "lucide-react";
+import { SlidersHorizontal, X } from "lucide-react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useEffect, useState, useTransition } from "react";
+import { LyricSearchInput } from "@/components/lyrics/lyric-search-input";
 import { ScriptToggle } from "@/components/lyrics/script-toggle";
 import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
 import {
   Popover,
   PopoverContent,
@@ -57,6 +57,10 @@ export function LyricFilters({ personalities, events, poets, reciters }: LyricFi
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [query]);
 
+  useEffect(() => {
+    setQuery(searchParams.get("q") ?? "");
+  }, [searchParams]);
+
   const filterKeys = ["type", "personality", "event", "poet", "reciter"] as const;
   const activeFilterCount = filterKeys.filter((key) => searchParams.get(key)).length;
 
@@ -69,16 +73,11 @@ export function LyricFilters({ personalities, events, poets, reciters }: LyricFi
 
   return (
     <div className="flex items-center gap-2" data-pending={pending ? "" : undefined}>
-      <div className="relative min-w-0 flex-1">
-        <Search className="pointer-events-none absolute top-1/2 left-2.5 size-4 -translate-y-1/2 text-muted-foreground" />
-        <Input
-          value={query}
-          onChange={(event) => setQuery(event.target.value)}
-          placeholder="Search title, poet, reciter…"
-          className="h-8 pl-8 text-sm sm:h-9"
-          aria-label="Search the library"
-        />
-      </div>
+      <LyricSearchInput
+        value={query}
+        onChange={setQuery}
+        aria-label="Search the library"
+      />
 
       <Popover>
         <PopoverTrigger
