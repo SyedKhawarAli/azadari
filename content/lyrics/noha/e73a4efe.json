@@ -1,0 +1,157 @@
+{
+  "id": "e73a4efe-1a22-5421-87f7-ac6ec2937298",
+  "title": "تیرے باجوں ویرن غازی انج شاماں پے گئیاں",
+  "title_roman": "Tere Bajon Veeran Ghazi Ainj Shaman Pay Gayian",
+  "type": "Noha",
+  "poet_name": "نعیم عباس نعیم، سعید صادق، سید مزمل، عدنان رضا",
+  "reciter_name": "علی زمین",
+  "scale_pitch": null,
+  "media_urls": [],
+  "personalities": [
+    "Abbas ibn Ali (AS)",
+    "Bibi Zainab (SA)"
+  ],
+  "events": [
+    "Karbala"
+  ],
+  "astai_chorus": {
+    "urdu": [
+      "تیرے باجوں ویرن غازیؑ انج شاماں پے گئیاں",
+      "میرا سر زخمی ہائے خون آلودہ وچ ٹھیاں رہ گئیاں"
+    ],
+    "roman": [
+      "Tere bajon veeran Ghazi ainj shaman pe gayian",
+      "Mera sir zakhmi haye khoon aalodah vich tthian reh gayian"
+    ]
+  },
+  "structure": [
+    {
+      "band_number": 1,
+      "band_type": "matla",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "تیرے باجوں ویرن غازیؑ انج شاماں پے گئیاں",
+          "roman": "Tere bajon veeran Ghazi ainj shaman pe gayian"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میرا سر زخمی ہائے خون آلودہ وچ ٹھیاں رہ گئیاں",
+          "roman": "Mera sir zakhmi haye khoon aalodah vich tthian reh gayian"
+        }
+      ]
+    },
+    {
+      "band_number": 2,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "سر توں چادر لہہ گئی ہائے میں روندی رہ گئی",
+          "roman": "Sir taun chadar lah gayi haye main rondi reh gayi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تیرے باجھ ویرن ہتھاں وچ میرے ہائے رسیاں پے گئیاں",
+          "roman": "Tere baajh veeran hathaan vich mere haye rasiyaan pe gayian"
+        }
+      ]
+    },
+    {
+      "band_number": 3,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے میں تکدی رہ گئی کیویں جیوندی رہ گئی",
+          "roman": "Haye main takdi reh gayi kiwein jiyondi reh gayi"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تیری لاش اتے جدوں تیریاں باہواں مینوں لبھڑیاں پے گئیاں",
+          "roman": "Teri laash utay jadon teriyan bahwaan mainu labhriyan pe gayian"
+        }
+      ]
+    },
+    {
+      "band_number": 4,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے درباراں وچ تنگ بازاراں وچ",
+          "roman": "Haye darbaraan vich tang bazaraan vich"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "میرا ناں لے کے او دینے صداواں مینوں سنڑنیاں پے گئیاں",
+          "roman": "Mera naan le ke oh dene sadawan mainu sanrniyan pe gayian"
+        }
+      ]
+    },
+    {
+      "band_number": 5,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "لعل اکبرؑ سی میرا کھا گئی کرب و بلا",
+          "roman": "Laal Akbar si mera kha gayi Karb-o-Bala"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "جو لکھیاں سنڑ صغراںؑ نے دعاواں او لکھیاں رہ گئیاں",
+          "roman": "Jo likhiyan sanr Saghran ne duawan oh likhiyan reh gayian"
+        }
+      ]
+    },
+    {
+      "band_number": 6,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے ولیلیٰ دیاں ویر جرنیل دیاں",
+          "roman": "Haye Walailiya diyan veer Jarnail diyan"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "نوں لکھ قاتل دے ہتھ وچ تکیاں او زلفاں رہ گئیاں",
+          "roman": "Noon lakh qatil de hath vich takiyan oh zulfaan reh gayian"
+        }
+      ]
+    },
+    {
+      "band_number": 7,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "دیوے بلدے سی جتھے لوک ہسدے سی جتھے",
+          "roman": "Dewe balde si jithay lok hasde si jithay"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "تیرے عابدؑ دی اکھیاں وچ ویرن او گلیاں رہ گئیاں",
+          "roman": "Tere Abid di akhiyan vich veeran oh galiyan reh gayian"
+        }
+      ]
+    },
+    {
+      "band_number": 8,
+      "band_type": "stanza",
+      "misras": [
+        {
+          "misra_number": 1,
+          "urdu": "ہائے قاسمؑ نا رہیا رو کے زینبؑ نے کنیا",
+          "roman": "Haye Qasim na rahiya ro ke Zainab ne kaniya"
+        },
+        {
+          "misra_number": 2,
+          "urdu": "انج بکھر گیا پھل تیرا فرواؑ بس کلیاں رہ گئیاں",
+          "roman": "Ainj bikhar gaya phul tera Farwa bas kaliyan reh gayian"
+        }
+      ]
+    }
+  ]
+}
